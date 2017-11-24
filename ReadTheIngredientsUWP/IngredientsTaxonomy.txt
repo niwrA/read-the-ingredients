@@ -1,0 +1,517 @@
+﻿en:salt
+fr:sel
+nl:zout
+
+en:sugar
+fr:sucre
+nl:suiker
+wikidata_id:11002
+
+en:water
+fr:eau
+nl:water
+wikidata_id:283
+
+en:emulsifier
+fr:emulsifiant
+nl:emulgator
+wikidata_id:907356
+
+en:citric acid
+fr:acide citrique
+nl:citroenzuur
+wikidata_id:159683
+
+en:milk
+nl:melk
+fr:lait
+wikidata_id:8495
+
+en:preservative
+nl:conserveermiddel
+fr:conservateur
+wikidata_id:274579
+
+en:palm-oil
+nl:palmolie
+fr:huile de palme
+
+en:iron
+nl:ijzer
+fr:fer
+
+en:colour
+nl:kleurstof
+fr:colorant
+
+en:coloring agents
+nl:kleurstoffen
+fr:colorants
+
+en:yeast
+nl:gist
+fr:levure
+
+en:glucose syrup
+nl:glucosesiroop,glucosestroop
+fr:sirop de glucose
+
+en:high-fructose corn syrup
+nl:glucose-fructosestroop,glucose-fructosesiroop
+fr:sirop de maïs riche en fructose
+
+en:flavouring
+nl:smaakstof
+fr:arôme
+
+en:sunflower-oil
+nl:zonnebloemolie
+fr:l'huile de tournesol
+
+en:sunflower
+nl:zonnebloem
+fr:tournesol
+
+en:dextrose
+nl:dextrose
+fr:dextrose
+
+en:cocoa-butter
+nl:cacaoboter
+fr:beurre de cacao
+
+en:cocoa-mass
+nl:cacao massa
+fr:masse de cacao
+
+en:soya-lecithin
+nl:sojalecithine
+fr:lécithine de soja
+
+en:lecithin
+nl:lecithine
+fr:lécithine
+
+en:nutmeg
+nl:nootmuskaat
+fr:noix de muscade
+
+en:ginger
+nl:gember
+fr:gingembre
+
+en:raisins
+nl:rozijnen
+fr:raisins secs
+
+en:coriander
+nl:koriander
+fr:coriandre
+
+en:molasses
+nl:melasse
+fr:mélasse
+
+en:vegetable-oil
+nl:plantaardige olie
+fr:huile végétale
+
+en:pepper
+nl:peper
+fr:poivre
+
+en:black-pepper
+nl:zwarte peper
+fr:poivre noir
+
+en:stabiliser
+nl:stabilisator
+fr:stabilisateur
+
+en:butter
+nl:boter
+fr:beurre
+
+en:cinnamon
+nl:kaneel
+fr:cannelle
+
+en:garlic
+nl:knoflook
+fr:ail
+
+en:antioxidant
+nl:antioxidant
+fr:antioxydant
+
+en:sea-salt
+nl:zeezout
+fr:sel de mer
+
+en:tomatoes
+nl:tomaten
+fr:tomates
+
+en:currants
+nl:krenten
+fr:raisins secs
+
+en:honey
+nl:honing
+fr:miel
+
+en:yeast-extract
+nl:gistextract
+fr:extrait de levure
+
+en:almonds
+nl:amandelen
+fr:amandes
+
+en:onion-powder
+nl:knoflookpoeder
+fr:poudre d'ail
+
+en:walnuts
+nl:walnoten
+fr:noix
+
+en:walnut
+nl:walnoot
+fr:noyer
+
+en:kitchen-salt
+nl:keukenzout
+fr:sel de cuisine
+
+en:hazelnut
+nl:hazelnoot
+fr:noisette
+
+en:sugar-cane
+nl:rietsuiker
+fr:canne à sucre
+
+en:Of biological origin.
+nl:Van biologische oorsprong.
+fr:D'origine biologique.
+
+en:zucchini
+nl:courgette
+fr:zucchini
+
+en:tomato
+nl:tomaat
+fr:tomate
+
+en:carrot
+nl:wortel
+fr:carotte
+
+en:cucumber
+nl:komkommer
+fr:concombre
+
+en:pointed pepper
+nl:puntpaprika
+fr:poivre pointu
+
+en:onion
+nl:ui
+fr:oignon
+
+en:onions
+nl:uien
+fr:oignons
+
+en:red onion
+nl:rode ui
+fr:oignon rouge
+
+en:red pepper
+nl:rode peper
+fr:poivron rouge
+
+en:coconut milk
+nl:kokosmelk
+fr:lait de coco
+
+en:coconut extract
+nl:kokosextract
+fr:extrait de noix de coco
+
+en:green pepper
+nl:groene peper
+fr:poivre vert
+
+en:cumin
+nl:komijn
+fr:cumin
+
+en:black mustard seed
+nl:zwarte mosterdzaad
+fr:graine de moutarde noire
+
+en:pepper
+nl:paprika
+fr:paprika
+
+en:pepper corns
+nl:peperkorrels
+fr:poivres
+
+en:white pepper
+nl:witte peper
+fr:poivre blanc
+
+en:bay leaf
+nl:laurierblad
+fr:feuille de laurier
+
+en:acidity-regulators
+nl:zuurteregelaar
+fr:régulateur d'acidité
+
+en:tomato juice
+nl:tomatensap
+fr:jus de tomate
+
+en:curry
+nl:kerrie
+fr:curry
+
+en:curry powder
+nl:kerriepoeder
+fr:poudre de curry
+
+en:chilli pepper
+nl:peper
+en-us:chili pepper
+fr:piment
+
+en:corn starch
+nl:maïszetmeel
+fr:maïzena
+
+en:modified corn starch
+nl:gemodificeerd maïszetmeel
+fr:amidon de maïs modifié
+
+en:acidifier
+nl:voedingszuur
+fr:acide alimentaire
+
+en:linseed
+nl:lijnzaad
+fr:graines de lin
+
+en:linseed oil
+nl:lijnzaad olie
+fr:l'huile de lin
+
+en:vegetable oil
+nl:plantaardige olie
+
+en:vegetable oils
+nl:plantaardige oliën,plantaardige olien
+fr:les huiles végétales
+
+en:rapeseed
+nl:koolzaad
+fr:colza
+
+en:palm
+nl:palm
+fr:paume
+
+en:fully hardened palm
+nl:volledig geharde palm,volledig gehard palm
+fr:palme totalement durcie
+
+en:yogurt
+nl:yoghurt
+fr:yoghurt
+
+en:modified starch
+nl:gemodificeerd zetmeel
+fr:amidon modifié
+
+en:calcium salts
+nl:calciumzouten
+fr:les sels de calcium
+
+en:emulsifiers
+nl:emulgatoren
+fr:émulsifiants
+
+en:mono- and diglycerides of fatty acids
+nl:mono- en diglyceriden van vetzuren
+fr:les mono- et diglycérides d'acides gras
+
+en:sunflower lecithin
+nl:zonnebloemlecithine
+fr:La lécithine de tournesol
+
+en:natural flavourings
+nl:natuurlijke aroma's
+fr:arômes naturels
+
+en:natural flavouring
+nl:natuurlijk aroma
+fr:arôme naturel
+
+en:vitamines
+nl:vitamines
+fr:vitamines
+
+en:thiamin
+nl:thiamine
+fr:thiamine
+
+en:riboflavin
+nl:riboflavine
+fr:riboflavine
+
+en:carotene
+nl:caroteen
+fr:carotène
+
+en:beta-carotene
+nl:beta-caroteen
+fr:le bêta-carotène
+
+en:peanut
+nl:pinda
+fr:cacahuète
+
+en:peanuts
+nl:pinda's
+fr:cacahuètes
+
+en:soy
+nl:soja
+fr:soja
+
+en:rapeseed
+nl:raapzaad,koolzaad
+fr:colza
+
+en:wheat
+nl:tarwe
+fr:blé
+
+en:rye
+nl:rogge
+fr:seigle
+
+en:barley
+nl:gerst
+fr:orge
+
+en:oats
+nl:haver
+fr:l'avoine
+
+en:cocos
+nl:kokos
+fr:noix de coco
+
+en:carmine
+nl:karmijnzuur,natuurlijk karmijnzuur
+fr:carmin de cochenille
+
+en:aroma
+nl:aroma
+fr:arôme
+
+en:gelatin
+nl:gelatine
+fr:gélatine
+
+en:porcine gelatin
+nl:varkensgelatine
+fr:gélatine porcine
+
+en:wheat starch
+nl:tarwezetmeel
+fr:amidon de blé
+
+en:liquorice root
+nl:zoethoutwortel
+fr:racine de réglisse
+
+en:liquorice root extract
+nl:zoethoutwortelextract
+fr:extrait de racine de réglisse
+
+en:ammonium chloride
+nl:salmiakzout
+fr:chlorure d'ammonium
+
+en:fully hardened palm
+nl:geheel gehard palmvet
+fr:entièrement hydrogénée graisse de palme
+
+en:aniseed oil
+nl:anijsolie
+fr:l'huile d'anis
+
+en:glazing agent
+nl:glansmiddel
+fr:azurant
+
+en:beeswax
+nl:bijenwas
+fr:cire d'abeille
+
+en:gelling agent
+nl:geleermiddel
+fr:l'agent gélifiant
+
+en:gum arabic
+nl:arabische gom
+fr:la gomme arabique
+
+en:cashew nuts
+nl:cashewnoten
+fr:noix de cajou
+
+en:spices
+nl:specerijen
+fr:epices
+
+en:cream
+nl:room
+fr:crème
+
+en:olive oil
+nl:olijfolie
+fr:huile d'olive
+
+en:basil
+nl:basilicum
+fr:basilic
+
+en:paprika-extract
+fr:extrait de paprika
+nl:paprikaextract
+
+nl:ham
+en:ham
+fr:jambon
+
+en:oeatmeal
+fr:flocons d'avoine
+nl:havermout
+
+fr:pépites de chocolat
+nl:chocoladevlokken
+en:chocolate chips
+
+nl:magere cacaopoeder
+fr:poudre de cacao maigre
+en:low fat cocoa powder
+
+nl:magere melkpoeder
+fr:poudre de lait demi-écrémé
+en:dried skimmed milk

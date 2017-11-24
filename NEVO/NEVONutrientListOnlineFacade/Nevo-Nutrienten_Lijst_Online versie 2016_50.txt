@@ -1,0 +1,136 @@
+01001  ENERC       Energie                         kcal      Energy
+01002  ENERC       Energie                         kJ        Energy
+02001  NT          Stikstof totaal                 g         Nitrogen total
+02002  PROT        Eiwit totaal                    g         Protein total
+02003  PROTPL      Eiwit plantaardig               g         Protein vegetable
+02004  PROTAN      Eiwit dierlijk                  g         Protein animal
+03001  FAT         Vet totaal                      g         Fat total
+03002  FACID       Som van de vetzuren             g         Fatty acids total
+03004  FASAT       Vetzuren totaal verzadigd       g         Fatty acids total saturated
+03006  FAMSCIS     Vetzuren enkelv onverz cis      g         Fatty acids tot mono unsat cis
+03008  FAPU        Vetzuren meerv onverz           g         Fatty acids total poly unsat
+03009  F18:2CN6    C18:2 n-6 cis (linolzuur)       g         C18:2 n-6 cis (linoleic acid)
+03010  ACEAC       C2:0                            %         C2:0
+03011  F4:0        C4:0                            %         C4:0
+03012  F6:0        C6:0                            %         C6:0
+03013  F8:0        C8:0                            %         C8:0
+03014  F10:0       C10:0                           %         C10:0
+03015  F10:1CIS    C10:1 cis totaal                %         C10:1 cis total
+03016  F11:0       C11:0                           %         C11:0
+03017  F12:0       C12:0                           %         C12:0
+03018  F12:1CIS    C12:1 cis totaal                %         C12:1 cis total
+03019  F13:0       C13:0                           %         C13:0
+03020  F14:0       C14:0                           %         C14:0
+03021  F14:1CIS    C14:1 cis totaal                %         C14:1 cis total
+03022  F14:1TRS    C14:1 trans totaal              %         C14:1 trans total
+03023  F15:0       C15:0                           %         C15:0
+03024  F16:0       C16:0                           %         C16:0
+03025  F16:1CIS    C16:1 cis totaal                %         C16:1 cis total
+03026  F16:1TRS    C16:1 trans totaal              %         C16:1 trans total
+03027  F10:1TRS    C10:1 trans totaal              %         C10:1 trans total
+03028  F17:0       C17:0                           %         C17:0
+03029  F18:0       C18:0                           %         C18:0
+03030  F18:1CIS    C18:1 cis totaal                %         C18:1 cis total
+03031  F18:1TRS    C18:1 trans totaal              %         C18:1 trans total
+03033  F18:3CN3    C18:3 n-3 cis (ALA)             %         C18:3 n-3 cis (ALA)
+03034  F18:2CT     C18:2 cis trans                 %         C18:2 cis trans
+03035  F19:0       C19:0                           %         C19:0
+03036  F20:0       C20:0                           %         C20:0
+03037  F20:1CIS    C20:1 cis totaal                %         C20:1 cis total
+03038  F20:2CN6    C20:2 n-6 cis                   %         C20:2 n-6 cis
+03039  F20:3CN3    C20:3 n-3 cis                   %         C20:3 n-3 cis
+03040  F20:4CN6    C20:4 n-6 cis                   %         C20:4 n-6 cis
+03041  F20:5CN3    C20:5 n-3 cis (EPA)             %         C20:5 n-3 cis (EPA)
+03042  F21:0       C21:0                           %         C21:0
+03043  F22:0       C22:0                           %         C22:0
+03044  F22:1CIS    C22:1 cis totaal                %         C22:1 cis total
+03045  F22:2CN3    C22:2 n-3 cis                   %         C22:2 n-3 cis
+03046  F22:3CN3    C22:3 n-3 cis                   %         C22:3 n-3 cis
+03047  F22:4CN6    C22:4 n-6 cis                   %         C22:4 n-6 cis
+03048  F22:5CN3    C22:5 n-3 cis (DPA)             %         C22:5 n-3 cis (DPA)
+03049  F22:6CN3    C22:6 n-3 cis (DHA)             %         C22:6 n-3 cis (DHA)
+03052  F18:2CN6    C18:2 n-6 cis (linolzuur)       %         C18:2 n-6 cis (linoleic acid)
+03053  F24:0       C24:0                           %         C24:0
+03054  F24:1CIS    C24:1 cis totaal                %         C24:1 cis total
+03055  F12:1TRS    C12:1 trans totaal              %         C12:1 trans total
+03057  F18:2R      C18:2 overigen                  %         C18:2 rest
+03058  F20:1TRS    C20:1 trans totaal              %         C20:1 trans total
+03059  F22:1TRS    C22:1 trans totaal              %         C22:1 trans total
+03060  F24:1TRS    C24:1 trans totaal              %         C24:1 trans total
+03061  FAUN        Niet-geidentificeerde vetzuren  %         Fatty acids unidentified
+03062  F18:3CN6    C18:3 n-6 cis                   %         C18:3 n-6 cis
+03065  F18:2TTN6   C18:2 n-6 trans                 %         C18:2 n-6 trans
+03089  F18:4CN3    C18:4 n-3 cis                   %         C18:4 n-3 cis
+03090  F20:4CN3    C20:4 n-3 cis                   %         C20:4 n-3 cis
+03103  F18:2CN9    C18:2 n-9 cis                   %         C18:2 n-9 cis
+03104  F20:3CN9    C20:3 n-9 cis                   %         C20:3 n-9 cis
+03105  F20:3CN6    C20:3 n-6 cis                   %         C20:3 n-6 cis
+03106  F22:2CN6    C22:2 n-6 cis                   %         C22:2 n-6 cis
+03107  F22:5CN6    C22:5 n-6 cis                   %         C22:5 n-6 cis
+03108  F23:0       C23:0                           %         C23:0
+03109  F24:2CN6    C24:2 n-6 cis                   %         C24:2 n-6 cis
+03113  FAPUXR      Movz rest c+t                   %         Pufa rest c+t
+03114  FASATXR     Verz vetz rest                  %         SFA rest
+03115  FAMSCXR     Eovz cis rest                   %         Mufa rest cis
+03116  FAMSTXR     Eovz trans rest                 %         Mufa rest trans
+03131  F18:3TTTN3  C18:3 n-3 trans                 %         C18:3 n-3 trans
+03133  F20:2TT     C20:2 n-6 trans                 %         C20:2 n-6 trans
+03134  F25:0       C25:0                           %         C25:0
+03135  F26:0       C26:0                           %         C26:0
+03136  FATRS       Vetzuren totaal trans           g         Fatty acids total trans
+03138  FAPUN3      Vetzuren n-3 meerv onverz cis   g         Pufa n-3 cis
+03139  FAPUN6      Vetzuren n-6 meerv onverz  cis  g         Pufa n-6 cis
+03140  F18:3CN3    C18:3 n-3 cis (ALA)             g         C18:3 n-3 cis (ALA)
+03141  F20:5CN3    C20:5 n-3 cis (EPA)             g         C20:5 n-3 cis (EPA)
+03142  F22:6CN3    C22:6 n-3 cis (DHA)             g         C22:6 n-3 cis (DHA)
+04001  CHORL       Cholesterol                     mg        Cholesterol
+05001  CHO         Koolhydraten totaal             g         Carbohydrates total
+05002  SUGAR       Mono en disacchariden totaal    g         Mono and disccharides total
+05010  STARCH      Polysacchariden totaal          g         Polysaccharides total
+05011  POLYL       Polyolen totaal                 g         Polyols total
+06001  FIBT        Voedingsvezel totaal            g         Dietary fibre total
+07001  WATER       Water                           g         Water
+08001  ALC         Alcohol totaal                  g         Alcohol total
+09001  CA          Calcium                         mg        Calcium
+09002  P           Fosfor                          mg        Phosphorus
+09003  FE          IJzer totaal                    mg        Iron total
+09004  HAEM        IJzer haem                      mg        Iron haem
+09005  NHAEM       IJzer non haem                  mg        Iron non haem
+09006  NA          Natrium                         mg        Sodium
+09007  K           Kalium                          mg        Potassium
+09008  MG          Magnesium                       mg        Magnesium
+09009  ZN          Zink                            mg        Zinc
+10001  SE          Selenium                        ug        Selenium
+10002  CU          Koper                           mg        Copper
+10003  ID          Jodium                          ug        Iodine
+11001  RETOL       Retinol                         ug        Retinol
+11002  VITA        Retinol equivalenten (RE)       ug        Retinol equivalents
+11003  CARTBTOT    Beta-caroteen                   ug        Beta-carotene
+11005  THIA        Vitamine B1                     mg        Vitamin B1
+11006  RIBF        Vitamine B2                     mg        Vitamin B2
+11007  VITB6       Vitamine B6                     mg        Vitamin B6
+11008  VITB12      Vitamine B12                    ug        Vitamin B12
+11009  VITD        Vitamine D totaal               ug        Vitamin D total
+11010  VITE        Vitamine E totaal               mg        Vitamin E total
+11011  VITC        Vitamine C                      mg        Vitamin C
+11012  FOLFD       Folaat                          ug        Folates
+11013  FOLAC       Foliumzuur                      ug        Folic acid
+11014  NIA         Nicotinezuur                    mg        Niacin
+11015  TOCPHA      Alfa-tocoferol                  mg        Alpha-tocoferol
+11016  TOCPHB      Beta-tocoferol                  mg        Beta-tocoferol
+11017  TOCPHG      Gamma-tocoferol                 mg        Gamma-tocoferol
+11018  TOCPHD      Delta-tocoferol                 mg        Delta-tocoferol
+11019  CHOCALOH    25-hydroxy-vitamine D           ug        25-hydroxy-vitamin D
+11020  CARTA       Alfa-caroteen                   ug        Alpha-carotene
+11021  LUTN        Luteine                         ug        Lutein
+11022  ZEA         Zeaxanthine                     ug        Zeaxanthin
+11023  CRYPXB      Beta-cryptoxanthine             ug        Beta-cryptoxanthin
+11024  LYCPN       Lycopeen                        ug        Lycopene
+11027  VITA        Retinol activiteit equiv.(RAE)  ug        Retinol activity equivalents
+11028  FOL         Folaat equivalenten             ug        Total dietary folate equiv.
+11035  VITK        Vitamine K totaal               ug        Vitamin K total
+11036  VITK1       Vitamine K1                     ug        Vitamin K1
+11038  VITK2       Vitamine K2                     ug        Vitamin K2
+11046  CHOCAL      Cholecalciferol - vit D3        ug        Cholecalciferol - vit D3
+12001  ASH         As                              g         Ash
+13006  OA          Organische zuren totaal         g         Organic acid total

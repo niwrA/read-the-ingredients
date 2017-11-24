@@ -1,0 +1,326 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTheIngredientsUWP", "ReadTheIngredientsUWP\ReadTheIngredientsUWP.csproj", "{901B75E5-32AE-4E6D-9571-A31B5AF5F362}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{464B8A16-C485-4578-9704-82B2BF723BD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UWP", "UWP", "{2D38FC6B-005C-459C-947D-EC270975D5D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenFoodFacts", "OpenFoodFacts", "{EA5FAA10-776E-41D7-8B72-0CC2CFA24574}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OpenFoodFactsContract", "OpenFoodFacts\OpenFoodFactsContract\OpenFoodFactsContract.shproj", "{10A61EDE-4D48-4848-85A0-164DB05D1008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFoodFactsFacadeUWP", "OpenFoodFacts\OpenFoodFactsFacadeUWP\OpenFoodFactsFacadeUWP.csproj", "{93508A80-106C-425E-B01E-5DC2CBAC9D06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductInfo", "ProductInfo", "{0399A981-F0E5-49CA-AA9B-A8B9305EC35F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedSources", "SharedSources", "{AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EUAdditivesLanguageNameImporterShared", "SharedSources\EUAdditivesLanguageNameImporterShared\EUAdditivesLanguageNameImporterShared.shproj", "{C73BA779-B009-442B-81A6-751487DA188B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EUAdditiveLanguageNamesShared", "SharedSources\EUAdditivesLanguageNamesShared\EUAdditiveLanguageNamesShared.shproj", "{DFA2125E-95C0-47BE-8EAD-86C8042E9EBD}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientLanguageNamesShared", "SharedSources\IngredientLanguageNamesShared\IngredientLanguageNamesShared.shproj", "{2DED2ACC-0F5E-4229-9EAC-12D8938E6396}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientLanguageNameTaxonomyImporterShared", "SharedSources\IngredientLanguageNameTaxonomyImporterShared\IngredientLanguageNameTaxonomyImporterShared.shproj", "{8CE6CA27-67F9-4C3B-AD3D-60E4A6BDA378}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientShared", "SharedSources\IngredientShared\IngredientShared.shproj", "{1C6E3E6A-960C-4533-A4D2-13FE9D7537B0}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientsParserShared", "SharedSources\IngredientsParserShared\IngredientsParserShared.shproj", "{122C76FC-FEEE-4B95-97DB-E193509573BE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NutrientLanguageNameImporterShared", "SharedSources\NutrientLanguageNameImporterShared\NutrientLanguageNameImporterShared.shproj", "{46A8C72D-AA11-4E76-A0A6-286501831027}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NutrientLanguageNameShared", "SharedSources\NutrientLanguageNameShared\NutrientLanguageNameShared.shproj", "{632307A3-0D90-4C7F-8BC9-DAA9DD62EF8A}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProductShared", "SharedSources\ProductShared\ProductShared.shproj", "{3DC0FB77-7754-4235-B225-3F6327998569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInfoUWP", "ProductInfo\ProductInfoUWP\ProductInfoUWP.csproj", "{EB8CD6BC-FB00-4D90-9A7B-E76325329857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NEVO", "NEVO", "{DE4F1179-6C25-43A1-A34E-92E3889CFDBE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NEVOContractShared", "NEVO\NEVOContractShared\NEVOContractShared.shproj", "{C6CC060F-C311-4929-AC52-4B0B0E9FDF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEVOFacadeUWP", "NEVO\NEVOFacadeUWP\NEVOFacadeUWP.csproj", "{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NEVOShared", "NEVO\NEVONutrientListOnlineFacade\NEVOShared.shproj", "{7B5E8F78-6E15-4777-90D0-FA0C0D6416AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{93046D4C-AE4C-4451-8327-1A65985CE1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngredientsParserTests", "Tests\IngredientsParserTests\IngredientsParserTests.csproj", "{88453CFB-5FF4-4D7F-A402-4166D057F946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngredientsTests", "Tests\IngredientsTests\IngredientsTests.csproj", "{FF302A88-65CB-4870-9B76-5B980F7A5D86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedControllers", "SharedControllers", "{561E992E-977F-44BC-80FD-A1150CB3A934}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProductsControllerShared", "ProductsControllerShared\ProductsControllerShared.shproj", "{776F99CC-00B4-48D9-9A9D-805B99CEFC6C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "LinkToWikiDataItemShared", "LinkToWikiDataItemShared\LinkToWikiDataItemShared.shproj", "{F4FF1427-3B54-4F0F-AE85-9A2C78D93CF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WikiData", "WikiData", "{EB1836CF-6284-43A8-B6A8-F143376050E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiAccessUWP", "WikiData\WikiAccessUWP\WikiAccessUWP.csproj", "{98FA82DC-11B6-49CA-9649-69BEA41C4708}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "WikiAccessShared", "WikiData\WikiAccess\WikiAccessShared.shproj", "{0E77C608-8481-49AB-9955-9E6FC2582667}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "WikiAccessFacadeShared", "WikiAccessFacadeShared\WikiAccessFacadeShared.shproj", "{7FA78B94-A09B-4843-AADB-D90F7EF89B79}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UserSettingsControllerShared", "UserSettingsControllerShared\UserSettingsControllerShared.shproj", "{2298D908-1CD3-46A1-B636-B2ED529CA2E4}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UserSettingsShared", "UserSettingsShared\UserSettingsShared.shproj", "{9B12EB5E-26D7-42EC-8CB0-9A12776C6485}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Product", "Product", "{B07618A9-0F05-4EE3-876D-BF5D94B03766}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserSettings", "UserSettings", "{A48A2FCA-1872-4F82-9CD7-DB84A3BEFC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsControllerTests", "ProductsControllerTests\ProductsControllerTests.csproj", "{32B2426D-794A-4160-BE39-6E519FC81110}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientImagesShared", "IngredientImagesShared\IngredientImagesShared.shproj", "{6868646B-E718-476F-9F34-45B69E174486}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "IngredientImageImporterShared", "IngredientImageImporterShared\IngredientImageImporterShared.shproj", "{0525A790-489D-4595-B19C-2E7BD48870F1}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AddOFFProductControllerShared", "AddOFFProductControllerShared\AddOFFProductControllerShared.shproj", "{47A46AF3-681D-46F5-A466-CC70FD67BD8C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		IngredientImageImporterShared\IngredientImageImporterShared.projitems*{0525a790-489d-4595-b19c-2e7bd48870f1}*SharedItemsImports = 13
+		WikiData\WikiAccess\WikiAccessShared.projitems*{0e77c608-8481-49ab-9955-9e6fc2582667}*SharedItemsImports = 13
+		OpenFoodFacts\OpenFoodFactsContract\OpenFoodFactsContract.projitems*{10a61ede-4d48-4848-85a0-164db05d1008}*SharedItemsImports = 13
+		SharedSources\IngredientsParserShared\IngredientsParserShared.projitems*{122c76fc-feee-4b95-97db-e193509573be}*SharedItemsImports = 13
+		SharedSources\IngredientShared\IngredientShared.projitems*{1c6e3e6a-960c-4533-a4d2-13fe9d7537b0}*SharedItemsImports = 13
+		UserSettingsControllerShared\UserSettingsControllerShared.projitems*{2298d908-1cd3-46a1-b636-b2ed529ca2e4}*SharedItemsImports = 13
+		SharedSources\IngredientLanguageNamesShared\IngredientLanguageNamesShared.projitems*{2ded2acc-0f5e-4229-9eac-12d8938e6396}*SharedItemsImports = 13
+		IngredientImagesShared\IngredientImagesShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		OpenFoodFacts\OpenFoodFactsContract\OpenFoodFactsContract.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		ProductsControllerShared\ProductsControllerShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\EUAdditivesLanguageNamesShared\EUAdditivesLanguageNamesShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\IngredientLanguageNamesShared\IngredientLanguageNamesShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\IngredientShared\IngredientShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\IngredientsParserShared\IngredientsParserShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\NutrientLanguageNameShared\NutrientLanguageNameShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		UserSettingsControllerShared\UserSettingsControllerShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		UserSettingsShared\UserSettingsShared.projitems*{32b2426d-794a-4160-be39-6e519fc81110}*SharedItemsImports = 4
+		SharedSources\ProductShared\ProductShared.projitems*{3dc0fb77-7754-4235-b225-3f6327998569}*SharedItemsImports = 13
+		NEVO\NEVONutrientListOnlineFacade\NEVONutrientListOnlineFacade.projitems*{45a76db0-d886-4bc6-9dae-0e3c64ed5e79}*SharedItemsImports = 4
+		SharedSources\NutrientLanguageNameImporterShared\NutrientLanguageNameImporterShared.projitems*{46a8c72d-aa11-4e76-a0a6-286501831027}*SharedItemsImports = 13
+		AddOFFProductControllerShared\AddOFFProductControllerShared.projitems*{47a46af3-681d-46f5-a466-cc70fd67bd8c}*SharedItemsImports = 13
+		SharedSources\NutrientLanguageNameShared\NutrientLanguageNameShared.projitems*{632307a3-0d90-4c7f-8bc9-daa9dd62ef8a}*SharedItemsImports = 13
+		IngredientImagesShared\IngredientImagesShared.projitems*{6868646b-e718-476f-9f34-45b69e174486}*SharedItemsImports = 13
+		ProductsControllerShared\ProductsControllerShared.projitems*{776f99cc-00b4-48d9-9a9d-805b99cefc6c}*SharedItemsImports = 13
+		NEVO\NEVONutrientListOnlineFacade\NEVONutrientListOnlineFacade.projitems*{7b5e8f78-6e15-4777-90d0-fa0c0d6416ae}*SharedItemsImports = 13
+		WikiAccessFacadeShared\WikiAccessFacadeShared.projitems*{7fa78b94-a09b-4843-aadb-d90f7ef89b79}*SharedItemsImports = 13
+		SharedSources\IngredientsParserShared\IngredientsParserShared.projitems*{88453cfb-5ff4-4d7f-a402-4166d057f946}*SharedItemsImports = 4
+		SharedSources\IngredientLanguageNameTaxonomyImporterShared\IngredientLanguageNameTaxonomyImporterShared.projitems*{8ce6ca27-67f9-4c3b-ad3d-60e4a6bda378}*SharedItemsImports = 13
+		ProductsControllerShared\ProductsControllerShared.projitems*{901b75e5-32ae-4e6d-9571-a31b5af5f362}*SharedItemsImports = 4
+		UserSettingsControllerShared\UserSettingsControllerShared.projitems*{901b75e5-32ae-4e6d-9571-a31b5af5f362}*SharedItemsImports = 4
+		OpenFoodFacts\OpenFoodFactsContract\OpenFoodFactsContract.projitems*{93508a80-106c-425e-b01e-5dc2cbac9d06}*SharedItemsImports = 4
+		WikiData\WikiAccess\WikiAccessShared.projitems*{98fa82dc-11b6-49ca-9649-69bea41c4708}*SharedItemsImports = 4
+		UserSettingsShared\UserSettingsShared.projitems*{9b12eb5e-26d7-42ec-8cb0-9a12776c6485}*SharedItemsImports = 13
+		NEVO\NEVOContractShared\NEVOContractShared.projitems*{c6cc060f-c311-4929-ac52-4b0b0e9fdf13}*SharedItemsImports = 13
+		SharedSources\EUAdditivesLanguageNameImporterShared\EUAdditivesLanguageNameImporterShared.projitems*{c73ba779-b009-442b-81a6-751487da188b}*SharedItemsImports = 13
+		SharedSources\EUAdditivesLanguageNamesShared\EUAdditivesLanguageNamesShared.projitems*{dfa2125e-95c0-47be-8ead-86c8042e9ebd}*SharedItemsImports = 13
+		IngredientImageImporterShared\IngredientImageImporterShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		IngredientImagesShared\IngredientImagesShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		LinkToWikiDataItemShared\LinkToWikiDataItemShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\EUAdditivesLanguageNameImporterShared\EUAdditivesLanguageNameImporterShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\EUAdditivesLanguageNamesShared\EUAdditivesLanguageNamesShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\IngredientLanguageNamesShared\IngredientLanguageNamesShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\IngredientLanguageNameTaxonomyImporterShared\IngredientLanguageNameTaxonomyImporterShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\IngredientShared\IngredientShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\IngredientsParserShared\IngredientsParserShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\NutrientLanguageNameImporterShared\NutrientLanguageNameImporterShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		SharedSources\NutrientLanguageNameShared\NutrientLanguageNameShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		UserSettingsShared\UserSettingsShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		WikiAccessFacadeShared\WikiAccessFacadeShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		WikiData\WikiAccess\WikiAccessShared.projitems*{eb8cd6bc-fb00-4d90-9a7b-e76325329857}*SharedItemsImports = 4
+		LinkToWikiDataItemShared\LinkToWikiDataItemShared.projitems*{f4ff1427-3b54-4f0f-ae85-9a2c78d93cf8}*SharedItemsImports = 13
+		SharedSources\IngredientLanguageNamesShared\IngredientLanguageNamesShared.projitems*{ff302a88-65cb-4870-9b76-5b980f7a5d86}*SharedItemsImports = 4
+		SharedSources\IngredientShared\IngredientShared.projitems*{ff302a88-65cb-4870-9b76-5b980f7a5d86}*SharedItemsImports = 4
+		SharedSources\IngredientsParserShared\IngredientsParserShared.projitems*{ff302a88-65cb-4870-9b76-5b980f7a5d86}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|ARM.ActiveCfg = Debug|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|ARM.Build.0 = Debug|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|ARM.Deploy.0 = Debug|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x64.ActiveCfg = Debug|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x64.Build.0 = Debug|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x64.Deploy.0 = Debug|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x86.ActiveCfg = Debug|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x86.Build.0 = Debug|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Debug|x86.Deploy.0 = Debug|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|Any CPU.ActiveCfg = Release|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|Any CPU.Build.0 = Release|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|ARM.ActiveCfg = Release|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|ARM.Build.0 = Release|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|ARM.Deploy.0 = Release|ARM
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x64.ActiveCfg = Release|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x64.Build.0 = Release|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x64.Deploy.0 = Release|x64
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x86.ActiveCfg = Release|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x86.Build.0 = Release|x86
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362}.Release|x86.Deploy.0 = Release|x86
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|ARM.ActiveCfg = Debug|ARM
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|ARM.Build.0 = Debug|ARM
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|x64.ActiveCfg = Debug|x64
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|x64.Build.0 = Debug|x64
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|x86.ActiveCfg = Debug|x86
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Debug|x86.Build.0 = Debug|x86
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|ARM.ActiveCfg = Release|ARM
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|ARM.Build.0 = Release|ARM
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|x64.ActiveCfg = Release|x64
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|x64.Build.0 = Release|x64
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|x86.ActiveCfg = Release|Any CPU
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06}.Release|x86.Build.0 = Release|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|ARM.Build.0 = Debug|ARM
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|x64.ActiveCfg = Debug|x64
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|x64.Build.0 = Debug|x64
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|x86.ActiveCfg = Debug|x86
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Debug|x86.Build.0 = Debug|x86
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|ARM.ActiveCfg = Release|ARM
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|ARM.Build.0 = Release|ARM
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|x64.ActiveCfg = Release|x64
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|x64.Build.0 = Release|x64
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857}.Release|x86.Build.0 = Release|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|ARM.ActiveCfg = Debug|ARM
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|ARM.Build.0 = Debug|ARM
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|x64.ActiveCfg = Debug|x64
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|x64.Build.0 = Debug|x64
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|x86.ActiveCfg = Debug|x86
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Debug|x86.Build.0 = Debug|x86
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|ARM.ActiveCfg = Release|ARM
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|ARM.Build.0 = Release|ARM
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|x64.ActiveCfg = Release|x64
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|x64.Build.0 = Release|x64
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|x86.ActiveCfg = Release|Any CPU
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79}.Release|x86.Build.0 = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|ARM.Build.0 = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|x64.Build.0 = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Debug|x86.Build.0 = Debug|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|ARM.ActiveCfg = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|ARM.Build.0 = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|x64.ActiveCfg = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|x64.Build.0 = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|x86.ActiveCfg = Release|Any CPU
+		{88453CFB-5FF4-4D7F-A402-4166D057F946}.Release|x86.Build.0 = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|ARM.Build.0 = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|x64.Build.0 = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Debug|x86.Build.0 = Debug|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|ARM.Build.0 = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|x64.ActiveCfg = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|x64.Build.0 = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86}.Release|x86.Build.0 = Release|Any CPU
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|ARM.ActiveCfg = Debug|ARM
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|ARM.Build.0 = Debug|ARM
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|x64.ActiveCfg = Debug|x64
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|x64.Build.0 = Debug|x64
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|x86.ActiveCfg = Debug|x86
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Debug|x86.Build.0 = Debug|x86
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|ARM.ActiveCfg = Release|ARM
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|ARM.Build.0 = Release|ARM
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|x64.ActiveCfg = Release|x64
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|x64.Build.0 = Release|x64
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|x86.ActiveCfg = Release|x86
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708}.Release|x86.Build.0 = Release|x86
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|ARM.Build.0 = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|x64.Build.0 = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Debug|x86.Build.0 = Debug|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|ARM.ActiveCfg = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|ARM.Build.0 = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|x64.ActiveCfg = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|x64.Build.0 = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|x86.ActiveCfg = Release|Any CPU
+		{32B2426D-794A-4160-BE39-6E519FC81110}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{901B75E5-32AE-4E6D-9571-A31B5AF5F362} = {2D38FC6B-005C-459C-947D-EC270975D5D1}
+		{2D38FC6B-005C-459C-947D-EC270975D5D1} = {464B8A16-C485-4578-9704-82B2BF723BD3}
+		{10A61EDE-4D48-4848-85A0-164DB05D1008} = {EA5FAA10-776E-41D7-8B72-0CC2CFA24574}
+		{93508A80-106C-425E-B01E-5DC2CBAC9D06} = {EA5FAA10-776E-41D7-8B72-0CC2CFA24574}
+		{C73BA779-B009-442B-81A6-751487DA188B} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{DFA2125E-95C0-47BE-8EAD-86C8042E9EBD} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{2DED2ACC-0F5E-4229-9EAC-12D8938E6396} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{8CE6CA27-67F9-4C3B-AD3D-60E4A6BDA378} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{1C6E3E6A-960C-4533-A4D2-13FE9D7537B0} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{122C76FC-FEEE-4B95-97DB-E193509573BE} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{46A8C72D-AA11-4E76-A0A6-286501831027} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{632307A3-0D90-4C7F-8BC9-DAA9DD62EF8A} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{3DC0FB77-7754-4235-B225-3F6327998569} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{EB8CD6BC-FB00-4D90-9A7B-E76325329857} = {0399A981-F0E5-49CA-AA9B-A8B9305EC35F}
+		{C6CC060F-C311-4929-AC52-4B0B0E9FDF13} = {DE4F1179-6C25-43A1-A34E-92E3889CFDBE}
+		{45A76DB0-D886-4BC6-9DAE-0E3C64ED5E79} = {DE4F1179-6C25-43A1-A34E-92E3889CFDBE}
+		{7B5E8F78-6E15-4777-90D0-FA0C0D6416AE} = {DE4F1179-6C25-43A1-A34E-92E3889CFDBE}
+		{88453CFB-5FF4-4D7F-A402-4166D057F946} = {93046D4C-AE4C-4451-8327-1A65985CE1B0}
+		{FF302A88-65CB-4870-9B76-5B980F7A5D86} = {93046D4C-AE4C-4451-8327-1A65985CE1B0}
+		{561E992E-977F-44BC-80FD-A1150CB3A934} = {464B8A16-C485-4578-9704-82B2BF723BD3}
+		{776F99CC-00B4-48D9-9A9D-805B99CEFC6C} = {B07618A9-0F05-4EE3-876D-BF5D94B03766}
+		{F4FF1427-3B54-4F0F-AE85-9A2C78D93CF8} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{98FA82DC-11B6-49CA-9649-69BEA41C4708} = {EB1836CF-6284-43A8-B6A8-F143376050E1}
+		{0E77C608-8481-49AB-9955-9E6FC2582667} = {EB1836CF-6284-43A8-B6A8-F143376050E1}
+		{7FA78B94-A09B-4843-AADB-D90F7EF89B79} = {EB1836CF-6284-43A8-B6A8-F143376050E1}
+		{2298D908-1CD3-46A1-B636-B2ED529CA2E4} = {A48A2FCA-1872-4F82-9CD7-DB84A3BEFC79}
+		{9B12EB5E-26D7-42EC-8CB0-9A12776C6485} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{B07618A9-0F05-4EE3-876D-BF5D94B03766} = {561E992E-977F-44BC-80FD-A1150CB3A934}
+		{A48A2FCA-1872-4F82-9CD7-DB84A3BEFC79} = {561E992E-977F-44BC-80FD-A1150CB3A934}
+		{32B2426D-794A-4160-BE39-6E519FC81110} = {B07618A9-0F05-4EE3-876D-BF5D94B03766}
+		{6868646B-E718-476F-9F34-45B69E174486} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{0525A790-489D-4595-B19C-2E7BD48870F1} = {AB29AB7E-0FE2-4EB0-8FF4-8079C3E8F286}
+		{47A46AF3-681D-46F5-A466-CC70FD67BD8C} = {B07618A9-0F05-4EE3-876D-BF5D94B03766}
+	EndGlobalSection
+EndGlobal

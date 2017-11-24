@@ -1,0 +1,44 @@
+﻿<UserControl
+    x:Class="ReadTheIngredientsUWP.Controls.ProductNutrientsListControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ReadTheIngredientsUWP.Controls"
+    xmlns:conv="using:ReadTheIngredientsUWP.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    <UserControl.Resources>
+        <conv:BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter"></conv:BooleanToVisibilityConverter>
+        <DataTemplate x:Key="NutrientTemplate">
+            <ListViewItem HorizontalContentAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60"></ColumnDefinition>
+                        <ColumnDefinition Width="40"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="2" TextWrapping="Wrap"  Style="{StaticResource TitleTextBlockStyle}">
+                        <Run Text="{Binding Path=DisplayName}"></Run>
+                    </TextBlock>
+                    <!--<StackPanel  Orientation="Horizontal">
+                    <TextBlock Visibility="{Binding Path=IsSubCategory, Converter={StaticResource BoolToVisibilityConverter}}" TextWrapping="Wrap"  Style="{StaticResource TitleTextBlockStyle}" Margin="10,0,0,0"></TextBlock>
+                </StackPanel>-->
+                    <TextBlock HorizontalAlignment="Right" Margin="0,0,6,0"  Grid.Column="0" TextWrapping="Wrap" Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=DisplayValue}"></TextBlock>
+                    <TextBlock  Grid.Column="1" TextWrapping="Wrap" Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=Unit}"></TextBlock>
+                </Grid>
+
+            </ListViewItem>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListView Grid.Row="1" HorizontalContentAlignment="Stretch" x:Name="NutrientsTable" ItemsSource="{Binding Path=Nutrients}" ItemTemplate="{StaticResource NutrientTemplate}">
+        </ListView>
+
+    </Grid>
+</UserControl>

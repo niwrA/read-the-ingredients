@@ -1,0 +1,2431 @@
+﻿label:alcohol
+	fr:Alcool
+	en:Alcohol
+	es:Alcohol
+	ar:الكحوليات
+	unit:% vol
+	it:Alcol
+	pt:Álcool
+	de:Alkohol
+	he:אלכוהול
+	ga:Alcól
+	da:Alkohol
+	el:Αλκοόλη
+	fi:Alkoholi
+	nl:Alcohol
+	nl_be:Alcohol
+	sv:Alkohol
+	lv:spirts
+	cs:Alkohol
+	et:Alkohol
+	hu:Alkohol
+	pl:Alkohol
+	sl:Alkohol
+	lt:Alkoholis
+	mt:Alkoħol
+	sk:Alkohol
+	ro:Alcool
+	bg:Алкохол
+	ru:Алкоголь
+	zh:酒精度
+	zh-TW:酒精
+	zh-HK:酒精
+	zh-CN:酒精
+	order:123
+
+label:energy
+	fr:Énergie
+	en:Energy
+	es:Energía
+	ar:الطاقه
+	it:Energia
+	pt:Energia
+	de:Energie
+	he:אנרגיה - קלוריות
+	ga:Fuinneamh
+	da:Energi
+	el:Ενέργεια
+	fi:Energiav
+	nl:Energie
+	nl_be:Energie
+	sv:Energi
+	lv:Enerģētiskā vērtība
+	cs:Energetická hodnota
+	et:Energia
+	hu:Energia
+	pl:Wartość energetyczna
+	sl:Energijska vrednost
+	lt:Energinė vertė
+	mt:Enerġija
+	sk:Energetická hodnota
+	ro:Valoarea energetică
+	bg:Енергийна стойност
+	ru:Энергетическая ценность
+	zh:能量
+	ja:エネルギー
+	zh-TW:能量
+	zh-HK:能量
+	zh-CN:能量
+	unit:kj
+	unit_us:kcal
+	unit_ca:kcal
+	order:1
+
+label:energy-from-fat
+	fr:Énergie provenant des graisses
+	en:Energy from fat
+	ru:Энергетическая ценность жиров
+	zh:来自脂肪的能量
+	zh-TW:來自脂肪的能量
+	zh-HK:來自脂肪的能量
+	zh-CN:来自脂肪的能量
+	unit:kj
+	unit_us:kcal
+	unit_ca:kcal
+	order:10
+
+
+label:proteins
+	fr:Protéines
+	en:Proteins
+	es:Proteínas
+	ar:البروتين
+	it:Proteine
+	pt:Proteínas
+	he:חלבונים
+	ga:Próitéin
+	de:Eiweiß
+	da:Protein
+	el:Πρωτεΐνες
+	fi:Proteiini
+	nl:Eiwitten
+	nl_be:Eiwitten
+	sv:Protein
+	lv:Olbaltumvielas
+	cs:Bílkoviny
+	et:Valgud
+	hu:Fehérje
+	pl:Białko
+	sl:Beljakovine
+	lt:Baltymai
+	mt:Proteini
+	sk:Bielkoviny
+	ro:Proteine
+	bg:Белтъци
+	ru:Белки
+	zh:蛋白质
+	ja:たんぱく質
+	zh:蛋白质
+	zh-TW:蛋白質
+	zh-HK:蛋白質
+	zh-CN:蛋白质
+	order:50
+
+label:casein
+pl:Kazeina
+eu:Kaseina
+he:קזאין
+fr:Caséine
+ko:카세인
+es:Caseína
+it:Caseina
+de:Casein
+ja:カゼイン
+nl:Caseïne
+nl_be:Caseïne
+sv:Kasein
+ar:كازين
+pt:Caseína
+ru:Казеин
+hy:Կազեին
+sr_el:Kazein
+sr_ec:Казеин
+en:casein
+tr:Kazein
+ro:Cazeină
+ca:Caseïna
+fi:Kaseiini
+uk:Казеїн
+cy:Casein
+sl:Kazein
+nn:Kasein
+cs:Kasein
+io:Kazeino
+fa:کازئین
+da:Kasein
+kk_arab:كازەىين
+kk_cn:كازەىين
+kk_tr:Kazeïn
+kk_kz:Казеин
+kk_cyrl:Казеин
+kk_latn:Kazeïn
+kk:Казеин
+sr:казеин
+eo:Kazeino
+gl:Caseína
+be:Казеін
+nb:Kasein
+hu:Kazein
+sco:casein
+zh:酪蛋白
+bg:Казеин
+id:Kasein
+ga:Cáiséin
+sh:Kazein
+scn:Caseina
+gsw:Casein
+zh:酪蛋白
+zh-TW:酪蛋白
+zh-HK:酪蛋白
+zh-CN:酪蛋白
+order:123
+
+
+label:nucleotides
+	fr:Nucléotides
+	en:Nucleotides
+	nl:Nucleotiden
+	nl_be:Nucleotiden
+	el:Νουκλεοτίδια
+	zh:核苷酸
+	zh-TW:核苷酸
+	zh-HK:核苷酸
+	zh-CN:核苷酸
+	order:123
+
+label:serum-proteins
+	fr:Protéines sériques
+	en:Serum proteins
+	nl:Plasmaproteïnen
+	nl_be:Plasmaproteïnen
+	el:Πρωτεΐνες ορού
+	zh:血清蛋白
+	zh-TW:血清蛋白
+	zh-HK:血清蛋白
+	zh-CN:血清蛋白
+	order:44
+
+label:carbohydrates
+	fr:Glucides
+	en:Carbohydrate
+	es:Hidratos de carbono
+	ar:الكاربوهايدريد
+	it:Carboidrati
+	pt:Carboidratos
+	pt_pt:Hidratos de carbono
+	de:Kohlenhydrate
+	he:פחמימות
+	ga:Carbaihiodráit
+	da:Kulhydrat
+	el:Υδατάνθρακες
+	fi:Hiilihydraatti
+	nl:Koolhydraten
+	nl_be:Koolhydraten
+	sv:Kolhydrat
+	lv:Ogļhidrāti
+	cs:Sacharidy
+	et:Süsivesikud
+	hu:Szénhidrát
+	pl:Węglowodany
+	sl:Ogljikove hidrate
+	lt:Angliavandeniai
+	mt:Karboidrati
+	sk:Sacharidy
+	ro:gGlucide
+	ru:Углеводы
+	bg:Въглехидрати
+	zh:碳水化合物
+	ja:炭水化物
+	zh-TW:碳水化合物
+	zh-HK:碳水化合物
+	zh-CN:碳水化合物
+	order:30
+
+label:sugars
+	fr:Sucres
+	en:Sugars
+	ja:糖類
+	es:Azúcares
+	ar:السكر
+	it:Zuccheri
+	pt:Açúcares
+	de:Zucker
+	he:סוכר
+	ga:Siúcraí
+	da:Sukkerarter
+	el:Σάκχαρα
+	fi:Sokerit
+	nl:Suikers
+	nl_be:Suikers
+	sv:Sockerarter
+	lv:Cukuri
+	cs:Cukryv
+	et:Suhkrud
+	hu:Cukrok
+	pl:Cukry
+	sl:Sladkorjev
+	lt:Cukrūs
+	mt:Zokkor
+	sk:Cukry
+	ro:Zaharuri
+	ru:Сахара
+	bg:Захари
+	zh:糖
+	zh-TW:糖類
+	zh-HK:糖類
+	zh-CN:糖类
+	order:31
+
+label:sucrose
+	fr:Saccharose
+	en:Sucrose
+	es:Sacarosa
+	el:Σουκρόζη
+	pt:Sacarose
+	he:סוכרוז
+	de:Saccharose
+	nl:Sucrose
+	nl_be:Sucrose
+	ru:Сахароза
+	zh:蔗糖
+	zh-TW:蔗糖
+	zh-HK:蔗糖
+	zh-CN:蔗糖
+	order:32
+
+label:glucose
+	fr:Glucose
+	en:Glucose
+	el:Γλυκόζη
+	pt:Glucose
+	es:Glucosa
+	he:גלוקוז
+	de:Traubenzucker
+	nl:Glucose
+	nl_be:Glucose
+	ru:Глюкоза (декстроза)
+	zh:葡萄糖
+	zh-TW:葡萄糖
+	zh-HK:葡萄糖
+	zh-CN:葡萄糖
+	order:33
+
+label:fructose
+	fr:Fructose
+	pt:Frutose
+	en:Fructose
+	es:Fructosa
+	el:Φρουκτόζη
+	he:פרוקטוז
+	de:Fruchtzucker
+	nl:Fructose
+	nl_be:Fructose
+	ru:Фруктоза
+	zh:果糖
+	zh-TW:果糖
+	zh-HK:果糖
+	zh-CN:果糖
+	order:34
+
+label:lactose
+	fr:Lactose
+	en:Lactose
+	pt:Lactose
+	es:Lactosa
+	el:Λακτόζη
+	he:לקטוז
+	de:Laktose
+	nl:Lactose
+	nl_be:Lactose
+	ru:Лактоза
+	zh:乳糖
+	zh-TW:乳糖
+	zh-HK:乳糖
+	zh-CN:乳糖
+	order:35
+
+label:maltose
+	fr:Maltose
+	en:Maltose
+	el:Μαλτόζη
+	pt:Maltose
+	es:Maltosa
+	he:מלטוז
+	de:Malzzucker
+	nl:Maltose
+	nl_be:Maltose
+	ru:Мальтоза
+	zh:麦芽糖
+	zh-TW:麥芽糖
+	zh-HK:麥芽糖
+	zh-CN:麦芽糖
+	order:36
+
+label:maltodextrins
+	fr:Maltodextrines
+	en:Maltodextrins
+	pt:Maltodextrinas
+	es:Maltodextrinas
+	el:Μαλτοδεξτρίνες
+	he:מלטודקסטרינים
+	nl:Maltodextrine
+	nl_be:Maltodextrine
+	ru:Мальтодекстрин
+	zh:麦芽糊精
+	zh-TW:麥芽糊精
+	zh-HK:麥芽糊精
+	zh-CN:麦芽糊精
+	order:37
+
+label:starch
+	fr:Amidon
+	en:Starch
+	es:Almidón
+	it:Amido
+	pt:Amido
+	de:Stärke
+	he:עמילן
+	ga:Stáirse
+	da:Stivelse
+	el:Άμυλο
+	fi:Tärkkelys
+	nl:Zetmeel
+	nl_be:Zetmeel
+	sv:Stärkelse
+	lv:Ciete
+	cs:Škrob
+	et:Tärklis
+	hu:Keményítő
+	pl:Skrobia
+	sl:Škroba
+	lt:Krakmolo
+	mt:Lamtu
+	sk:Škrob
+	ro:Amidon
+	ru:Крахмал
+	bg:Скорбяла
+	zh:淀粉
+	zh-TW:澱粉
+	zh-HK:澱粉
+	zh-CN:淀粉
+
+label:polyols
+	fr:Polyols
+	en:Sugar alcohols (Polyols)
+	es:Azúcares alcohólicos (Polialcoholes)
+	it:Polialcoli/polioli (alcoli degli zuccheri)
+	de:mehrwertige Alkohole (Polyole)
+	pt:Açúcares alcoólicos (poliálcools, polióis)
+	he:סוכר אלכוהולי (פוליאול)
+	ga:Polóil
+	da:Polyoler
+	el:Πολυόλες
+	fi:Polyolit
+	nl:Polyolen
+	nl_be:Polyolen
+	sv:Polyoler
+	lv:Polioli
+	cs:Polyalkoholy
+	et:Polüoolid
+	hu:Poliolok
+	pl:Alkohole wielowodorotlenowe
+	sl:Poliolov
+	lt:Poliolių
+	mt:Polioli
+	sk:Alkoholické cukry (polyoly)
+	ro:Polioli
+	ru:Многоатомные спирты (полиолы)
+	bg:Полиоли
+	zh:多元醇
+	zh-TW:多元醇
+	zh-HK:多元醇
+	zh-CN:多元醇
+
+label:fat
+	fr:Matières grasses / Lipides
+	en:Fat
+	ja:脂質
+	es:Grasas
+	ar:الدهون
+	it:Grassi
+	pt:Gorduras
+	pt_pt:Lípidos
+	de:Fett
+	he:שומנים
+	ga:Saill
+	da:Fedt
+	el:Λιπαρά
+	fi:Rasva
+	nl:Vetten
+	nl_be:Vetten
+	sv:Fett
+	lv:Tauki
+	cs:Tuky
+	et:Rasvad
+	hu:Zsír
+	pl:Tłuszcz
+	sl:Maščobe
+	lt:Riebalai
+	mt:Xaħmijiet
+	sk:Tuky
+	ro:Grăsimi
+	ru:Жиры
+	bg:Мазнини
+	zh:脂肪
+	zh-TW:脂肪
+	zh-HK:脂肪
+	zh-CN:脂肪
+	order:10
+
+label:saturated-fat
+	fr:Acides gras saturés
+	en:Saturated fat
+	es:Grasas saturadas
+	it =>Acidi Grassi saturi
+	pt:Gorduras saturadas
+	pt_pt:Ácidos gordos saturados
+	de:gesättigte Fettsäuren
+	he:שומן רווי
+	ga:sáSitheáin saill
+	da:Mættede fedtsyrer
+	el:Κορεσμένα λιπαρά
+	es:Ácidos grasos saturados
+	fi:Tyydyttyneet rasvat
+	nl:Verzadigde vetzuren
+	nl_be:Verzadigde vetzuren
+	sv:Mättat fett
+	lv:Piesātinātās taukskābes
+	cs:Nasycené mastné kyseliny
+	et:Küllastunud rasvhapped
+	hu:Telített zsírsavak
+	pl:Kwasy tłuszczowe nasycone
+	sl:Nasičene maščobe
+	lt:Sočiosios riebalų rūgštys
+	mt:Saturati xaħmijiet
+	sk:Nasýtené mastné kyseliny
+	ro:Acizi grași saturați
+	ru:Насыщенные жиры
+	bg:Наситени мастни киселини
+	zh:饱和脂肪
+	zh-TW:飽和脂肪
+	zh-HK:飽和脂肪
+	zh-CN:饱和脂肪
+	order:11
+
+label:butyric-acid
+	en:Butyric acid (4:0)
+	es:Ácido butírico (4:0)
+	el:Βουτυρικό οξύ (4:0)
+	pt:Ácido butírico (4:0)
+	fr:Acide butyrique (4:0)
+	he:חומצה בוטירית (4:0)
+	nl:Boterzuur (4:0)
+	nl_be:Boterzuur (4:0)
+	ru:Масляная кислота (4:0)
+	zh:丁酸 (4:0)
+	zh-TW:丁酸 (4:0)
+	zh-HK:丁酸 (4:0)
+	zh-CN:丁酸 (4:0)
+
+label:caproic-acid
+	en:Caproic acid (6:0)
+	es:Ácido caproico (6:0)
+	el:Καπροϊκό οκύ (6:0)
+	pt:Ácido capróico (6:0)
+	fr:Acide caproïque (6:0)
+	he:חומצה קפרואית (6:0)
+	nl:Capronzuur (6:0)
+	nl_be:Capronzuur (6:0)
+	ru:Капроновая кислота (6:0)
+	zh:己酸 (6:0)
+	zh-TW:己酸 (6:0)
+	zh-HK:己酸 (6:0)
+	zh-CN:己酸 (6:0)
+
+label:caprylic-acid
+	en:Caprylic acid (8:0)
+	es:Ácido caprílico (8:0)
+	el:Καπρυλικό οξύ (8:0)
+	pt:Ácido caprílico (8:0)
+	fr:Acide caproïque (8:0)
+	he:חומצה קפרילית (8:0)
+	nl:Octaanzuur (8:0)
+	nl_be:Octaanzuur (8:0)
+	ru:Каприловая кислота (8:0)
+	zh:辛酸 (8:0)
+	zh-TW:辛酸 (8:0)
+	zh-HK:辛酸 (8:0)
+	zh-CN:辛酸 (8:0)
+
+label:capric-acid
+	en:Capric acid (10:0)
+	es:Ácido cáprico (10:0)
+	el:Καπρικό οξύ (10:0)
+	pt:Ácido cáprico (10:0)
+	fr:Acide caprique (10:0)
+	he:חומצה קפרית (10:0)
+	nl:Decaanzuur (10:0)
+	nl_be:Decaanzuur (10:0)
+	ru:Каприновая кислота (10:0)
+	zh-TW:癸酸 (10:0)
+	zh-HK:癸酸 (10:0)
+	zh-CN:癸酸 (10:0)
+
+label:lauric-acid
+	en:Lauric acid (12:0)
+	es:Ácido láurico (12:0)
+	el:Λαυρικό οξύ/n-δωδεκανοϊκό οξύ (12:0)
+	pt:Ácido láurico (12:0)
+	fr:Acide laurique (12:0)
+	he:חומצה לאורית (12:0)
+	nl:Laurinezuur (12:0)
+	nl_be:Laurinezuur (12:0)
+	ru:Лауриновая кислота (12:0)
+	zh:十二酸 (12:0)
+	zh-TW:十二酸 (12:0)
+	zh-HK:十二酸 (12:0)
+	zh-CN:十二酸 (12:0)
+
+label:myristic-acid
+	en:Myristic acid (14:0)
+	es:Ácido mirístico (14:0)
+	el:Μυριστικό οξύ (14:0)
+	pt:Ácido mirístico (14:0)
+	fr:Acide myristique (14:0)
+	he:חומצה מיריסטית (14:0)
+	nl:Myristinezuur (14:0)
+	ru:Миристиновая кислота (14:0)
+	zh:十四酸 (14:0)
+	zh-TW:十四酸 (14:0)
+	zh-HK:十四酸 (14:0)
+	zh-CN:十四酸 (14:0)
+
+label:palmitic-acid
+	en:Palmitic acid (16:0)
+	es:Ácido palmítico (16:0)
+	el:Παλμιτικό οξύ (16:0)
+	pt:Ácido palmítico (16:0)
+	fr:Acide palmitique (16:0)
+	he:חומצה פלמיטית (16:0)
+	nl:Palmitinezuur (16:0)
+	nl_be:Palmitinezuur (16:0)
+	ru:Пальмитиновая кислота (16:0)
+	zh:十六酸 (16:0)
+	zh-TW:十六酸 (16:0)
+	zh-HK:十六酸 (16:0)
+	zh-CN:十六酸 (16:0)
+
+label:stearic-acid
+	en:Stearic acid (18:0)
+	es:Ácido esteárico (18:0)
+	pt:Ácido esteárico (18:0)
+	el:Στεατικό/Στεαρικό οξύ (18:0)
+	fr:Acide stéarique (18:0)
+	he:חומצה סטארית (18:0)
+	nl:Stearinezuur (18:0)
+	nl_be:Stearinezuur (18:0)
+	ru:Стеариновая кислота (18:0)
+	zh:十八酸 (18:0)
+	zh-TW:十八酸 (18:0)
+	zh-HK:十八酸 (18:0)
+	zh-CN:十八酸 (18:0)
+
+label:arachidic-acid
+	en:Arachidic acid (20:0)
+	es:Ácido araquídico (20:0)
+	el:Αραχιδικό οξύ (20:0)
+	pt:Ácido araquídico (20:0)
+	fr:Acide arachidique / acide eicosanoïque (20:0)
+	nl:Arachidinezuur (20:0)
+	nl_be:Arachidinezuur (20:0)
+	ru:Арахиновая кислота (20:0)
+	zh:二十酸 (20:0)
+	zh-TW:二十酸 (20:0)
+	zh-HK:二十酸 (20:0)
+	zh-CN:二十酸 (20:0)
+
+label:behenic-acid
+	en:Behenic acid (22:0)
+	es:Ácido behénico (22:0)
+	el:Βεχενικό οξύ/εικοσαδυενοϊκό οξύ (22:0)
+	pt:Ácido beénico (22:0)
+	fr:Acide béhénique (22:0)
+	he:חומצה בהנית (22:0)
+	nl:Beheenzuur (22:0)
+	nl_be:Beheenzuur (22:0)
+	ru:Бегеновая кислота (22:0)
+	zh-TW:二十二酸 (22:0)
+	zh-HK:二十二酸 (22:0)
+	zh-CN:二十二酸 (22:0)
+	zh:二十二酸 (22:0)
+
+label:lignoceric-acid
+	en:Lignoceric acid (24:0)
+	es:Ácido lignocérico (24:0)
+	el:Λιγνοκηρικό οξύ (24:0)
+	pt:Ácido lignocérico (24:0)
+	fr:Acide lignocérique (24:0)
+	nl:Lignocerinezuur (24:0)
+	nl_be:Lignocerinezuur (24:0)
+	ru:Лигноцериновая кислота (24:0)
+	zh-TW:二十四酸 (24:0)
+	zh-HK:二十四酸 (24:0)
+	zh-CN:二十四酸 (24:0)
+	zh:二十四酸 (24:0)
+
+label:cerotic-acid
+	en:Cerotic acid (26:0)
+	es:Ácido cerótico (26:0)
+	el:Κηροτικό οξύ (26:0)
+	pt:Ácido cerótico (26:0)
+	fr:Acide cérotique (26:0)
+	nl:Cerotinezuur (26:0)
+	nl_be:Cerotinezuur (26:0)
+	ru:Церотиновая кислота (26:0)
+	zh-TW:二十六酸 (26:0)
+	zh-HK:二十六酸 (26:0)
+	zh-CN:二十六酸 (26:0)
+	zh:二十六酸 (26:0)
+
+label:montanic-acid
+	en:Montanic acid (28:0)
+	es:Ácido montánico (28:0)
+	el:Μοντανικό οξύ (28:0)
+	pt:Ácido montânico (28:0)
+	fr:Acide montanique (28:0)
+	nl:Montaanzuur (28:0)
+	nl_be:Montaanzuur (28:0)
+	ru:Монтановая кислота (28:0)
+	zh-TW:二十八酸 (28:0)
+	zh-HK:二十八酸 (28:0)
+	zh-CN:二十八酸 (28:0)
+	zh:二十八酸 (28:0)
+
+label:melissic-acid
+	en:Melissic acid (30:0)
+	es:Ácido melísico (30:0)
+	el:Μελισσικό οξύ (30:0)
+	pt:Ácido melíssico (30:0)
+	fr:Acide mélissique (30:0)
+	nl:Melissinezuur (30:0)
+	nl_be:Melissinezuur (30:0)
+	ru:Мелиссовая кислота (30:0)
+	zh-TW:三十酸 (30:0)
+	zh-HK:三十酸 (30:0)
+	zh-CN:三十酸 (30:0)
+	zh:三十酸 (30:0)
+
+label:monounsaturated-fat
+	fr:Acides gras monoinsaturés
+	en:Monounsaturated fat
+	es:Grasas monoinsaturadas
+	it:Acidi grassi monoinsaturi
+	pt:Gorduras monoinsaturadas
+	pt_pt:Ácidos gordos monoinsaturados
+	de:einfach ungesättigte Fettsäuren
+	he:שומן חד בלתי רווי
+	ga:Monai-neamhsháitheáin saill
+	da:Enkeltumættede fedtsyrer
+	el:Μονοακόρεστα λιπαρά
+	fi:Kertatyydyttymättömät rasvat
+	nl:Enkelvoudig onverzadigde vetzuren
+	nl_be:Enkelvoudig onverzadigde vetzuren
+	sv:Enkelomättat fett
+	lv:Mononepiesātinātās taukskābes
+	cs:Mononenasycené mastné kyseliny
+	et:Monoküllastumata rasvhapped
+	hu:Egyszeresen telítetlen zsírsavak
+	pl:Kwasy tłuszczowe jednonienasycone
+	sl:Enkrat nenasičene maščobe
+	lt:Mononesočiosios riebalų rūgštys
+	mt:Mono-insaturati xaħmijiet
+	sk:Mononenasýtené mastné kyseliny
+	ro:Acizi grași mononesaturați
+	ru:Мононенасыщенные жиры
+	bg:Мононенаситени мастни киселини
+	zh-TW:單元不飽和脂肪
+	zh-HK:單元不飽和脂肪
+	zh-CN:单元不饱和脂肪
+	zh:单元不饱和脂肪
+
+label:omega-9-fat
+	fr:Acides gras Oméga 9
+	en:Omega 9 fatty acids
+	es:Ácidos grasos Omega 9
+	el:Ωμέγα-9 λιπαρά
+	it:Acidi grassi Omega 9
+	pt:Ácidos Graxos Ômega 9
+	pt_pt:Ácidos gordos Ómega 9
+	de:Omega-9-Fettsäuren
+	he:אומגה 9
+	nl:Omega 9 vetzuren
+	nl_be:Omega 9 vetzuren
+	ru:Омега-9 жирные кислоты
+	zh-TW:Omega-9 脂肪酸
+	zh-HK:Omega-9 脂肪酸
+	zh-CN:Omega-9 脂肪酸
+	zh:Omega-9 脂肪酸
+	order:109
+
+label:oleic-acid
+	en:Oleic acid (18:1 n-9)
+	es:Ácido oleico (18:1 n-9)
+	el:Ολεϊκό οξύ (18:1 n-9)
+	pt:Ácido oleico (18:1 n-9)
+	fr:Acide oléique (18:1 n-9)
+	he:חומצה אולאית
+	nl:Oliezuur (18:1 n-9)
+	nl_be:Oliezuur (18:1 n-9)
+	ru:Олеиновая кислота (18:1 n-9)
+	zh-TW:油酸 (18:1 n-9)
+	zh-HK:油酸 (18:1 n-9)
+	zh-CN:油酸 (18:1 n-9)
+	zh:油酸 (18:1 n-9)
+
+label:elaidic-acid
+	en:Elaidic acid (18:1 n-9)
+	es:Ácido elaídico (18:1 n-9)
+	el:Ελαϊδικό οξύ (18:1 n-9)
+	pt:Ácido elaídico (18:1 n-9)
+	fr:Acide élaïdique (18:1 n-9)
+	nl:Elaïdinezuur (18:1 n-9)
+	nl_be:Elaïdinezuur (18:1 n-9)
+	ru:Элаидиновая кислота (18:1 n-9)
+	zh-TW:反油酸 (18:1 n-9)
+	zh-HK:反油酸 (18:1 n-9)
+	zh-CN:反油酸 (18:1 n-9)
+	zh:反油酸 (18:1 n-9)
+
+label:gondoic-acid
+	en:Gondoic acid (20:1 n-9)
+	es:Ácido gondoico (20:1 n-9)
+	el:Γονδοϊκό οξύ (20:1 n-9)
+	pt:Ácido gondoico (20:1 n-9)
+	fr:Acide gadoléique (20:1 n-9)
+	nl:Eicoseenzuur (20:1 n-9)
+	nl_be:Eicoseenzuur (20:1 n-9)
+	ru:Гондоиновая кислота (20:1 n-9)
+	zh-TW:11-二十碳烯酸 (20:1 n-9)
+	zh-HK:11-二十碳烯酸 (20:1 n-9)
+	zh-CN:11-二十碳烯酸 (20:1 n-9)
+	zh:11-二十碳烯酸 (20:1 n-9)
+
+label:mead-acid
+	en:Mead acid (20:3 n-9)
+	es:Ácido Mead (20:3 n-9)
+	el:Οξύ Mead (20:3 n-9)
+	pt:Ácido de Mead (20:3 n-9)
+	fr:Acide de Mead (20:3 n-9)
+	nl:Meadzuur (20:3 n-9)
+	nl_be:Meadzuur (20:3 n-9)
+	ru:Мидовая кислота (20:3 n-9)
+	zh-TW:二十碳三烯酸 (20:3 n-9)
+	zh-HK:二十碳三烯酸 (20:3 n-9)
+	zh-CN:二十碳三烯酸 (20:3 n-9)
+	zh:二十碳三烯酸 (20:3 n-9)
+
+label:erucic-acid
+	en:Erucic acid (22:1 n-9)
+	es:Ácido erúcico (22:1 n-9)
+	el:Ερουκικό οξύ (22:1 n-9)
+	pt:Ácido erúcico (22:1 n-9)
+	fr:Acide érucique (22:1 n-9)
+	nl:Erucazuur (22:1 n-9)
+	nl_be:Erucazuur (22:1 n-9)
+	ru:Эруковая кислота (22:1 n-9)
+	zh-TW:芥酸 (22:1 n-9)
+	zh-HK:芥酸 (22:1 n-9)
+	zh-CN:芥酸 (22:1 n-9)
+	zh:芥酸 (22:1 n-9)
+
+label:nervonic-acid
+	en:Nervonic acid (24:1 n-9)
+	es:Ácido nervónico (24:1 n-9)
+	el:Νερβονικό (24:1 n-9)
+	pt:Ácido nervônico (24:1 n-9)
+	pt_pt:Ácido nervónico (24:1 n-9)
+	fr:Acide nervonique (24:1 n-9)
+	nl:Nervonzuur (24:1 n-9)
+	nl_be:Nervonzuur (24:1 n-9)
+	ru:Нервоновая кислота (24:1 n-9)
+	zh-TW:二十四碳烯酸 (24:1 n-9)
+	zh-HK:二十四碳烯酸 (24:1 n-9)
+	zh-CN:二十四碳烯酸 (24:1 n-9)
+	zh:二十四碳烯酸 (24:1 n-9)
+
+label:polyunsaturated-fat
+	fr:Acides gras polyinsaturés
+	en:Polyunsaturated fat
+	es:Grasas poliinsaturadas
+	it:Acidi grassi polinsaturi
+	pt:Gorduras poli-insaturadas
+	pt_pt:Ácidos gordos polinsaturados
+	de:mehrfach ungesättigte Fettsäuren
+	he:שומן רב בלתי רווי
+	ga:Pola-neamhsháitheáin saill
+	da:Flerumættede fedtsyrer
+	el:Πολυακόρεστα λιπαρά
+	fi:Monityydyttymättömät rasvat
+	nl:Meervoudig onverzadigde vetzuren
+	nl_be:Meervoudig onverzadigde vetzuren
+	sv:Fleromättat fett
+	lv:Polinepiesātinātās taukskābes
+	cs:Polynenasycené mastné kyseliny
+	et:Polüküllastumata rasvhapped
+	hu:Többszörösen telítetlen zsírsavak
+	pl:Kwasy tłuszczowe wielonienasycone
+	sl:Večkrat nenasičene maščobe
+	lt:Polinesočiosios riebalų rūgštys
+	mt:Poli-insaturati xaħmijiet
+	sk:Polynenasýtené mastné kyseliny
+	ro:Acizi grași polinesaturați
+	ru:Полиненасыщенные жиры
+	bg:Полиненаситени мастни киселини
+	zh-TW:多元不飽和酸
+	zh-HK:多元不飽和酸
+	zh-CN:多元不飽和酸
+	zh:多元不飽和酸
+
+label:omega-3-fat
+	fr:Acides gras Oméga 3
+	en:Omega 3 fatty acids
+	es:Ácidos grasos Omega 3
+	el:Ωμέγα-3 λιπαρά
+	it:Acidi grassi Omega 3
+	pt:Ácidos graxos Ômega 3
+	pt_pt:Ácidos gordos Ómega 3
+	de:Omega-3-Fettsäuren
+	he:אומגה 3
+	nl:Omega 3-vetzuren
+	nl_be:Omega 3-vetzuren
+	ru:Омега-3 жирные кислоты
+	zh-TW:omega 3 脂肪酸
+	zh-HK:omega 3 脂肪酸
+	zh-CN:omega 3 脂肪酸
+	zh:omega 3 脂肪酸
+	order:103
+
+label:alpha-linolenic-acid
+	en:Alpha-linolenic acid / ALA (18:3 n-3)
+	es:Ácido alfa-linolénico / ALA (18:3 n-3)
+	el:Α-λινολενικό οξύ/ ALA (18:3 n-3)
+	pt:Ácido alfa-linolênico / ALA (18:3 n-3)
+	pt_pt:Ácido alfa-linolénico / ALA (18:3 n-3)
+	fr:Acide alpha-linolénique / ALA (18:3 n-3)
+	nl:Alfa-linoleenzuur / ALA (18:3 n-3)
+	nl_be:Alfa-linoleenzuur / ALA (18:3 n-3)
+	ru:Альфа-линоленовая кислота / (АЛК) (18:3 n-3)
+	zh-TW:α-亞麻酸 / ALA (18:3 n-3)
+	zh-HK:α-亞麻酸 / ALA (18:3 n-3)
+	zh-CN:α-亞麻酸 / ALA (18:3 n-3)
+	zh:α-亞麻酸 / ALA (18:3 n-3)
+
+
+label:eicosapentaenoic-acid
+	en:Eicosapentaenoic acid / EPA (20:5 n-3)
+	es:Ácido eicosapentaenoico / EPA (20:5 n-3)
+	el:Εικοσιπεντανοϊκο οξύ / EPA (20:5 n-3)
+	pt:Ácido eicosapentaenóico / EPA (20:5 n-3)
+	fr:Acide eicosapentaénoïque / EPA (20:5 n-3)
+	nl:Eicosapentaeenzuur / EPA (20:5 n-3)
+	nl_be:Eicosapentaeenzuur / EPA (20:5 n-3)
+	ru:Эйкозапентаеновая кислота / (ЭПК) (20:5 n-3)
+	zh-TW:二十碳五酸 / EPA (20:5 n-3)
+	zh-HK:二十碳五酸 / EPA (20:5 n-3)
+	zh-CN:二十碳五酸 / EPA (20:5 n-3)
+	zh:二十碳五酸 / EPA (20:5 n-3)
+
+label:docosahexaenoic-acid
+	en:Docosahexaenoic acid / DHA (22:6 n-3)
+	es:Ácido docosahexaenoico / DHA (22:6 n-3)
+	el:Δοκοσαεξανοϊκο οξύ / DHA (22:6 n-3)
+	pt:Ácido docosa-hexaenóico / DHA (22:6 n-3)
+	fr:Acide docosahexaénoïque / DHA (22:6 n-3)
+	nl:Docosahexaeenzuur / DHA (22:6 n-3)
+	nl_be:Docosahexaeenzuur / DHA (22:6 n-3)
+	ru:Докозагексаеновая кислота / (ДГК) (22:6 n-3)
+	zh-TW:二十二碳六酸 / DHA (22:6 n-3)
+	zh-HK:二十二碳六酸 / DHA (22:6 n-3)
+	zh-CN:二十二碳六酸 / DHA (22:6 n-3)
+	zh:二十二碳六酸 / DHA (22:6 n-3)
+
+label:omega-6-fat
+	fr:Acides gras Oméga 6
+	en:Omega 6 fatty acids
+	es:Ácidos grasos Omega 6
+	el:Ωμέγα-6 λιπαρά
+	it:Acidi grassi Omega 6
+	pt:Ácidos Graxos Ômega 6
+	pt_pt:Ácidos gordos Ómega 6
+	de:Omega-6-Fettsäuren
+	he:אומגה 6
+	nl:Omega 6-vetzuren
+	nl_be:Omega 6-vetzuren
+	ru:Омега-6 жирные кислоты
+	zh-TW:omega 6 脂肪酸
+	zh-HK:omega 6 脂肪酸
+	zh-CN:omega 6 脂肪酸
+	zh:omega 6 脂肪酸
+	order:106
+
+label:linoleic-acid
+	en:Linoleic acid / LA (18:2 n-6)
+	es:Ácido linoleico / LA (18:2 n-6)
+	el:Λινολεϊκό οξύ / LA (18:2 n-6)
+	pt:Ácido linoleico / LA (18:2 n-6)
+	fr:Acide linoléique / LA (18:2 n-6)
+	nl:Linolzuur / LA (18:2 n-6)
+	nl_be:Linolzuur / LA (18:2 n-6)
+	ru:Линолевая кислота / (ЛК) 18:2 (n−6)
+	zh-TW:亞油酸 / LA (18:2 n-6)
+	zh-HK:亞油酸 / LA (18:2 n-6)
+	zh-CN:亞油酸 / LA (18:2 n-6)
+	zh:亞油酸 / LA (18:2 n-6)
+
+label:arachidonic-acid
+	en:Arachidonic acid / AA / ARA (20:4 n-6)
+	es:Ácido araquidónico / AA / ARA (20:4 n-6)
+	el:Αραχιδονικό οξύ / AA / ARA (20:4 n-6)
+	pt:Ácido araquidônico / AA / ARA (20:4 n-6)
+	pt_pt:Ácido araquidónico / AA / ARA (20:4 n-6)
+	fr:Acide arachidonique / AA / ARA (20:4 n-6)
+	he:חומצה ארכידונית / AA / ARA (20:4 n-6)
+	nl:Arachidonzuur / AA / ARA (20:4 n-6)
+	nl_be:Arachidonzuur / AA / ARA (20:4 n-6)
+	ru:Арахидоновая кислота / (АК) 20:4 (n−6)
+	zh-TW:花生四烯酸 / AA / ARA (20:4 n-6)
+	zh-HK:花生四烯酸 / AA / ARA (20:4 n-6)
+	zh-CN:花生四烯酸 / AA / ARA (20:4 n-6)
+	zh:花生四烯酸 / AA / ARA (20:4 n-6)
+
+label:gamma-linolenic-acid
+	en:Gamma-linolenic acid / GLA (18:3 n-6)
+	es:Ácido gamma-linolénico / GLA (18:3 n-6)
+	el:Γ-λινολενικό οξύ / GLA (18:3 n-6)
+	pt:Ácido gama-linolênico / GLA (18:3 n-6)
+	pt_pt:Ácido gama-linolénico / GLA (18:3 n-6)
+	fr:Acide gamma-linolénique / GLA (18:3 n-6)
+	nl:Gamma-linoleenzuur / GLA (18:3 n-6)
+	nl_be:Gamma-linoleenzuur / GLA (18:3 n-6)
+	ru:γ-линоленовая кислота / (GLA) 18:3 (n−6)
+	zh-TW:γ-亞麻酸 / GLA (18:3 n-6)
+	zh-HK:γ-亞麻酸 / GLA (18:3 n-6)
+	zh-CN:γ-亞麻酸 / GLA (18:3 n-6)
+	zh:γ-亞麻酸 / GLA (18:3 n-6)
+
+label:dihomo-gamma-linolenic-acid
+	en:Dihomo-gamma-linolenic acid / DGLA (20:3 n-6)
+	es:Ácido dihomo-gamma-linolénico / DGLA (20:3 n-6)
+	el:Διχομο-γ-λινολεϊκό οξύ / DGLA (20:3 n-6)
+	pt:Ácido dihomo-gama-linolênico / DGLA (20:3 n-6)
+	pt_pt:Ácido dihomo-gama-linolénico / DGLA (20:3 n-6)
+	fr:Acide dihomo-gamma-linolénique / DGLA (20:3 n-6)
+	nl:Dihomo-gammalinoleenzuur / DGLA (20:3 n-6)
+	nl_be:Dihomo-gammalinoleenzuur / DGLA (20:3 n-6)
+	ru:Дигомо-γ-линоленовая кислота / (ДГДК) 20:3 (n−6)
+	zh-TW:二高-γ-亞麻酸酸 / DGLA (20:3 n-6)
+	zh-HK:二高-γ-亞麻酸酸 / DGLA (20:3 n-6)
+	zh-CN:二高-γ-亞麻酸酸 / DGLA (20:3 n-6)
+
+
+label:trans-fat
+	fr:Acides gras trans
+	en:Trans fat
+	es:Grasas trans
+	el:Τρανς λιπαρά
+	it:Acidi grassi trans
+	pt:Gorduras trans
+	pt_pt:Ácidos gordos trans
+	de:Trans-Fettsäuren
+	he:שומן טראנס - שומן בלתי רווי
+	zh:反式脂肪
+	nl:Transvetten
+	nl_be:Transvetten
+	ru:Транс-жиры
+	zh-TW:反式脂肪
+	zh-HK:反式脂肪
+	zh-CN:反式脂肪
+
+label:cholesterol
+	fr:Cholestérol
+	en:Cholesterol
+	es:Colesterol
+	el:Χοληστερόλη
+	ar:الكوليسترول 
+	unit:mg
+	it:Colesterolo
+	pt:Colesterol
+	de:Cholesterin
+	he:כולסטרול
+	zh:胆固醇
+	nl:Cholesterol
+	nl_be:Cholesterol
+	ru:Холестерин
+	ja:コレステロール
+	zh-TW:膽固醇
+	zh-HK:膽固醇
+	zh-CN:胆固醇
+
+label:fiber
+	fr:Fibres alimentaires
+	en:Dietary fiber
+	ja:食物繊維
+	es:Fibra alimentaria
+	it:Fibra alimentare
+	pt:Fibra alimentar
+	de:Ballaststoffe
+	he:סיבים תזונתיים
+	ga:Snáithín
+	da:Kostfibre
+	el:Εδώδιμες ίνες
+	fi:Ravintokuitu
+	nl:Vezels
+	nl_be:Vezels
+	sv:Fiber
+	lv:Šķiedrvielas
+	cs:Vláknina
+	et:Kiudained
+	hu:Rost
+	pl:Błonnik
+	sl:Prehranskih vlaknin
+	lt:Skaidulinių medžiagų
+	mt:Fibra alimentari
+	sk:Vláknina
+	ru:Пищевые волокна
+	bg:Влакнини
+	zh:膳食纤维
+	zh-TW:纖維
+	zh-HK:纖維
+	zh-CN:纤维
+	order:40
+
+label:soluble-fiber
+	fr:Fibres solubles
+	en:Soluble fiber
+	ru:Растворимые волокна
+	zh-TW:可溶性纖維
+	zh-HK:可溶性纖維
+	zh-CN:可溶性纤维
+	zh:可溶性纤维
+	order:41
+
+label:insoluble-fiber
+	fr:Fibres insolubles
+	en:Insoluble fiber
+	ru:Нерастворимые волокна
+	zh-TW:不可溶性纖維
+	zh-HK:不可溶性纖維
+	zh-CN:不可溶性纤维
+	zh:不可溶性纤维
+	order:42
+
+label:sodium
+	fr:Sodium
+	en:Sodium
+	el:Νάτριο
+	es:Sodio
+	ar:الصوديوم
+	it:Sodio
+	pt:Sódio
+	de:Natrium
+	he:נתרן
+	zh:钠
+	nl:Natrium
+	nl_be:Sodium
+	ru:Натрий
+	ja:ナトリウム
+	unit_us:mg
+	zh-TW:鈉
+	zh-HK:鈉
+	zh-CN:钠
+
+label:salt
+	fr:Sel
+	en:Salt
+	ja:食塩相当量
+	es:Sal
+	pt:Sal
+	he:מלח
+	de:Salz
+	ga:Salann
+	da:Salt
+	el:Αλάτι
+	fi:Suola
+	it:Sale
+	nl:Zout
+	nl_be:Zout
+	lv:Sāls
+	cs:Sůl
+	et:Sool
+	pl:Sól
+	sl:Sol
+	lt:Druska
+	mt:Melħ
+	sk:Soľ
+	ro:Sare
+	ru:Соль
+	bg:Сол
+	zh:食盐
+	zh-TW:鹽
+	zh-HK:鹽
+	zh-CN:食盐
+	order:60
+
+label:salt-equivalent
+	fr:Equivalent en sel
+	en:Salt equivalent
+	es:Equivalente en sal
+	el:Ισοδύναμο σε αλάτι
+	pt:Equivalente em sal
+	he:תחליפי מלח
+	nl:Equivalent in zout
+	nl_be:Equivalent in zout
+	zh-TW:相當鹽含量
+	zh-HK:相當鹽含量
+	zh-CN:相当盐含量
+	zh:相当盐含量
+	order:61
+
+label:#vitamins
+	fr:Vitamines
+	en:Vitamin
+	es:Vitaminas
+	ar:الفايتمينات
+	it:Vitamine
+	pt:Vitaminas
+	de:Vitamine
+	he:ויטמינים
+	ga:Vitimín
+	el:Βιταμίνες
+	fi:vitamiini
+	nl:Vitamines
+	nl_be:Vitamines
+	lv:vitamīns
+	et:Vitamiin
+	hu:vitamin
+	pl:Witamina
+	lt:Vitaminas
+	mt:Vitamina
+	sk:Vitamín
+	ro:Vitamina
+	ru:Витамины
+	bg:Витамин
+	zh-TW:維生素
+	zh-HK:維生素
+	zh-CN:维生素
+	zh:维生素
+
+label:vitamin-a
+	fr:Vitamine A (rétinol)
+	ja:ビタミン A
+	en:Vitamin A
+	es:Vitamina A (Retinol)
+	it:Vitamina A (Retinolo)
+	pt:Vitamina A
+	de:Vitamin A (Retinol)
+	he:ויטמין A (רטינול)
+	ga:Vitimín A
+	el:Βιταμίνη A
+	fi:A-vitamiini
+	nl:Vitamine A
+	nl_be:Vitamine A
+	lv:A vitamīns
+	et:Vitamiin A
+	hu:A-vitamin
+	pl:Witamina A
+	lt:Vitaminas A
+	mt:Vitamina A
+	sk:Vitamín A
+	ro:Vitamina A
+	ru:Витамин A
+	bg:Витамин A
+	zh-TW:維生素A
+	zh-HK:維生素A
+	zh-CN:维生素A
+	zh:维生素A
+
+	unit:µg
+	dv:1500
+	unit_us:% DV
+	unit_ca:% DV
+
+label:vitamin-d
+	fr:Vitamine D / D3 (cholécalciférol)
+	en:Vitamin D
+	es:Vitamina D
+	unit:µg
+	dv:40
+	it:Vitamina D (colecalciferolo)
+	pt:Vitamina D
+	de:Vitamin D / D3 (Cholecalciferol)
+	he:ויטמין D
+	ja:ビタミン D
+	ga:Vitimín D
+	el:Βιταμίνη D
+	fi:D-vitamiini
+	nl:Vitamine D
+	nl_be:Vitamine D
+	lv:D vitamīns
+	et:Vitamiin D
+	hu:D-vitamin
+	pl:Witamina D
+	lt:Vitaminas D
+	mt:Vitamina D
+	sk:Vitamín D
+	ro:Vitamina D
+	bg:Витамин D
+	ru:Витамин D
+	zh:维生素D
+	zh-TW:維生素D
+	zh-HK:維生素D
+	zh-CN:维生素D
+
+label:vitamin-d2
+	fr:Vitamine D2 (ergocalciférol)
+	en:Vitamin D2 (ergocalciferol)
+	es:Vitamina D2 (Ergocalciferol)
+	unit:µg
+	it:Vitamina D2 (ergocalciferolo)
+	pt:Vitamina D2 (ergocalciferol)
+	de:Vitamin D2 (Cholecalciferol)
+	he:ויטמין D2
+	ja:ビタミン D2
+	ga:Vitimín D2
+	el:Βιταμίνη D2
+	fi:D2-vitamiini (ergokalsiferoli)
+	nl:Vitamine D2 (ergocalciferol)
+	nl_be:Vitamine D2 (ergocalciferol)
+	lv:D2 vitamīns (ergokalciferols)
+	et:Vitamiin D2 (ergokaltsiferool)
+	hu:D2-vitamin
+	pl:Witamina D2 (ergokalcyferol)
+	lt:Vitaminas D2 (ergokalciferoliu)
+	mt:Vitamina D2
+	sk:Vitamín D2 (erkalciol)
+	ro:Vitamina D2 (ergocalciferol)
+	bg:Витамин D2
+	bg:Витамин D2
+	zh:维生素D2
+	zh-TW:維生素D2
+	zh-HK:維生素D2
+	zh-CN:维生素D2
+
+
+label:vitamin-e
+	fr:Vitamine E (tocophérol)
+	en:Vitamin E
+	ja:ビタミン E
+	es:Vitamina E (a-tocoferol)
+	unit:mg
+	dv:20
+	it:Vitamina E (Alfa-tocoferolo)
+	pt:Vitamina E
+	de:Vitamin E (Tocopherol)
+	he:ויטמין E (אלפא טוקופרול)
+	ga:Vitimín E
+	el:Βιταμίνη E
+	fi:E-vitamiini
+	nl:Vitamine E
+	nl_be:Vitamine E
+	lv:E vitamīns
+	et:Vitamiin E
+	hu:E-vitamin
+	pl:Witamina E
+	lt:Vitaminas E
+	mt:Vitamina E
+	sk:Vitamín E
+	ro:Vitamina E
+	ru:Витамин E
+	bg:Витамин E
+	zh:维生素E
+	zh-TW:維生素E
+	zh-HK:維生素E
+	zh-CN:维生素E
+
+label:vitamin-k
+	fr:Vitamine K
+	en:Vitamin K
+	es:Vitamina K
+	ja:ビタミン K
+	unit:µg
+	dv:80
+	it:Vitamina K
+	pt:Vitamina K
+	de:Vitamin K
+	he:ויטמין K (מנדיון)
+	ga:Vitimín K
+	el:Βιταμίνη K
+	fi:K-vitamiini
+	nl:Vitamine K
+	nl_be:Vitamine K
+	lv:K vitamīns
+	et:Vitamiin K
+	hu:K-vitamin
+	pl:Witamina K
+	lt:Vitaminas K
+	mt:Vitamina K
+	sk:Vitamín K
+	ro:Vitamina K
+	bg:Витамин K
+	ru:Витамин K
+	zh:维生素K
+	zh-TW:維生素K
+	zh-HK:維生素K
+	zh-CN:维生素K
+
+label:vitamin-c
+	fr:Vitamine C (acide ascorbique)
+	en:Vitamin C (ascorbic acid)
+	es:Vitamina C (Ácido ascórbico)
+	ja:ビタミン C
+	it:Vitamina C (Acido ascorbico)
+	pt:Vitamina C
+	de:Vitamin C (Ascorbinsäure)
+	he:ויטמין C (חומצה אסקורבית)
+	ga:Vitimín C
+	el:Βιταμίνη C
+	fi:C-vitamiini
+	nl:Vitamine C
+	nl_be:Vitamine C
+	lv:C vitamīns
+	et:Vitamiin C
+	hu:C-vitamin
+	pl:Witamina C
+	lt:Vitaminas C
+	mt:Vitamina C
+	sk:Vitamín C
+	ro:Vitamina C
+	bg:Витамин C
+	ru:Витамин C
+	zh-TW:維生素C (抗壞血酸)
+	zh-HK:維生素C (抗壞血酸)
+	zh-CN:维生素C (抗坏血酸)
+	zh:维生素C(抗坏血酸)
+
+	unit:mg
+	dv:60
+	unit_us:% DV
+	unit_ca:% DV
+
+label:vitamin-b1
+	fr:Vitamine B1 (Thiamine)
+	en:Vitamin B1 (Thiamin)
+	es:Vitamina B1 (Tiamina)
+	ja:ビタミン B1
+	unit:mg
+	dv:1.5
+	it:Vitamina B1 (tiamina)
+	pt:Vitamina B1 (Tiamina)
+	de:Vitamin B1 (Thiamin)
+	he:ויטמין B1 (תיאמין)
+	ga:Vitimín B1 (Tiaimín)
+	el:Βιταμίνη B1 (Θειαμίνη)
+	fi:B1-vitamiini (Tiamiini)
+	nl:Vitamine B1 (Thiamine)
+	nl_be:Vitamine B1 (Thiamine)
+	lv:B1 vitamīns (Tiamīns)
+	et:Vitamiin B1 (Tiamiin)
+	hu:B1-vitamin (Tiamin)
+	pl:Witamina B1 (Tiamina)
+	sl:Vitamin B1 (Tiamin)
+	lt:Vitaminas B1 (Tiaminas)
+	mt:Vitamina B1 (Tiamina)
+	sk:Vitamín B1
+	ro:Vitamina B1 (Tiamină)
+	bg:Витамин B1 (Тиамин)
+	ru:Витамин B1 (Тиамин)
+	zh:维生素B1(硫胺)
+	zh-TW:維生素B1 (硫胺素)
+	zh-HK:維生素B1 (硫胺素)
+	zh-CN:维生素B1(硫胺)
+
+label:vitamin-b2
+	fr:Vitamine B2 (Riboflavine)
+	en:Vitamin B2 (Riboflavin)
+	es:Vitamina B2 (Riboflavina)
+	ja:ビタミン B2
+	unit:mg
+	dv:1.7
+	it:Vitamina B2 (Riboflavina)
+	pt:Vitamina B2 (Riboflavina)
+	de:Vitamin B2 (Riboflavin)
+	he:ויטמין B2 (ריבופלבין)
+	ga:Vitimín B2 (Ribeaflaivin)
+	el:Βιταμίνη B2 (Ριβοφλαβίνη)
+	fi:B2-vitamiini (Riboflaviini)
+	nl:Vitamine B2 (Riboflavine)
+	nl_be:Vitamine B2 (Riboflavine)
+	lv:B2 vitamīns (Riboflavīns)
+	et:Vitamiin B2 (Riboflaviin)
+	hu:B2-vitamin (Riboflavin)
+	pl:Witamina B2 (Ryboflawina)
+	lt:Vitaminas B2 (Riboflavinas)
+	mt:Vitamina B2 (Riboflavina)
+	sk:Vitamín B2
+	ro:Vitamina B2 (Riboflavină)
+	bg:Витамин B2 (Рибофлавин)
+	ru:Витамин B2 (Рибофлавин)
+	zh:维生素B2(核黄素)
+	zh-TW:維生素B2 (核黃素)
+	zh-HK:維生素B2 (核黃素)
+	zh-CN:维生素B2 (核黄素)
+
+label:vitamin-pp
+	fr:Vitamine B3 / Vitamine PP (Niacine)
+	en:Vitamin B3 / Vitamin PP (Niacin)
+	es:Vitamina B3 / Vitamina PP (Niacina)
+	ja:ビタミン B3
+	unit:mg
+	dv:20
+	it:Vitamina B3 / Vitamina PP (Niacina)
+	pt:Vitamina B3 / Vitamina PP (Niacina)
+	de:Vitamin B3 / Vitamin PP (Niacin)
+	he:ויטמין B3 /ויטמין PP (ניאצין או חומצה ניקוטינית)
+	ga:Niaicin
+	el:Νιασίνη
+	fi:Niasiini
+	nl:Niacine
+	nl_be:Niacine
+	lv:Niacīns
+	et:Niatsiin
+	pl:Niacyna
+	lt:Niacinas
+	mt:Niaċina
+	sk:Niacín
+	ro:Niacină
+	bg:Ниацин
+	ru:Ниацин / Витамин PP / Витамин B₃
+	zh:维生素B3(烟酸)
+	zh-TW:維生素B3 / 維生素PP (菸酸)
+	zh-HK:維生素B3 / 維生素PP (菸酸)
+	zh-CN:维生素B3 / 维生素PP (烟酸)
+
+label:vitamin-b6
+	fr:Vitamine B6 (Pyridoxine)
+	en:Vitamin B6 (Pyridoxin)
+	es:Vitamina B6 (Piridoxina)
+	ja:ビタミン B6
+	unit:mg
+	dv:2
+	it:Vitamina B6 (piridoxina)
+	pt:Vitamina B6 (Piridoxina)
+	de:Vitamin B6 (Pyridoxin)
+	he:ויטמין B6 (פירידוקסין)
+	ga:Vitimín B6
+	el:Βιταμίνη B6
+	fi:B6-vitamiini
+	nl:Vitamine B6
+	nl_be:Vitamine B6
+	lv:B6 vitamīns
+	et:Vitamiin B6
+	hu:B6-vitamin
+	pl:Witamina B6
+	lt:Vitaminas B6
+	sk:Vitamín B6
+	ro:Vitamina B6
+	bg:Витамин B6
+	ru:Витамин B6
+	zh:维生素B6
+	zh-TW:維生素B6
+	zh-HK:維生素B6
+	zh-CN:维生素B6
+
+label:vitamin-b9
+	fr:Vitamine B9 (Acide folique)
+	en:Vitamin B9 (Folic acid / Folates)
+	es:Vitamina B9 (Ácido fólico)
+	unit:µg
+	dv:400
+	ja:ビタミン B9 (葉酸)
+	it:Vitamina B9 (Acido folico)
+	pt:Vitamina B9 (Ácido Fólico)
+	de:Vitamin B9 (Folsäure)
+	he:ויטמין B9 (חומצה פולית)
+	ga:Vitimín B9 (Aigéad fólach)
+	el:Βιταμίνη B9 (Φολικό οξύ)
+	fi:B9-vitamiini (Foolihappo)
+	nl:Vitamine B9 (Foliumzuur)
+	nl_be:Vitamine B9 (Foliumzuur)
+	lv:B9 vitamīns (Folijskābe)
+	et:Vitamiin B9 (Foolhape)
+	hu:B9-vitamin (Folsav)
+	pl:Witamina B9 (Kwas foliowy)
+	lt:Vitaminas B9 (Folio rūgštis)
+	sk:Vitamín B9 (Kyselina listová)
+	ro:Vitamina B9 (Acid folic)
+	bg:Витамин B9 (Фолиева киселина)
+	ru:Витамин B9 (фолиевая кислота)
+	zh:维生素B9(叶酸)
+	zh-TW:維生素B9 (葉酸)
+	zh-HK:維生素B9 (葉酸)
+	zh-CN:维生素B9 (叶酸)
+
+label:vitamin-b12
+	fr:Vitamine B12 (cobalamine)
+	en:Vitamin B12 (cobalamin)
+	es:Vitamina B12 (Cianocobalamina)
+	unit:µg
+	dv:6
+	it:Vitamina B12 (Cobalamina)
+	ja:ビタミン B12
+	pt:Vitamina B12 (Cobalamina)
+	de:Vitamin B12 (Cobalamin)
+	he:ויטמין B12 (ציאנוקובלאמין)
+	ga:Vitimín B12
+	el:Βιταμίνη B12
+	fi:B12-vitamiini
+	nl:Vitamine B12
+	nl_be:Vitamine B12
+	lv:B12 vitamīns
+	et:Vitamiin B12
+	hu:B12-vitamin
+	pl:Witamina B12
+	lt:Vitaminas B12
+	sk:Vitamín B12
+	ro:Vitamina B12
+	bg:Витамин В12
+	ru:Витамин В12
+	zh:维生素B12
+	zh-TW:維生素B12
+	zh-HK:維生素B12
+	zh-CN:维生素B12
+
+label:biotin
+	fr:Biotine (Vitamine B8 / B7 / H)
+	en:Biotin
+	es:Vitamina B7 (Biotina)
+	unit:µg
+	dv:300
+	it:Vitamina B8/B7/H/I (Biotina)
+	pt:Vitamina B7 (Biotina)
+	de:Biotin (Vitamin B8 / B7 / H)
+	ja:ビタミン B8 / B7 / H
+	he:ביוטין (ויטמין B7)
+	ga:Bitin
+	el:Βιοτίνη
+	fi:Biotiini
+	nl:Biotine
+	nl_be:Biotine
+	lv:Biotīns
+	et:Biotiin
+	pl:Biotyna
+	lt:Biotinas
+	sk:Biotín
+	ro:Biotină
+	bg:Биотин
+	zh:生物素
+	zh-TW:生物素
+	zh-HK:生物素
+	zh-CN:生物素
+
+label:pantothenic-acid
+	fr:Acide pantothénique (Vitamine B5)
+	en:Pantothenic acid / Pantothenate (Vitamin B5)
+	ja:ビタミン B5
+	es:Vitamina B5 (Ácido pantoténico)
+	unit:mg
+	dv:10
+	it:Vitamina B5 (Acido pantotenico)
+	pt:Vitamina B5 (Ácido Pantotênico)
+	pt_pt:Vitamina B5 (ácido pantoténico)
+	de:Pantothensäure (Vitamin B5)
+	he:חומצה פנטותנית (ויטמין B5)
+	ga:Aigéad pantaitéineach
+	da:Pantothensyre
+	el:Παντοθενικό οξύ
+	fi:Pantoteenihappo
+	nl:Pantotheenzuur
+	nl_be:Pantotheenzuur
+	sv:Pantotensyra
+	lv:Pantotēnskābe
+	cs:Kyselina pantothenová
+	et:Pantoteenhape
+	hu:Pantoténsav
+	pl:Kwas pantotenowy
+	sl:Pantotenska kislina
+	lt:Pantoteno rūgštis
+	mt:Aċidu Pantoteniku
+	sk:Kyselina pantotenová
+	ro:Acid pantotenic
+	bg:Пантотенова киселина
+	zh-TW:泛酸
+	zh-HK:泛酸
+	zh-CN:泛酸
+	zh:泛酸
+
+label:#minerals
+	fr:Sels minéraux
+	en:Minerals
+	es:Sales minerales
+	el:Ανόργανα άλατα
+	it:Sali minerali
+	pt:Sais Minerais
+	de:Minerals
+	he:מינרלים
+	nl:Mineralen
+	nl_be:Mineralen
+	zh-TW:礦物質
+	zh-HK:礦物質
+	zh-CN:矿物质
+	zh:矿物质
+
+label:potassium
+	fr:Potassium
+	en:Potassium
+	es:Potasio
+	unit:mg
+	it:Potassio
+	pt:Potássio
+	de:Kalium
+	he:אשלגן
+	ga:Potaisiam
+	da:Kalium
+	el:Κάλιο
+	fi:Kalium
+	nl:Kalium
+	nl_be:Kalium
+	sv:Kalium
+	lv:Kālijs
+	cs:Draslík
+	et:Kaaliumv
+	hu:Kálium
+	pl:Potas
+	sl:Kalij
+	lt:Kalis
+	mt:Potassju
+	sk:Draslík
+	ro:Potasiu
+	bg:Калий
+	ru:Калий
+	zh:钾
+	zh-TW:鉀
+	zh-HK:鉀
+	zh-CN:钾
+
+label:bicarbonate
+	fr:Bicarbonate
+	en:Bicarbonate
+	es:Bicarbonato
+	el:Διττανθρακικό
+	unit:mg
+	it:Bicarbonato
+	pt:Bicarbonato
+	de:Bikarbonat
+	he:ביקרבונט (מימן פחמתי)
+	nl:Bicarbonaat
+	nl_be:Bicarbonaat
+	zh-TW:碳酸氫鈉
+	zh-HK:碳酸氫鈉
+	zh-CN:碳酸氢钠
+	zh:碳酸氢钠
+
+label:chloride
+	fr:Chlorure
+	en:Chloride
+	es:Cloro
+	unit:mg
+	dv:3400
+	it:Cloruro
+	pt:Cloreto
+	de:Chlor
+	he:כלוריד
+	ga:Clóiríd
+	da:Chlorid
+	el:Χλώριο
+	fi:Kloridi
+	sv:Klorid
+	lv:Hlorīdsv
+	cs:Chlor
+	et:Kloriid
+	hu:Klorid
+	pl:Chlor
+	sl:Klorid
+	lt:Chloridas
+	mt:Kloridu
+	sk:Chlorid
+	ro:Clorură
+	bg:Хлорид
+	ru:Хлорид
+	nl:Chloor
+	nl_be:Chloor
+	zh-TW:氯化物
+	zh-HK:氯化物
+	zh-CN:氯化物
+	zh:氯化物
+
+label:silica
+	fr:Silice
+	en:Silica
+	es:Sílice
+	el:Πυρίτιο
+	unit:mg
+	it:Silicio
+	pt:Sílica
+	de:Kieselerde
+	he:צורן דו־חמצני
+	nl:Silicium
+	nl_be:Silicium
+	zh-TW:二氧化矽
+	zh-HK:二氧化矽
+	zh-CN:二氧化矽
+	zh:二氧化矽
+
+label:calcium
+	fr:Calcium
+	en:Calcium
+	ja:カルシウム
+	es:Calcio
+	ar:الكالسيوم
+	it:Calcio
+	pt:Cálcio
+	de:Kalzium
+	he:סידן
+	ga:Cailciam
+	el:Ασβέστιο
+	fi:Kalsium
+	sv:Kalcium
+	lv:Kalcijs
+	cs:Vápník
+	et:Kaltsium
+	hu:Kalcium
+	pl:Wapń
+	sl:Kalcij
+	lt:Kalcis
+	mt:Kalċju
+	sk:Vápnik
+	ro:Calciu
+	bg:Калций
+	ru:Кальций
+	zh:鈣
+	nl:Calcium
+	nl_be:Calcium
+	zh-TW:鈣
+	zh-HK:鈣
+	zh-CN:钙
+	unit:mg
+	dv:1000
+	unit_us:% DV
+	unit_ca:% DV
+
+label:phosphorus
+	fr:Phosphore
+	en:Phosphorus
+	es:Fósforo
+	ar:الفوسفور
+	unit:mg
+	dv:1000
+	it:Fosforo
+	pt:Fósforo
+	de:Phosphor
+	he:זרחן
+	ga:Fosfar
+	da:Phosphor
+	el:Φωσφόρος
+	fi:Fosfori
+	nl:Fosfor
+	nl_be:Fosfor
+	sv:Fosfor
+	lv:Fosfors
+	cs:Fosfor
+	et:Fosfor
+	hu:Foszfor
+	pl:Fosfor
+	sl:Fosfor
+	lt:Fosforas
+	mt:Fosfru
+	sk:Fosfor
+	ro:Fosfor
+	bg:Фосфор
+	ru:Фосфор
+	zh:磷
+	zh-TW:磷
+	zh-HK:磷
+	zh-CN:磷
+
+label:iron
+	fr:Fer
+	en:Iron
+	ja:鉄
+	es:Hierro
+	it:Ferro
+	pt:Ferro
+	de:Eisen
+	he:ברזל
+	ga:Iarann
+	da:Jern
+	el:Σίδηρος
+	fi:Rauta
+	nl:IJzer
+	nl_be:IJzer
+	sv:Järn
+	lv:Dzelzs
+	cs:Železo
+	et:Raud
+	hu:Vas
+	pl:Żelazo
+	sl:Železo
+	lt:Geležis
+	mt:Kalċju
+	sk:Železo
+	ro:Fier
+	bg:Желязо
+	ru:Железо
+	zh:鐵
+	zh-TW:鐵
+	zh-HK:鐵
+	zh-CN:铁
+	unit:mg
+	dv:18
+	unit_us:% DV
+	unit_ca:% DV
+
+label:magnesium
+	fr:Magnésium
+	en:Magnesium
+	es:Magnesio
+	unit:mg
+	dv:400
+	it:Magnesio
+	pt:Magnésio
+	de:Magnesium
+	he:מגנזיום
+	ga:Maignéisiam
+	el:Μαγνήσιο
+	lv:Magnijs
+	cs:Hořčík
+	et:Magneesium
+	hu:Magnézium
+	pl:Magnez
+	sl:Magnezij
+	lt:Magnis
+	mt:Manjesju
+	sk:Horčík
+	ro:Magneziu
+	bg:Магнезий
+	ru:Магний
+	zh:鎂
+	nl:Magnesium
+	nl_be:Magnesium
+	ja:マグネシウム
+	zh-TW:鎂
+	zh-HK:鎂
+	zh-CN:镁
+
+label:zinc
+	fr:Zinc
+	en:Zinc
+	es:Zinc
+	unit:mg
+	dv:15
+	it:Zinco
+	pt:Zinco
+	de:Zink
+	he:אבץ
+	ga:Sinc
+	da:Zink
+	el:Ψευδάργυρος
+	fi:Sinkki
+	nl:Zink
+	nl_be:Zink
+	sv:Zink
+	lv:Cinks
+	cs:Zinek
+	et:Tsink
+	hu:Cink
+	pl:Cynk
+	sl:Cink
+	lt:Cinkas
+	mt:Żingu
+	sk:Zinok
+	bg:Цинк
+	ru:Цинк
+	zh:鋅
+	ja:亜鉛
+	zh-TW:鋅
+	zh-HK:鋅
+	zh-CN:锌
+
+label:copper
+	fr:Cuivre
+	en:Copper
+	es:Cobre
+	unit:mg
+	dv:2
+	it:Rame
+	pt:Cobre
+	de:Kupfer
+	he:נחושת
+	ga:Copar
+	da:Kobber
+	el:Χαλκός
+	fi:Kupari
+	nl:Koper
+	nl_be:Koper
+	sv:Koppar
+	lv:Varš
+	cs:Měď
+	et:Vask
+	hu:Réz
+	pl:Miedź
+	sl:Baker
+	lt:Varis
+	mt:Ram
+	sk:Meď
+	ro:Cupru
+	bg:Мед
+	ru:Медь
+	zh-TW:銅
+	zh-HK:銅
+	zh-CN:铜
+	zh:铜
+
+label:manganese
+	fr:Manganèse
+	en:Manganese
+	es:Manganeso
+	unit:mg
+	dv:2
+	it:Manganese
+	pt:Manganês
+	de:Mangan
+	he:מנגן
+	ga:Mangainéis
+	da:Mangan
+	el:Μαγγάνιο
+	fi:Mangaani
+	nl:Mangaan
+	nl_be:Mangaan
+	sv:Mangan
+	lv:Mangāns
+	cs:Mangan
+	et:Mangaan
+	hu:Mangán
+	pl:Mangan
+	sl:Mangan
+	lt:Manganas
+	mt:Manganis
+	sk:Mangán
+	ro:Mangan
+	bg:Манган
+	ru:Марганец
+	zh-TW:錳
+	zh-HK:錳
+	zh-CN:锰
+	zh:锰
+
+label:fluoride
+	fr:Fluorure
+	en:Fluoride
+	es:Flúor
+	unit:mg
+	it:Fluoro
+	pt:Fluoreto
+	de:Fluor
+	he:פלואוריד
+	ga:Fluairíd
+	da:Fluorid
+	el:Φθόριο
+	fi:Fluoridi
+	sv:Fluorid
+	lv:Fluorīds
+	cs:Fluor
+	et:Fluoriid
+	hu:Fluor
+	pl:Fluor
+	sl:Fluorid
+	lt:Fluoridas
+	mt:Floridu
+	sk:Fluorid
+	ro:Fluorură
+	bg:Флуорид
+	nl:Fluor
+	nl_be:Fluor
+	zh-TW:氟化物
+	zh-HK:氟化物
+	zh-CN:氟化物
+	zh:氟化物
+
+label:selenium
+	fr:Sélénium
+	en:Selenium
+	es:Selenio
+	unit:µg
+	dv:70
+	it:Selenio
+	pt:Selênio
+	pt_pt:Selénio
+	de:Selen
+	he:סלניום
+	ga:Seiléiniam
+	da:Selen
+	el:Σελήνιο
+	fi:Seleeni
+	nl:Seleen
+	nl_be:Seleen
+	sv:Selen
+	lv:Selēns
+	cs:Selen
+	et:Seleen
+	hu:Szelén
+	pl:Selen
+	sl:Selen
+	lt:Selenas
+	mt:Selenju
+	sk:Selén
+	ro:Seleniu
+	bg:Селен
+	zh:硒
+	zh-TW:硒
+	zh-HK:硒
+	zh-CN:硒
+
+label:chromium
+	fr:Chrome
+	en:Chromium
+	es:Cromo
+	unit:µg
+	dv:120
+	it:Cromo
+	pt:Cromo
+	pt_pt:Crómio
+	de:Chrom
+	he:כרום
+	ga:Cróimiam
+	da:Chrom
+	el:Χρώμιο
+	fi:Kromi
+	nl:Chroom
+	nl_be:Chroom
+	sv:Krom
+	lv:Hroms
+	cs:Chrom
+	et:Kroom
+	hu:Króm
+	pl:Chrom
+	sl:Krom
+	lt:Chromas
+	mt:Kromju
+	sk:Chróm
+	ro:Crom
+	bg:Хром
+	zh-TW:鉻
+	zh-HK:鉻
+	zh-CN:铬
+	zh:铬
+
+label:molybdenum
+	fr:Molybdène
+	en:Molybdenum
+	es:Molibdeno
+	unit:µg
+	dv:75
+	it:Molibdeno
+	pt:Molibdênio
+	pt_pt:Molibdénio
+	de:Molybdän
+	he:מוליבדן
+	ga:Molaibdéineam
+	da:Molybdæn
+	el:Μολυβδαίνιο
+	fi:Molybdeeni
+	nl:Molybdeen
+	nl_be:Molybdeen
+	sv:Molybden
+	lv:Molibdēns
+	cs:Molybden
+	et:Molübdeen
+	hu:Molibdén
+	pl:Molibden
+	sl:Molibden
+	lt:Molibdenas
+	mt:Molibdenum
+	sk:Molybdén
+	ro:Molibden
+	bg:Молибден
+	zh-TW:鉬
+	zh-HK:鉬
+	zh-CN:钼
+	zh:钼
+
+label:iodine
+	fr:Iode
+	en:Iodine
+	es:Yodo
+	unit:µg
+	dv:150
+	it:Iodio
+	pt:Iodo
+	de:Jod
+	he:יוד
+	ga:Iaidín
+	da:Jod
+	el:Ιώδιο
+	fi:Jodi
+	nl:Jodium
+	nl_be:Jodium
+	sv:Jod
+	lv:Jods
+	cs:Jód
+	et:Jood
+	hu:Jód
+	pl:Jod
+	sl:Jod
+	lt:Jodas
+	mt:Jodju
+	sk:Jód
+	ro:Iod
+	bg:Йод
+	zh-TW:碘
+	zh-HK:碘
+	zh-CN:碘
+	zh:碘
+
+label:nitrates
+	fr:Nitrates
+	en:Nitrates
+	nl:Nitraten
+	zh-TW:硝酸鹽
+	zh-HK:硝酸鹽
+	zh-CN:硝酸盐
+	zh:硝酸盐
+	unit:mg
+
+label:sulfates
+	fr:Sulfates
+	en:Sulfates
+	nl:Sulfaten
+	zh-TW:硫酸鹽
+	zh-HK:硫酸鹽
+	zh-CN:硫酸盐
+	zh:硫酸盐
+	unit:mg
+
+label:hydrogencarbonates
+	fr:Hydrogenocarbonates
+	en:Hydrogen carbonates
+	nl:Waterstofcarbonaten
+	zh-TW:碳酸氫
+	zh-HK:碳酸氫
+	zh-CN:碳酸氢
+	zh:碳酸氢
+	unit:mg
+
+
+label:caffeine
+	fr:Caféine / Théine
+	en:Caffeine
+	el:Καφεΐνη
+	nl:Cafeïne
+	nl_be:Cafeïne
+	pt:Cafeína
+	zh-TW:咖啡因
+	zh-HK:咖啡因
+	zh-CN:咖啡因
+	zh:咖啡因
+
+label:taurine
+zh_hans:牛磺酸
+zh_hant:牛磺酸
+zh_hk:牛磺酸
+zh_cn:牛磺酸
+zh_sg:牛磺酸
+zh_tw:牛磺酸
+zh-TW:牛磺酸
+zh-HK:牛磺酸
+zh-CN:牛磺酸
+pl:Tauryna
+wa:Torene
+ko:타우린
+fr:Taurine
+he:טאורין
+es:Taurina
+hu:Taurin
+it:Taurina
+gl:Taurina
+et:Tauriin
+id:Taurina
+de:Taurin
+ja:タウリン
+vi:Taurine
+nl:Taurine
+nl_be:Taurine
+sv:Taurin
+pt:Taurina
+eo:Taŭrino
+sk:Taurín
+ru:Таурин
+en:Taurine
+sr_el:Taurin
+sr_ec:Таурин
+tr:Taurin
+ro:Taurină
+ca:Taurina
+fi:Tauriini
+uk:Таурин
+sl:Tavrin
+cs:Taurin
+fa:تائورین
+bg:Таурин
+hr:Taurin
+da:Taurin
+sr:таурин
+zh:牛磺酸
+nb:Taurin
+hy:Տաուրին
+sh:Taurin
+ar:التورين
+sq:taurin
+mk:Таурин
+el:Ταυρίνη
+en_ca:Taurine
+en_gb:Taurine
+pt_br:Taurina
+
+
+label:ph
+	en:pH
+  da:pH
+  de:pH pH-Wert
+	el:pH
+  it:pH
+	nl:pH
+	nl_be:pH
+	zh-TW:pH
+	zh-HK:pH
+	zh-CN:pH
+	zh:pH
+	unit:
+
+
+label:carbon-footprint
+	fr:Empreinte carbone / émissions de CO2
+	en:Carbon footprint / CO2 emissions
+	es:Huella de carbono / Emisiones de CO2
+	el:Αποτύπωμα άνθρακα/Εκπομπές CO2
+	it:Emissioni di CO2 (impronta climatica)
+	pt:Pegada de carbono / Emissões de CO<sub>2</sub>
+	de:Carbon Footprint / CO2-Emissionen
+	he:טביעת רגל פחמנית / פליטת פחמן דו־חמצני
+	nl:Ecologische voetafdruk / CO2-uitstoot
+	nl_be:Ecologische voetafdruk / CO2-uitstoot
+	zh-TW:碳足跡 / 二氧化碳排放
+	zh-HK:碳足跡 / 二氧化碳排放
+	zh-CN:碳足迹 / 二氧化碳排放
+	zh:碳足迹 / 二氧化碳排放
+	unit:g
+
+label:fruits-vegetables-nuts
+	en:Fruits, vegetables and nuts (minimum)
+	fr:Fruits, légumes et noix (minimum)
+	es:Frutas, verduras y nueces (mínimo)
+	el:Φρούτα, λαχανικά, καρποί (ελάχιστο)
+	nl:Fruit, groenten en noten (minimum)
+	nl_be:Fruit, groenten en noten (minimum)
+	de:Obst, Gemüse und Nüsse (Minimum)
+	zh-TW:水果, 蔬菜, 堅果 (最低限度)
+	zh-HK:水果, 蔬菜, 堅果 (最低限度)
+	zh-CN:水果, 蔬菜, 坚果 (最低限度)
+	zh:水果, 蔬菜, 坚果 (最低限度)
+	unit:%
+
+label:collagen-meat-protein-ratio
+	en:Collagen/Meat protein ratio (maximum)
+	fr:Rapport collagène sur protéines de viande (maximum)
+	el:Αναλογία κολλαγόνου/πρωτεΐνης κρέατος (μέγιστο)
+	es:Relación tejido conjuntivo/proteínas de carne (máximo)
+	de:Verhältnis Kollagen/Eiweiß
+	nl:Verhouding collageen/eiwitten uit vlees (maximum)
+	nl_be:Verhouding collageen/eiwitten uit vlees (maximum)
+	zh-TW:膠原的肉蛋白比 (最低限度)
+	zh-HK:膠原的肉蛋白比 (最低限度)
+	zh-CN:胶原的肉蛋白比 (最低限度)
+	zh:胶原的肉蛋白比 (最低限度)
+	unit:%
+
+label:cocoa
+	en:Cocoa (minimum)
+	de:Kakao (Minimum)
+	es:Cacao (mínimo)
+	fr:Cacao (minimum)
+	nl:Cacao (minimum)
+	pt:Cacau (minimum)
+	zh-TW:可可 (最低限度)
+	zh-HK:可可 (最低限度)
+	zh-CN:可可 (最低限度)
+	zh:可可 (最低限度)
+	unit:%
+
+label:nutrition-score-uk
+	en:Nutrition score - UK
+	nl:Voedingsgraad
+	nl_be:Voedingsgraad
+	el:Bαθμολογία θρεπτικής αξίας-UK
+	zh-TW:營養評分 - UK
+	zh-HK:營養評分 - UK
+	zh-CN:营养评分 - UK
+	zh:营养评分 - UK
+	unit:
+
+label:nutrition-score-fr
+	fr:Score nutritionnel expérimental - France
+	en:Experimental nutrition score
+	nl:Experimentele voedingsscore
+	nl_be:Experimentele voedingsscore
+	el:Βαθμολογία θρεπτικής αξίας-FR
+	zh-TW:營養評分 - FR
+	zh-HK:營養評分 - FR
+	zh-CN:营养评分 - FR
+	zh:营养评分 - FR
+	unit:
+
+label:beta-carotene
+	de:Beta-Carotin
+	en:Beta carotene
+	es:Beta caroteno
+	fr:Bêta carotène
+	nl:Bêta-caroteen
+	nl_be:Bêta-caroteen
+	zh-TW:β-胡蘿蔔素
+	zh-HK:β-胡蘿蔔素
+	zh-CN:β-胡萝卜素
+	zh:β-胡萝卜素
+
+label:chlorophyl
+	de:Chlorophyll
+	en:Chlorophyl
+	nl:Chlorofyl
+	nl_be:Chlorofyl
+	zh-TW:葉綠素
+	zh-HK:葉綠素
+	zh-CN:叶绿素
+	zh:叶绿素
+
+label:nutrition-grade
+	fr:Note nutritionnelle
+	en:Nutrition grade
+	zh-TW:營養等級
+	zh-HK:營養等級
+	zh-CN:营养等级
+	zh:营养等级
+
+label:UK units
+	en:UK units
+	unit:label:
+
+label:IE units
+	en:IE units
+	unit:label:
+label:AUS units
+	en:AUS units
+	unit:label:
+label:SA units
+	en:SA units
+	unit:label:
+
+label:Unité alcool
+	fr:Unité alcool
+	unit:label:
+
+label:IBU
+        en:International Bittering Unit
+        unit:

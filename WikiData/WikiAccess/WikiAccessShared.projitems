@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>0e77c608-8481-49ab-9955-9e6fc2582667</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>WikiAccessShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ErrorLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ErrorMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IWikidataFields.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikiAccessSample.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataClaim.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataExtract.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataExtractErrorLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataFields.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataIO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikidataIOErrorLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikiDataSPARQL.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Wikidate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikimediaApi.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikiMediaApiErrorLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikipediaIO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WikipediaIOErrorLog.cs" />
+  </ItemGroup>
+</Project>

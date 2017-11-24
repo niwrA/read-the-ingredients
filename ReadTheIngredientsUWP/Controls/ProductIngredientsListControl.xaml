@@ -1,0 +1,60 @@
+﻿<UserControl
+    x:Class="ReadTheIngredientsUWP.Controls.ProductIngredientsListControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ctrl="using:ReadTheIngredientsUWP.Controls"
+    xmlns:local="using:ReadTheIngredientsUWP"
+    xmlns:vm="using:ProductsControllerShared"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:convert="using:ReadTheIngredientsUWP.Converters"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    <UserControl.Resources>
+        <convert:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        <DataTemplate x:Key="IngredientDataTemplate" x:DataType="vm:IngredientViewModel">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Grid.Column="0" TextWrapping="Wrap"  Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=PercentageText}"></TextBlock>
+                <ctrl:UniversalSymbol Tapped="ExpandClick" Margin="0,0,10,0" VerticalAlignment="Bottom" Grid.Column="1" SegoeMDL2AssetName="show_details" Visibility="{x:Bind Path=HasChildren, Mode=OneWay, Converter={StaticResource BooleanToVisibilityConverter}}"></ctrl:UniversalSymbol>
+                <TextBlock Tapped="IngredientClick" Grid.Column="2" TextWrapping="Wrap" Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=DisplayName}"></TextBlock>
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="ExpandedIngredientDataTemplate" x:DataType="vm:ExpandedIngredientViewModel">
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60"></ColumnDefinition>
+                        <ColumnDefinition Width="40"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" TextWrapping="Wrap"  Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=PercentageText}"></TextBlock>
+                    <ctrl:UniversalSymbol Tapped="CollapseClick" Margin="0,0,10,0" VerticalAlignment="Bottom" Grid.Column="1"  SegoeMDL2AssetName="hide_details" Visibility="{x:Bind Path=HasChildren, Mode=OneWay, Converter={StaticResource BooleanToVisibilityConverter}}"></ctrl:UniversalSymbol>
+                    <TextBlock Tapped="ExpandedIngredientClick" Grid.Column="2"  TextWrapping="Wrap" Style="{StaticResource TitleTextBlockStyle}" Text="{Binding Path=DisplayName}"></TextBlock>
+                </Grid>
+                <ctrl:ProductIngredientsListControl Grid.Row="1" x:Name="ChildrenListControl" ></ctrl:ProductIngredientsListControl>
+            </Grid>
+        </DataTemplate>
+        <local:DynamicDataTemplateSelector x:Key="DynamicDataTemplateSelector"
+                                       IngredientDataTemplate="{StaticResource IngredientDataTemplate}"
+                                       ExpandedIngredientDataTemplate="{StaticResource ExpandedIngredientDataTemplate}" />
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListView  Grid.Row="1" HorizontalAlignment="Stretch" ItemsSource="{Binding Path=Ingredients}" SelectionMode="None" SelectionChanged="ListView_SelectionChanged" ItemTemplateSelector="{StaticResource DynamicDataTemplateSelector}">
+        </ListView>
+    </Grid>
+
+</UserControl>

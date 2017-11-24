@@ -1,0 +1,1636 @@
+01.00005.086  analyse door:    Olsman WJ ea   Gehalten aan enige macro- en micronutriënten in een aantal monsters van diverse soorten vleeswaar   Rapportnummer R 5718, (1978)   TNO   analysemethode: Analysemethode onbekend
+01.00006      analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO
+01.00006.001  analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00006.003  analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00006.004  analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00006.005  analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO   analysemethode: Gasvloeistofchromatografie
+01.00006.027  analyse door:    Dukel F ea   Onderzoek van monsters kroepoek, loempia, nasibal, saté (kip)   Rapportnummer R 6540, (1980)   TNO   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00007      analyse door:    Luten JB   De chemische samenstelling van vissticks en lekkerbekjes   Rapportnummer R 0-280, (1980)   TNO
+01.00008      analyse door:    Luten JB   De chemische samenstelling van schol, koolvis, kabeljauw   Rapportnummer R O-317, (1981)   TNO
+01.00010      analyse door:    Bovenkamp P van de   Voedingsmiddelenanalyses, deel 1 Voedingsmiddelenanalyses 1973-1979   1979   Wageningen UR
+01.00010.003  analyse door:    Bovenkamp P van de   Voedingsmiddelenanalyses, deel 1 Voedingsmiddelenanalyses 1973-1979   1979   Wageningen UR   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00010.005  analyse door:    Bovenkamp P van de   Voedingsmiddelenanalyses, deel 1 Voedingsmiddelenanalyses 1973-1979   1979   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00010.018  analyse door:    Bovenkamp P van de   Voedingsmiddelenanalyses, deel 1 Voedingsmiddelenanalyses 1973-1979   1979   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00012      analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR
+01.00012.001  analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00012.003  analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00012.004
+analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00012.005  analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00012.018  analyse door:    Bovenkamp P van de ea   Voedingsmiddelenanalyses, deel 4 Voedingsmiddelen uit bedrijfsrestaurants en kant- en klaarproducten   1983   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00014.086  analyse door:    Hardinge MG ea   Carbohydrates in foods   J Am Diet Assoc (1965), 46, 3, 197-205      analysemethode: Analysemethode onbekend
+01.00015      analyse door:    Lacroix DE ea   Cholesterol, fat and protein in dairy products   J Am Diet Assoc (1973), 62, 3, 275-279
+01.00017      analyse door:    Fristrom GA ea   Comprehensive evaluation of fatty acids. Part 9, Fowl   J Am Diet Assoc (1976), 69, 11, 517-522
+01.00018      analyse door:    Weihrauch JL ea   Comprehensive evaluation of fatty acids. Part 6, Cereal products   J Am Diet Assoc (1976), 68, 4, 335-340
+01.00026      analyse door:    Posati LP ea   Comprehensive evaluation of fatty acids in foods. Part 3, Eggs and egg products   J Am Diet Assoc (1975), 67, 8, 111-115
+01.00027.086  analyse door:    Southgate DAT ea   A guide to calculating dietary intakes of dietary fibre   J Human Nutrition (1976), 30, 5, 303-313      analysemethode: Analysemethode onbekend
+01.00028.003  analyse door:    Hellendoorn EW ea   Enzymatic determination of the indigistible residue (dietary fibre) content of human food   J Sci Fd Agric (1975), 26, 1461-1468      analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00028.086  analyse door:    Hellendoorn EW ea   Enzymatic determination of the indigistible residue (dietary fibre) content of human food   J Sci Fd Agric (1975), 26, 1461-1468      analysemethode: Analysemethode onbekend
+01.00031      analyse door:    Het gehalte aan suikers van snoep   Rapportnummer R 5005   Ned Inst vd Volksvoeding
+01.00031.003  analyse door:    Het gehalte aan suikers van snoep   Rapportnummer R 5005   Ned Inst vd Volksvoeding   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00032.003  analyse door:    Lonckhuyzen HJ van   Onderzoek aan een aantal merken brood en droge bakprodukten   Rapportnummer 73-233, (1973)   TNO-IGMB   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00034      analyse door:    Voedingsraad Cie Vitaminering   Tweede deeladvies inzake de toevoeging van vitamines aan voedingsmiddelen. 1. Restauratie   Voeding (1984), 45, 6, 194-200
+01.00035      analyse door:    Hollmann P   Inventarisatie natrium c.q. zoutgehalte van voedingsmiddelen   Rapportnummer 84.82, (1984)   Rikilt
+01.00040      analyse door:    Veen NG van der   Onderzoek naar de samenstelling en kwaliteit van kruidenkaas   Rapportnummer 85.55, (1985)   Rikilt
+01.00040.003  analyse door:    Veen NG van der   Onderzoek naar de samenstelling en kwaliteit van kruidenkaas   Rapportnummer 85.55, (1985)   Rikilt   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00042      analyse door:    Dako DY ea   Der Glukose-, Fruktose- und Saccharosegehalt verschiedener Früchte   Schweiz Med Wschr (1970), 100, 21, 897-903
+01.00043      analyse door:    Schallenberg RS   Occurence of various sugars in foods   Sugars in Nutrition, 67-80
+01.00044      analyse door:    Southgate DAT ea   Free sugars in foods   J Human Nutrition (1978), 32, 335-347
+01.00045      analyse door:    Vidal-Valverde C ea   Dietary fiber in Spanish fruits   J Food Science (1982), 47, 1840-1845
+01.00047      analyse door:    Roomans HHS ea   Het gehalte aan sporenelementen in baby- en kleutervoeding, 1983   1984   nVWA
+01.00048      analyse door:    Lonckhuyzen HJ van   Analyses van rijst en knäckebröd   Rapportnummer 82-165, (1982)   TNO-IGMB
+01.00050      analyse door:    Germs AC   Chemische samenstelling van soepkippen   Vleesdistributie en vleestechnologie (1985), 5, 38-41   Spelderholt
+01.00052.014
+analyse door:    Vinkenborg C ea   Onderzoek van monsters groenten (andijvie, rode kool, sperciebonen en wortelen), aardappelpuree en een diepvriesmaaltijd   Rapportnummer T 82.054, (1982)   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorim
+etrie
+01.00052.015  analyse door:    Vinkenborg C ea   Onderzoek van monsters groenten (andijvie, rode kool, sperciebonen en wortelen), aardappelpuree en een diepvriesmaaltijd   Rapportnummer T 82.054, (1982)   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00052.016
+analyse door:    Vinkenborg C ea   Onderzoek van monsters groenten (andijvie, rode kool, sperciebonen en wortelen), aardappelpuree en een diepvriesmaaltijd   Rapportnummer T 82.054, (1982)   TNO   analysemethode: Zure hydrolyse, microbiologisch S. Uvarum o
+f S. Carlsbergenis, turbidimetrie = verouderd
+01.00052.034
+analyse door:    Vinkenborg C ea   Onderzoek van monsters groenten (andijvie, rode kool, sperciebonen en wortelen), aardappelpuree en een diepvriesmaaltijd   Rapportnummer T 82.054, (1982)   TNO   analysemethode: Extractie, titratie met indephenol = veroud
+erd
+01.00055      analyse door:    Brieven en analyseformulieren, mei 1979   1979   Wageningen UR
+01.00127      analyse door:    Janssen M   Mineraalanalyse, deel 2 Verslag doctoraalonderzoek   1986   Wageningen UR
+01.00127.027  analyse door:    Janssen M   Mineraalanalyse, deel 2 Verslag doctoraalonderzoek   1986   Wageningen UR   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00128.014  analyse door:    Willems MAW   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00128.015  analyse door:    Willems MAW   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00128.017  analyse door:    Willems MAW   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Rikilt   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00131.012  analyse door:    Broekman A ea   Gehalte aan zware metalen, arseen, seleen en enige voedingselementen van aardappelen, groenten en zoetwaren   Rapportnummer 12, (1983)   Inspectie W&V Friesland   analysemethode: Natte destructie, AAS
+01.00131.027
+analyse door:    Broekman A ea   Gehalte aan zware metalen, arseen, seleen en enige voedingselementen van aardappelen, groenten en zoetwaren   Rapportnummer 12, (1983)   Inspectie W&V Friesland   analysemethode: Verassen in moffeloven of magnetron-ontsluit
+ing, AAS
+01.00132      analyse door:    Jäger AJ   Jaarverslag 1981 Specialisatie verpakkingen en gebruiksartikelen   1981   Inspectie W&V Haarlem
+01.00133      analyse door:    Vaessen H ea   Natrium, kalium, calcium, magnesium en keukenzout in noten, specerijen en kruiden   Rapportnummer 648202002, (1985)   RIVM
+01.00134.086  analyse door:    Pieters JLL ea   Bewakingsprogramma "Mens en voeding", resultaten uit de jaren 1986 tot 1989   1986   RIVM   analysemethode: Analysemethode onbekend
+01.00135      analyse door:    Nutriëntensamenstelling van melk(produkten)   1987   NIZO
+01.00139.017  analyse door:    Driessen JJM   Onderzoek naar de kwaliteit van gesneden groenten   Rapportnummer 88.34, (1988)   Rikilt   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00142      analyse door:    Roomans HHS ea   Analyse van vlees   1988   nVWA
+01.00142.003  analyse door:    Roomans HHS ea   Analyse van vlees   1988   nVWA   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00142.012  analyse door:    Roomans HHS ea   Analyse van vlees   1988   nVWA   analysemethode: Natte destructie, AAS
+01.00142.017  analyse door:    Roomans HHS ea   Analyse van vlees   1988   nVWA   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00142.028  analyse door:    Roomans HHS ea   Analyse van vlees   1988   nVWA   analysemethode: Kleurreactie, fotometrie
+01.00147.027  analyse door:    Berensteijn R van   Mineraalanalyses in zuivelprodukten   1989   NIZO   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00148      analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO
+01.00148.001  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00148.002  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,38)
+01.00148.003  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00148.004  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00148.005  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Gasvloeistofchromatografie
+01.00148.006  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (Hellendoorn) = verouderd
+01.00148.007
+analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Pancreatinemethode, eindmeting Luff-Schoorl (methode van van de Kamer) = verouderd
+01.00148.008  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00148.009
+analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Verzeping, hplc, visuele spectofotometrie, kolomchromatografie, colorimetrie = verou
+derd
+01.00148.011  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Gravimetrie (Lorenz) = verouderd
+01.00148.012  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Natte destructie, AAS
+01.00148.013  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Natte destructie, kleurreactie, extractie, fluorimetrie
+01.00148.018  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Gasvloeistofchromatografie
+01.00148.021  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: HPLC
+01.00148.022  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Luff Schoorl
+01.00148.027  analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00148.068
+analyse door:    Dokkum W van ea   De TNO-Voeding Total diet studie, deel 3 Analyse resultaten van 226 voedingsmiddelen (Interne rapportage)   1990   TNO   analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxan
+tine
+01.00150      analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Wageningen UR
+01.00150.003  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Wageningen UR   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00150.005  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00151      analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Rikilt
+01.00151.014  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00151.015  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00151.027  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Rikilt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00151.036  analyse door:    Heijden L van der   Voedingsstoffensamenstelling van enkele Turkse voedingsmiddelen (LUW ism Rikilt)   1989   Rikilt   analysemethode: Verassing, (ICP-)AES
+01.00155      analyse door:    Uijttenboogaard TG ea   De samenstelling van in Nederland geproduceerde eieren 1984-1987   Rapportnummer 495, (1988)   Spelderholt
+01.00155.001  analyse door:    Uijttenboogaard TG ea   De samenstelling van in Nederland geproduceerde eieren 1984-1987   Rapportnummer 495, (1988)   Spelderholt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00155.027  analyse door:    Uijttenboogaard TG ea   De samenstelling van in Nederland geproduceerde eieren 1984-1987   Rapportnummer 495, (1988)   Spelderholt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00155.028  analyse door:    Uijttenboogaard TG ea   De samenstelling van in Nederland geproduceerde eieren 1984-1987   Rapportnummer 495, (1988)   Spelderholt   analysemethode: Kleurreactie, fotometrie
+01.00161.016
+analyse door:    Roomans HHS   Market Basket onderzoek van diverse levensmiddelen op het gehalte van vitamine C en vitamine B6   1989   nVWA   analysemethode: Zure hydrolyse, microbiologisch S. Uvarum of S. Carlsbergenis, turbidimetrie = verouderd
+01.00162.001  analyse door:    Wijk Th van   Bepaling van het vetgehalte van vleesprodukten   Rapportnummer T 91.038, (1991)   TNO-NCV   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00162.004  analyse door:    Wijk Th van   Bepaling van het vetgehalte van vleesprodukten   Rapportnummer T 91.038, (1991)   TNO-NCV   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00162.014  analyse door:    Wijk Th van   Bepaling van het vetgehalte van vleesprodukten   Rapportnummer T 91.038, (1991)   TNO-NCV   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00162.015  analyse door:    Wijk Th van   Bepaling van het vetgehalte van vleesprodukten   Rapportnummer T 91.038, (1991)   TNO-NCV   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00163.014  analyse door:    Slangen JH   Total diet; vitamine B1 en B2 analyses (TNO ism Rikilt)   1990   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00163.015  analyse door:    Slangen JH   Total diet; vitamine B1 en B2 analyses (TNO ism Rikilt)   1990   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00163.045  analyse door:    Slangen JH   Total diet; vitamine B1 en B2 analyses (TNO ism Rikilt)   1990   Rikilt   analysemethode: Hydrolyse, oxidatie fluorimetrie = verouderd
+01.00163.046  analyse door:    Slangen JH   Total diet; vitamine B1 en B2 analyses (TNO ism Rikilt)   1990   Rikilt   analysemethode: Hydrolyse, omzetting door UV in lumiflavine, fluorimetrie = verouderd
+01.00164.010  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 1   Rapportnummer V-KB/1124, (1989)   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00164.099  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 1   Rapportnummer V-KB/1124, (1989)   TNO   analysemethode: Verzeping en opzuivering, extractie, HPLC, meting door CPB
+01.00164.100  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 1   Rapportnummer V-KB/1124, (1989)   TNO   analysemethode: Verzeping en opzuivering, extractie, HPLC, meting door CPB
+01.00165.010  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 2   Rapportnummer V-KB/1521, (1990)   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00165.099  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 2   Rapportnummer V-KB/1521, (1990)   TNO   analysemethode: Verzeping en opzuivering, extractie, HPLC, meting door CPB
+01.00165.100  analyse door:    Berg H van den   Vitamine D uitslagen tbv NEVO tabel, deel 2   Rapportnummer V-KB/1521, (1990)   TNO   analysemethode: Verzeping en opzuivering, extractie, HPLC, meting door CPB
+01.00167.001  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00167.003  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00167.004  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00167.007  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Pancreatinemethode, eindmeting Luff-Schoorl (methode van van de Kamer) = verouderd
+01.00167.012  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Natte destructie, AAS
+01.00167.023  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Vacuumstoof/vacuumzandmethode
+01.00167.027  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00167.032  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Enzymatische methode
+01.00167.043  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00167.044  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Enzymatische methode
+01.00167.067  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   Wageningen UR   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00168.026  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   TNO   analysemethode: CPB-methode met intrinsicfactor
+01.00168.027  analyse door:    Willems MAW ea   Alternatieve voedingsmiddelen, deel 8 (LUW ism Rikilt en TNO)   1987   TNO   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00169.005  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00169.012  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Natte destructie, AAS
+01.00169.013  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Natte destructie, kleurreactie, extractie, fluorimetrie
+01.00169.018  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00169.024  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Extractie met chloroform-methanol, Folch-methode
+01.00169.025  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Verzeping, HPLC, kolomchromatografie, colorimetrie = verouderd
+01.00169.026  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: CPB-methode met intrinsicfactor
+01.00169.027  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00169.080
+analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 10 Vis, schaal- en schelpdieren   1990   Wageningen UR   analysemethode: Destructie met zuur, oxidatie, gekatalyseerde arseniet-cerium reaktie (Sandell-Kolthoff reaktie), spectrofotometrie
+01.00170.010  analyse door:    Berg H van den ea   Bepaling van vitamine D in vlees en vleesprodukten   Rapportnummer V 91.299, (1991)   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00170.099  analyse door:    Berg H van den ea   Bepaling van vitamine D in vlees en vleesprodukten   Rapportnummer V 91.299, (1991)   TNO   analysemethode: Verzeping en opzuivering, extractie, HPLC, meting door CPB
+01.00173.001  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00173.003  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00173.007  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Pancreatinemethode, eindmeting Luff-Schoorl (methode van van de Kamer) = verouderd
+01.00173.012  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Natte destructie, AAS
+01.00173.014  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00173.015  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00173.016  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Zure hydrolyse, microbiologisch S. Uvarum of S. Carlsbergenis, turbidimetrie = verouderd
+01.00173.019  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Zure hydrolyse, gevolgd door Berntrop of Weibull- Stoldt
+01.00173.028  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Kleurreactie, fotometrie
+01.00173.033  analyse door:    Analyse van kip en kipprodukten bereid   1990   nVWA   analysemethode: Colorimetrische vanadolmolybdaat-methode
+01.00174.005  analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 11 Spijsvetten en -oliën,   1991   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00183.014  analyse door:    Slangen JH   Analyse van aardappel (gebakken), spinazie, spruitjes, bloemkool en rode bieten na toebereiding   Rapportnummer 86.57, (1986)   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00183.015  analyse door:    Slangen JH   Analyse van aardappel (gebakken), spinazie, spruitjes, bloemkool en rode bieten na toebereiding   Rapportnummer 86.57, (1986)   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00183.016
+analyse door:    Slangen JH   Analyse van aardappel (gebakken), spinazie, spruitjes, bloemkool en rode bieten na toebereiding   Rapportnummer 86.57, (1986)   Rikilt   analysemethode: Zure hydrolyse, microbiologisch S. Uvarum of S. Carlsbergenis, turbidimet
+rie = verouderd
+01.00183.017  analyse door:    Slangen JH   Analyse van aardappel (gebakken), spinazie, spruitjes, bloemkool en rode bieten na toebereiding   Rapportnummer 86.57, (1986)   Rikilt   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00183.027  analyse door:    Slangen JH   Analyse van aardappel (gebakken), spinazie, spruitjes, bloemkool en rode bieten na toebereiding   Rapportnummer 86.57, (1986)   Rikilt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00184.012  analyse door:    Vaessen HAMG ea   Arseen, natrium, kalium, selenium en tin in vers in- en uitheems fruit   Rapportnummer 648210001, (1985)   RIVM   analysemethode: Natte destructie, AAS
+01.00184.013  analyse door:    Vaessen HAMG ea   Arseen, natrium, kalium, selenium en tin in vers in- en uitheems fruit   Rapportnummer 648210001, (1985)   RIVM   analysemethode: Natte destructie, kleurreactie, extractie, fluorimetrie
+01.00189      analyse door:    Meer MA van de ea   Analyse van 5 merken diepvriesboerenkool, -doperwten, -sperciebonen en -spinazie   Rapportnummer 405/2364, (1982)   Ato-DLO (voorheen Sprenger)
+01.00189.012  analyse door:    Meer MA van de ea   Analyse van 5 merken diepvriesboerenkool, -doperwten, -sperciebonen en -spinazie   Rapportnummer 405/2364, (1982)   Ato-DLO (voorheen Sprenger)   analysemethode: Natte destructie, AAS
+01.00193      analyse door:    Roomans HHS   Rapportage van vetzuren in bereid vlees   1993   nVWA
+01.00193.005  analyse door:    Roomans HHS   Rapportage van vetzuren in bereid vlees   1993   nVWA   analysemethode: Gasvloeistofchromatografie
+01.00194.019  analyse door:    Dukel F   Aardappelprodukten toebereid, chemische analyse   Rapportnummer AA 0956, (1992)   TNO   analysemethode: Zure hydrolyse, gevolgd door Berntrop of Weibull- Stoldt
+01.00196.086  analyse door:    Analyses vitamine E gehalte in voedingsmiddelen (intern document)   1989   Unilever   analysemethode: Analysemethode onbekend
+01.00197.005
+analyse door:    Mensink RP ea   Bronnen in de voeding van (n-3) meervoudig onverzadigde vetzuren en de opneming van deze vetzuren door zelfstandig wonende ouderen   Rapportnummer 92-06, (1995)   nVWA   analysemethode: Gasvloeistofchromatografie
+01.00197.024
+analyse door:    Mensink RP ea   Bronnen in de voeding van (n-3) meervoudig onverzadigde vetzuren en de opneming van deze vetzuren door zelfstandig wonende ouderen   Rapportnummer 92-06, (1995)   nVWA   analysemethode: Extractie met chloroform-methanol, Fo
+lch-methode
+01.00197.062
+analyse door:    Mensink RP ea   Bronnen in de voeding van (n-3) meervoudig onverzadigde vetzuren en de opneming van deze vetzuren door zelfstandig wonende ouderen   Rapportnummer 92-06, (1995)   nVWA   analysemethode: Vriesdrogen tbv droge stofgehalte all
+e produkten muv alcoholische dranken = verouderd
+01.00199.013  analyse door:    Vaessen HAMG ea   Vlees en enkele worstsoorten - gehalte aan ijzer en selenium   Rapportnummer 388801008, (1991)   RIVM   analysemethode: Natte destructie, kleurreactie, extractie, fluorimetrie
+01.00201.012  analyse door:    Vaessen HAMG ea   Vlees en enkele vleesprodukten - gehalte aan calcium en magnesium   Rapportnummer 389101003, (1993)   RIVM   analysemethode: Natte destructie, AAS
+01.00202.012  analyse door:    Vaessen HAMG ea   Vlees en enkele vleesprodukten - gehalte aan koper, mangaan en zink   Rapportnummer 389101004, (1994)   RIVM   analysemethode: Natte destructie, AAS
+01.00202.063
+analyse door:    Vaessen HAMG ea   Vlees en enkele vleesprodukten - gehalte aan koper, mangaan en zink   Rapportnummer 389101004, (1994)   RIVM   analysemethode: Ontsluiten met salpeterzuur, indampen, oplossen in salpeterzuur, verdunnen, meten met vlamloze
+ AAS
+01.00203.030  analyse door:    Hulshof KFAM ea   De gehaltes aan vitamine A in lever en leverprodukten.   Rapportnummer V 94.492, (1994)   TNO   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00204.005  analyse door:    Westenbrink S ea   Food analyses, part 3 Nutrient composition of 167 food items from Ghana, the Philippines, Italy and Finland   1983   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00205      analyse door:    Reimert HGM ea   Gewichts- en chemische samenstelling van kalkoenen   Rapportnummer 564, (1991)   Spelderholt
+01.00205.027  analyse door:    Reimert HGM ea   Gewichts- en chemische samenstelling van kalkoenen   Rapportnummer 564, (1991)   Spelderholt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00213.014  analyse door:    Pinckaers VGZ   Onderzoek naar de kwaliteit van rijst   Rapportnummer 96.35, (1996)   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00214.001  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00214.003  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00214.004  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00214.007  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Pancreatinemethode, eindmeting Luff-Schoorl (methode van van de Kamer) = verouderd
+01.00214.014  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00214.015  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00214.017  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00214.027  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00214.028  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Kleurreactie, fotometrie
+01.00214.029  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Extractie, alkalische hydrolyse, chromatografie over aluminiumoxide, spectofotometrie = verouderd
+01.00214.032  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Enzymatische methode
+01.00214.036  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Verassing, (ICP-)AES
+01.00214.043  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00214.054  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00214.064  analyse door:    Jong J de   Rapportage analyseresultaten uitheemse groenten en fruit   Rapportnummer B 2095, (1996)   Rikilt   analysemethode: Extractie met zoutzuur, hydrolyse, microbiologisch l. Plantarum, turbidimetrie
+01.00233      analyse door:    Egmond HJ van ea   Onderzoek naar de kwaliteit van koelverse en diepvriesmaaltijden   Rapportnummer 96.07, (1996)   Rikilt
+01.00241.016  analyse door:    Roomans HHS   Onderzoek kant- en klaarmaaltijden   Rapportnummer MA 9303, (1993)   nVWA   analysemethode: Zure hydrolyse, microbiologisch S. Uvarum of S. Carlsbergenis, turbidimetrie = verouderd
+01.00241.017  analyse door:    Roomans HHS   Onderzoek kant- en klaarmaaltijden   Rapportnummer MA 9303, (1993)   nVWA   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00242.001  analyse door:    Wit W de   Resultaten onderzoek in kant- en klaarmaaltijden   Rapportnummer B 776, (1993)   Rikilt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00242.007  analyse door:    Wit W de   Resultaten onderzoek in kant- en klaarmaaltijden   Rapportnummer B 776, (1993)   Rikilt   analysemethode: Pancreatinemethode, eindmeting Luff-Schoorl (methode van van de Kamer) = verouderd
+01.00242.019  analyse door:    Wit W de   Resultaten onderzoek in kant- en klaarmaaltijden   Rapportnummer B 776, (1993)   Rikilt   analysemethode: Zure hydrolyse, gevolgd door Berntrop of Weibull- Stoldt
+01.00242.035  analyse door:    Wit W de   Resultaten onderzoek in kant- en klaarmaaltijden   Rapportnummer B 776, (1993)   Rikilt   analysemethode: Vacuum-zandmethode bij 80° C
+01.00244.086  analyse door:    Onderzoek van 27 monsters chocoladedrank   1993   Rikilt   analysemethode: Analysemethode onbekend
+01.00245.001  analyse door:    Driessen JJM   Onderzoek van 39 monsters paddestoelen   Rapportnummer B 664, (1994)   Rikilt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00245.067  analyse door:    Driessen JJM   Onderzoek van 39 monsters paddestoelen   Rapportnummer B 664, (1994)   Rikilt   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00248.042  analyse door:    Labrijn JF   Onderzoek in port   Rapportnummer B 1637, (1995)   Rikilt   analysemethode: Destillatie en dichtheidsmeting
+01.00249.003  analyse door:    Egmond HJ van   Onderzoek naar de  microbiologische en chemische kwaliteit van kip- en kalkoenfilet   Rapportnummer 96.22, (1996)   Rikilt   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00249.086  analyse door:    Egmond HJ van   Onderzoek naar de  microbiologische en chemische kwaliteit van kip- en kalkoenfilet   Rapportnummer 96.22, (1996)   Rikilt   analysemethode: Analysemethode onbekend
+01.00250.001  analyse door:    Driessen JJM   Onderzoek van 51 monsters zoutjes   Rapportnummer B 2209, (1993)   Rikilt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00250.003  analyse door:    Driessen JJM   Onderzoek van 51 monsters zoutjes   Rapportnummer B 2209, (1993)   Rikilt   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00250.086  analyse door:    Driessen JJM   Onderzoek van 51 monsters zoutjes   Rapportnummer B 2209, (1993)   Rikilt   analysemethode: Analysemethode onbekend
+01.00252      analyse door:    Onderzoek van 41 monsters runderentrecôte   Rapportnummer B 1013, (1994)   Rikilt
+01.00253.068  analyse door:    Bausch S ea   Carotenoïdengehalten in groenten (tbv Nederlandse Cohort Studie) (intern document)   1997   TNO   analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00256      analyse door:    Vetzuuranalyses Transfair   1998   TNO
+01.00256.004  analyse door:    Vetzuuranalyses Transfair   1998   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00256.005  analyse door:    Vetzuuranalyses Transfair   1998   TNO   analysemethode: Gasvloeistofchromatografie
+01.00257.068
+analyse door:    Bureau JL ea   HPLC determination of carotenoids in fruits and vegetables in the United States   J Food Science (1986), 51, 1, 128-130      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxa
+ntine
+01.00258.068
+analyse door:    Granado F ea   Carotenoid composition in raw and cooked Spanish vegetables   J Agric Food Chem (1992), 40, 11, 2135-2140      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00259.068
+analyse door:    Hart DJ ea   Development and evaluation of an HPLC method for the analysis of carotenoids in foods; measurement of the carotenoid content of vegetables and fruits   Food Chemistry (1995), 54, 101-111      analysemethode: Extractie met meth
+anol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00260.068
+analyse door:    Heinonen M ea   Carotenoids and retinoids in Finnish foods: ready-to-eat foods   J Food Composition and Analysis (1988), 1, 221-230      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxanti
+ne
+01.00261.068
+analyse door:    Heinonen M ea   Carotenoids and retinoids in Finnish foods: dietary fats   J Food Composition and Analysis (1988), 1, 334-340      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00262.068
+analyse door:    Heinonen M ea   Carotenoids and retinoids in Finnish foods: cereal and bakery products   Cereal Chemistry (1989), 66, 4, 270-273      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00263.068
+analyse door:    Heinonen M ea   Carotenoids in Finnish foods: vegetables, fruits and berries   J Agric Food Chem (1989), 37, 3, 655-659      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00265      analyse door:    Ollilainen V ea   Carotenoids and retinoids in Finnish foods: meat and meat products   J Food Composition and Analysis (1988), 1, 178-188
+01.00265.068
+analyse door:    Ollilainen V ea   Carotenoids and retinoids in Finnish foods: meat and meat products   J Food Composition and Analysis (1988), 1, 178-188      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm crypt
+oxantine
+01.00266.068
+analyse door:    Ollilainen V ea   Carotenoids and retinoids in Finnish foods: dairy products and eggs   J Dairy Science (1989), 72, 9, 2257-2265      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00267.068
+analyse door:    E-Siong Tee ea   Carotenoid composition and content of Malaysian vegetables and fruits by the AOAC and HPLC methods   Food Chemistry (1991), 41, 309-339      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verz
+eping ivm cryptoxantine
+01.00268.068
+analyse door:    Tonucci LH ea   Carotenoid content of thermally processed tomato-based food products   J Agric Food chem (1995), 43, 3, 579-586      analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00269.068
+analyse door:    Müller H   Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection   Z Lebensm Untersuchung Forschung (1997), 204, 88-94      analysemethode: Extractie met methanol/THF, HPLC (rp), de
+tectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00270.068
+analyse door:    Bausch S ea   Carotenoïdengehalten in andere voedingsmiddelen dan groenten (tbv Nederlandes Cohort Studie) (intern document)   1997   TNO   analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxa
+ntine
+01.00271      analyse door:    Divisie Analytical Sciences   Analyseresultaten nav studie 452 in vlees afkomstig van Islamitische slagers   1998   TNO
+01.00272.026  analyse door:    Blokdijk V ea   Bepaling van het vitamine B12 gehalte in vlees en vleeswaren   Rapportnummer V99.209, (2000)   TNO   analysemethode: CPB-methode met intrinsicfactor
+01.00278.049  analyse door:    Konings EJM   Voedingsmiddelentabel Foliumzuur (1999) en Monsternameprotocol voor foliumzuuranalyses (1997).   Rapportnummer MA9701, (1999)   nVWA   analysemethode: HPLC
+01.00282      analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt
+01.00282.001  analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00282.003  analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00282.005  analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt   analysemethode: Gasvloeistofchromatografie
+01.00282.067  analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00282.086  analyse door:    Wit W de   Onderzoek naar de samenstelling van belegde broodjes   Rapportnummer B 2629, (1993)   Rikilt   analysemethode: Analysemethode onbekend
+01.00283.049  analyse door:    Vahteristo LT ea   Application of an HPLC assay for the determination of folate derivates in some vegetables, fruits and berries consumed in Finland   Food Chem (1997), 59, 589-597      analysemethode: HPLC
+01.00284.049  analyse door:    Vahteristo LT ea   Liquid chromatographic determination of folate monoglutamates in fish, meat, egg and dairy products consumed in Finland   J AOAC International (1997), 80, 2, 373-378      analysemethode: HPLC
+01.00285.050  analyse door:    Lawrence P   Individual folates in foodstuffs project 2B033   Rapportnummer AS20/96/88, (1996)      analysemethode: Microbiologische methode
+01.00286.008  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00286.012  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Natte destructie, AAS
+01.00286.014  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00286.015  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00286.017  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00286.027  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00286.028  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Kleurreactie, fotometrie
+01.00286.030  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00286.067  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00286.068  analyse door:    Roomans HHS   De voedingswaarde van diverse salades   Rapportnummer MA 9802, (2000)   nVWA   analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00287      analyse door:    Roomans HHS   Onderzoek naar het gehalte aan natrium, kalium, magnesium, calcium, zink, ijzer, koper en mangaan in enkelvoudige en samengestelde ontbijtgranen   1982   nVWA
+01.00287.012  analyse door:    Roomans HHS   Onderzoek naar het gehalte aan natrium, kalium, magnesium, calcium, zink, ijzer, koper en mangaan in enkelvoudige en samengestelde ontbijtgranen   1982   nVWA   analysemethode: Natte destructie, AAS
+01.00288.086  analyse door:    Roomans HHS   Zinkanalyses   1988   nVWA   analysemethode: Analysemethode onbekend
+01.00289.071
+analyse door:    Hulshof PJM ea   Voedingsmiddelenanalyses, deel 13 Retinol en carotenoïden in zuivelproducten   2001   Wageningen UR   analysemethode: Complete verzeping van vet, milde verzeping, HPLC analyse: Hulshof PJM et al, J Food Comp Anal 19 (2006)
+ 67-75
+01.00290.012  analyse door:    VEWIN   Analysecijfers drinkwater van circa 250 Nederlandse pompstations, verzameld en beschikbaar gesteld door VEWIN en het RIVM   2000   VEWIN   analysemethode: Natte destructie, AAS
+01.00290.028  analyse door:    VEWIN   Analysecijfers drinkwater van circa 250 Nederlandse pompstations, verzameld en beschikbaar gesteld door VEWIN en het RIVM   2000   VEWIN   analysemethode: Kleurreactie, fotometrie
+01.00290.048  analyse door:    VEWIN   Analysecijfers drinkwater van circa 250 Nederlandse pompstations, verzameld en beschikbaar gesteld door VEWIN en het RIVM   2000   VEWIN   analysemethode: Destructie, reductie, hydride-AAS
+01.00292.073  analyse door:    Konings E   Tocoferolen en tocotrienolen in circa 50 producten, bemonsterd in Nederland 1997. Persoonlijke mededeling   1997   nVWA   analysemethode: Verzeping, HPLC (np), fluorimetrie (Konings, 1996)
+01.00293.001  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00293.005  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Gasvloeistofchromatografie
+01.00293.014  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00293.027  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00293.044  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Enzymatische methode
+01.00293.054  analyse door:    Reijer, den MWH   Analysis of ostrich-beef   Rapportnummer V9700093, (1998)   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00296.001
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Kjeldahl (via totaal sti
+kstof * 6,25)
+01.00296.003
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Drogen mbv droogstoof of
+ vacuumstoof
+01.00296.008
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Verzeping, HPLC (rp), fl
+uorimetrie
+01.00296.014
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Hydrolyse, HPLC, na-kolo
+mderivatie, fluorimetrie
+01.00296.015
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Hydrolyse, HPLC, fluorim
+etrie
+01.00296.018
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Gasvloeistofchromatograf
+ie
+01.00296.027
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Verassen in moffeloven o
+f magnetron-ontsluiting, AAS
+01.00296.028
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Kleurreactie, fotometrie
+01.00296.030
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Alkalische hydrolyse, ex
+tractie, HPLC (rp), fotometrie
+01.00296.050
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Microbiologische methode
+01.00296.064
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Extractie met zoutzuur, 
+hydrolyse, microbiologisch l. Plantarum, turbidimetrie
+01.00296.076
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Verzeping, clean-up met 
+fluoriscentie
+01.00296.077
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: Zure hydrolyse, HPLC met
+ fluorescentiedetectie
+01.00296.078
+analyse door:    Harn J v. en Middelkoop JH v.   Technische resultaten, slachtrendementen en chemische samenstelling van vier merken slachtkuikens   Rapportnummer 4105460000, (2003)   Praktijkonderzoek Veehouderij   analysemethode: NEN-ISO-937
+01.00297.005  analyse door:    Consumentenbond   Analyses patat 2003- 2005   2005   nVWA   analysemethode: Gasvloeistofchromatografie
+01.00304.005  analyse door:    Consumentenbond   Onderzoek naar zoete tussendoortjes   2004   nVWA   analysemethode: Gasvloeistofchromatografie
+01.00305.027  analyse door:    Consumentenbond   Onderzoek naar biologische en reguliere rauwe groenten   2006   Rikilt   analysemethode: Verassen in moffeloven of magnetron-ontsluiting, AAS
+01.00306      analyse door:    Consumentenbond   Onderzoek naar de vetzuursamenstelling van vissoorten   2005   Rikilt
+01.00306.004  analyse door:    Consumentenbond   Onderzoek naar de vetzuursamenstelling van vissoorten   2005   Rikilt   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00313.036  analyse door:    Consumentenbond   Onderzoek naar natrium en kalium in verschillende producten   2006   Nutrilab   analysemethode: Verassing, (ICP-)AES
+01.00314.005  analyse door:    Consumentenbond   Onderzoek naar pindakaas; vet(zuren)   2006   Nutrilab   analysemethode: Gasvloeistofchromatografie
+01.00315.086  analyse door:    Akzo Nobel salt bv   Samenstelling JOZO en NEZO zout. Product data sheet, datum 01-07-2004   2004   Akzo Nobel salt bv   analysemethode: Analysemethode onbekend
+01.00316.081  analyse door:    Rasmussen ea   Iodine content in drinking water and other beverages in Denmark   European Journal of Clinical Nutrition (2000), 54, 57-60      analysemethode: Verdunning, massaspectrometrie
+01.00317.082  analyse door:    Haldimann M ea   Iodine content of food groups   Journal of Food Composition and Analysis (2005), 18, 461-471      analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00318.001  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00318.003  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00318.004  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00318.008  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00318.014  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00318.015  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00318.017  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00318.018  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Gasvloeistofchromatografie
+01.00318.030  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00318.040  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Zure hydrolyse, meting op optische rotatie = verouderd
+01.00318.043  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00318.067  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00318.068  analyse door:    Meulenaer B de   Analyses EuroFIR Ethnic Foods; macronutriënten en vitamines   2008   Universiteit Gent   analysemethode: Extractie met methanol/THF, HPLC (rp), detectie UV/DAD, evt. verzeping ivm cryptoxantine
+01.00319.036  analyse door:    Quekelberghe S van   Analyses EuroFIR Ethnic Foods; mineralen   2008   Chemiphar   analysemethode: Verassing, (ICP-)AES
+01.00320.001  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00320.003  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00320.004  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00320.005  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Gasvloeistofchromatografie
+01.00320.013  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Natte destructie, kleurreactie, extractie, fluorimetrie
+01.00320.014  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00320.015  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00320.018  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Gasvloeistofchromatografie
+01.00320.036  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Verassing, (ICP-)AES
+01.00320.043  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00320.050  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Microbiologische methode
+01.00320.054  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00320.067  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: Bepaling van ruwe as (NEN-3329; deze is vervallen, betrof ruwe as in veevoeders)
+01.00320.083  analyse door:    Westerop J van   Analyses brood iov Voorlichtingsbureau Brood tbv NEVO tabel, FCRA 08-0063.F/WEJ-rer   2008   TNO   analysemethode: HPLC met fluorescentiedetectie
+01.00321.001  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00321.003  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00321.004  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00321.005  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Gasvloeistofchromatografie
+01.00321.018  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Gasvloeistofchromatografie
+01.00321.021  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: HPLC
+01.00321.036  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Verassing, (ICP-)AES
+01.00321.043  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00321.080  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Destructie met zuur, oxidatie, gekatalyseerde arseniet-cerium reaktie (Sandell-Kolthoff reaktie), spectrofotometrie
+01.00321.082  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00321.088  analyse door:    RIVM   Analyse diverse producten ten behoeve van NEVO   2009   SGS Nederland B.V.   analysemethode: Droge verassing tot constant gewicht bij 550 °C
+01.00322.036  analyse door:    Theha   Natrium en kalium in 2 soorten kokosbrood   2009   Siliker   analysemethode: Verassing, (ICP-)AES
+01.00324.086  analyse door:    Akzo Nobel salt bv   Samenstelling keukenzout met jodium. Product data sheet, datum: 08-07-2009      Akzo Nobel salt bv   analysemethode: Analysemethode onbekend
+01.00325.008  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00325.010  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00325.014  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00325.015  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00325.017  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00325.030  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00325.050  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Microbiologische methode
+01.00325.054  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00325.055  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Microbiologisch l. Eichmanmi
+01.00325.064  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Extractie met zoutzuur, hydrolyse, microbiologisch l. Plantarum, turbidimetrie
+01.00325.085  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: HPLC (rp), spectrofotometrie
+01.00325.087  analyse door:    Haan HPM de   Vitamine-analyses diverse producten ten behoeve van NEVO   2009   TNO   analysemethode: Extractie met DCM/Methanol, radioreceptorassay (RRA)
+01.00326.005  analyse door:    Hulshof P   Vetzuuranalyses diverse producten ten behoeve van NEVO   2009   Wageningen UR   analysemethode: Gasvloeistofchromatografie
+01.00327.036  analyse door:    Stoppelaar J de   Natrium in kaas, 2008-2009, in opdracht van NZO   2010   ALcontrol Food BV   analysemethode: Verassing, (ICP-)AES
+01.00328      analyse door:    FNLI   Analysegegevens diverse typen Lays chips, mei 2010   2010   Eurofins, Analytico Food
+01.00328.001  analyse door:    FNLI   Analysegegevens diverse typen Lays chips, mei 2010   2010   Eurofins, Analytico Food   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00328.043  analyse door:    FNLI   Analysegegevens diverse typen Lays chips, mei 2010   2010   Eurofins, Analytico Food   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00328.089  analyse door:    FNLI   Analysegegevens diverse typen Lays chips, mei 2010   2010   Eurofins, Analytico Food   analysemethode: Berekend door laboratorium 'by difference'
+01.00334.001  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00334.003  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00334.004  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00334.005  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Gasvloeistofchromatografie
+01.00334.008  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00334.010  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00334.014  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00334.015  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00334.017  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00334.018  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Gasvloeistofchromatografie
+01.00334.030  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00334.036  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Verassing, (ICP-)AES
+01.00334.043  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00334.050  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Microbiologische methode
+01.00334.054  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00334.055  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Microbiologisch l. Eichmanmi
+01.00334.081  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Verdunning, massaspectrometrie
+01.00334.082  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00334.084  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Extractie m water, high performance anion exchange chromatography w pulsed amperometric detection-HPAECPAD
+01.00334.087  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Extractie met DCM/Methanol, radioreceptorassay (RRA)
+01.00334.092  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00334.096
+analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: Hydrolyse met zuur, high performance anion exchange chromatography w pulsed amperometric detection=HPAEC-PAD
+01.00334.104  analyse door:    Haan HPM de   Actualisering van de samenstelling van vlees in de NEVO-tabel, TNO / RIVM   2010   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00335      analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food
+01.00335.015  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00335.050  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: Microbiologische methode
+01.00335.055  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: Microbiologisch l. Eichmanmi
+01.00335.077  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: Zure hydrolyse, HPLC met fluorescentiedetectie
+01.00335.082  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00335.083  analyse door:    Kennisinstituut Bier   Analyse van diverse biersoorten   2011   Eurofins, Analytico Food   analysemethode: HPLC met fluorescentiedetectie
+01.00336.003  analyse door:    Dutch Nut Group   Analyses van blanke rozijnen   Rapportnummer 411016, (2006)   ALcontrol Food BV   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00337.001  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00337.002  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,38)
+01.00337.003  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00337.004  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00337.005  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Gasvloeistofchromatografie
+01.00337.008  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00337.010  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00337.014  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00337.015  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00337.018  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Gasvloeistofchromatografie
+01.00337.030  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00337.036  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Verassing, (ICP-)AES
+01.00337.043  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00337.050  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Microbiologische methode
+01.00337.054  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00337.055  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Microbiologisch l. Eichmanmi
+01.00337.081  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Verdunning, massaspectrometrie
+01.00337.082  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00337.084  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Extractie m water, high performance anion exchange chromatography w pulsed amperometric detection-HPAECPAD
+01.00337.092  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00337.096  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: Hydrolyse met zuur, high performance anion exchange chromatography w pulsed amperometric detection=HPAEC-PAD
+01.00337.104  analyse door:    Haan HPM de   Analyses Turkse producten   2011   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00339.001  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00339.004  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00339.036  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Verassing, (ICP-)AES
+01.00339.043  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00339.082  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00339.088  analyse door:    M. Vermeulen   Analyserapport van oranje paprika   2011   TNO   analysemethode: Droge verassing tot constant gewicht bij 550 °C
+01.00344.004  analyse door:    Consumentenbond   Onderzoek naar koekjes en wafels   2009   Nutrilab   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00344.005  analyse door:    Consumentenbond   Onderzoek naar koekjes en wafels   2009   Nutrilab   analysemethode: Gasvloeistofchromatografie
+01.00344.022  analyse door:    Consumentenbond   Onderzoek naar koekjes en wafels   2009   Nutrilab   analysemethode: Luff Schoorl
+01.00344.036  analyse door:    Consumentenbond   Onderzoek naar koekjes en wafels   2009   Nutrilab   analysemethode: Verassing, (ICP-)AES
+01.00345.005  analyse door:    Consumentenbond   Onderzoek naar vleesvervangers   2011   CCL Nutricontrol   analysemethode: Gasvloeistofchromatografie
+01.00346.012  analyse door:    NVWA   Analysecijfers bij NVWA rapport: Monitoring van het gehalte aan keukenzout in diverse levensmiddelen 2012.   2012   nVWA   analysemethode: Natte destructie, AAS
+01.00350.097  analyse door:    LJ Schurgers en C Vermeer   Determination of phylloquinone and menaquinones in food   Haemostasis (2000), 30, 298-307   Universiteit Maastricht/VitaK   analysemethode: HPLC met fluorescentiedetectie (HPLC-FLU)
+01.00352.098  analyse door:    Bolton-Smith, C etal   Compilation of a provisional UK database for the phylloquinone (vitamin K1) content of foods   British Journal of Nutrition (2000), 83, 389-399      analysemethode: HPLC met UV-dectectie
+01.00354.036  analyse door:    Hulzen, KJE van et al   Genetic and nongenetic variation in concentration of Se, Ca, K, Zn, Mg, and P in milk of Dutch Holstein-Friesian cows   J Dairy Sci (2009), 92, 5754-5759      analysemethode: Verassing, (ICP-)AES
+01.00355.026  analyse door:    Rutten MJM et al   Genetic variation in vitamin B-12 content of bovine milkand its association with SNP along the bovine genome   PloS ONE (2013), 8, 4      analysemethode: CPB-methode met intrinsicfactor
+01.00356.005  analyse door:    Valenberg HJF van et al   Concentrations of n-3 and n-6 fatty acids in Dutch bovinemilk fat and their contribution to human dietary intake   J Dairy Sci (2013), 96, 1-9      analysemethode: Gasvloeistofchromatografie
+01.00357.036  analyse door:    Bijl E et al   Milk protein content and salt composition. Protein, casein and micellar salts in milk: current content and historical perspectives   submitted for publication (2013)      analysemethode: Verassing, (ICP-)AES
+01.00359.004
+analyse door:    Verkleij TJ   Bemonstering en analyses van totaal vetgehalte van rundergehakt bij de slager en de supermarkt   Rapportnummer R10698, (2013)   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00360.005  analyse door:    Sirot V et al   Lipid and fatty acid composition of fish and seafood consumed in France: CALIPSO study   Journal of Food Composition and Analysis (2008), 21, 8-16      analysemethode: Gasvloeistofchromatografie
+01.00361      analyse door:    Versteegh JFM en Dik HHJ   Analysecijfers bij RIVM rapport: De Staat van het Drinkwater in Nederland, 2012   Rapportnummer 2014-0137, (2014)   RIVM
+01.00362.012  analyse door:    NVWA   Analysecijfers bij NVWA rapport: Monitoring van het gehalte aan keukenzout in diverse levensmiddelen 2013.   2014   nVWA   analysemethode: Natte destructie, AAS
+01.00364.001  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Kjeldahl (via totaal stikstof * 6,25)
+01.00364.003  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Drogen mbv droogstoof of vacuumstoof
+01.00364.004  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Zure hydrolyse, Berntrop of Weibull-Stoldt, gevolgd door Soxhlet
+01.00364.005  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Gasvloeistofchromatografie
+01.00364.008  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Verzeping, HPLC (rp), fluorimetrie
+01.00364.010  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Verzeping, extractie, HPLC, UV-detectie
+01.00364.014  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Hydrolyse, HPLC, na-kolomderivatie, fluorimetrie
+01.00364.015  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00364.017  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Oxidatie, derivatisering, HPLC, fluorimetrie
+01.00364.018  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Gasvloeistofchromatografie
+01.00364.030  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Alkalische hydrolyse, extractie, HPLC (rp), fotometrie
+01.00364.043  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Gravimetrisch na enzymatische behandeling (AOAC)
+01.00364.050  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Microbiologische methode
+01.00364.054  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Hydrolyse, HPLC, fluorimetrie
+01.00364.055  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Microbiologisch l. Eichmanmi
+01.00364.081  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Verdunning, massaspectrometrie
+01.00364.082  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00364.084
+analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Extractie m water, high performance anion exchange chromatography w pulsed amperometric detection-HPAECPAD
+01.00364.087  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Extractie met DCM/Methanol, radioreceptorassay (RRA)
+01.00364.088  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: Droge verassing tot constant gewicht bij 550 °C
+01.00364.092  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00364.101  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: HPLC met UV en fluorescentiedetectie
+01.00364.102  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00364.104  analyse door:    Haan HPM de   Analyses NEVO productonderzoek 2014-2015 - resultaten (interne rapportage)   2015   TNO   analysemethode: UPLC met fluorescentiedetectie
+01.00369.082  analyse door:    FrieslandCampina   Analyses vitamines en mineralen in kaas   2014   Eurofins, Analytico Food   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00371.097  analyse door:    FrieslandCampina   Analyses vitamine K in kaas   2014   Universiteit Maastricht/VitaK   analysemethode: HPLC met fluorescentiedetectie (HPLC-FLU)
+01.00372.082  analyse door:    FrieslandCampina   Analyses jodium in Goudse kaas   2015   Rikilt   analysemethode: Inductively coupled plasma isotope dilution mass spectrometry (ICP-MS)
+01.00373.012  analyse door:    NVWA   Analysecijfers bij NVWA rapport: Monitoring van het gehalte aan keukenzout in diverse levensmiddelen 2015.   2016   nVWA   analysemethode: Natte destructie, AAS
+02.00001      overname uit:    Marktverkenningen   Ned Tijdschr v Diëtisten (1974), 29, 277-277
+02.00011      overname uit:    Ott M   Onderzoek naar magnesiumgehalte van enige Nederlandse voedingsmiddelen   Voeding (1966), 27, 12, 615-623
+02.00016      overname uit:    Piendl A   Composition of German alcoholfree bottom fermented low gravity beer   Brauwelt International (1991), 2, 136-138
+02.00017      overname uit:    Mclaughin PL ea   Vitamin E content of foods   J Am Diet Assoc (1979), 75, 647-665
+02.00018      overname uit:    Luten JB   Spoorelementen in visserijprodukten (1985-1993)   Voeding (1994), 55, 9, 24-28
+02.00019      overname uit:    Booth SL et al   Vitamin K1 (phylloquinone) content of foods: a provisional table   J of Food Comp and Analysis (1993), 6, 109-120
+02.00021      overname uit:    Mattila etal   Effect of Different Vitamin D Supplementations in Poultry Feed onVitamin D Content of Eggs and Chicken Meat   J of Agriculture and Food Chemistry (2011), 59, 8298-8303
+02.00022      overname uit:    Mattila PH et al   Contents of cholecalciferol, ergocalciferol, and their 25-hydroxylated metabolites in milk products and raw meat and liver as determined by HPLC   J. Agric. Food Chem. (1995), 43, 2394-2399
+02.00023      overname uit:    Schmid A en Walther B   Natural Vitamin D Content in Animal Products   Advances in nutrition (2015), 4, 453-462
+03.00001      overname uit:    Voedingsraad   Nederlandse voedingsmiddelentabel 33e druk, 1981   Vovo
+03.00002      overname uit:    Voedingsraad   Nederlandse voedingsmiddelentabel 34e druk, 1983   Vovo
+03.00003      overname uit:    Voedingsraad   Nederlandse voedingsmiddelentabel 35e druk, 1987   Vovo
+03.00004      overname uit:    Souci SW ea   Die Zusammensetzung der Lebensmittel Nährwert-Tabellen 1986/87 3e druk, 1986   Wissenschaftl Verlagsgesellsch
+03.00005      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 5e druk, 1976   De Toorts
+03.00007      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 8e druk, 1979   De Toorts
+03.00008      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 9e druk, 1980   De Toorts
+03.00009      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 10e druk, 1981   De Toorts
+03.00010      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 11e druk, 1982   De Toorts
+03.00011      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 12e druk, 1984   De Toorts
+03.00012      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 13e druk, 1985   De Toorts
+03.00013      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 14e druk, 1986   De Toorts
+03.00014      overname uit:    Composition of foods, Agricultural handbook nr. 8, 1963   Us Department of Agriculture
+03.00015      overname uit:    Composition of foods, Agriculture handbook nr. 8-1, 1976   Us Department of Agriculture
+03.00016      overname uit:    Composition of foods, Agriculture handbook nr. 8-2, 1977   Us Department of Agriculture
+03.00017      overname uit:    Dalderup LM   Het Hartinfarkt: risicofactoren en preventiemogelijkheden, 1974   Nederlandse Hartstichting
+03.00018      overname uit:    Diem K ea   Scientific tables 7e druk, 1973   CIBA
+03.00020      overname uit:    Paul AA ea   McCance and Widdowson's The composition of foods 4e druk, 1978   MAFF/ MRC
+03.00021      overname uit:    Fritz P ea   Der Nahrwert des Fleisches, 1972   Reinhessischen Druckwertstatte
+03.00022      overname uit:    Surinaamse voedingsmiddelentabel, 1968   Ministerie van LVV, Paramaribo
+03.00023      overname uit:    Lueng W ea   Food composition tables for use in East Asia, 1972   FAO
+03.00024      overname uit:    Polacchi W ea   Food composition table for the Near East, 1982   Fao
+03.00025      overname uit:    Leung W ea   Food composition table for use in Africa, 1968   FAO
+03.00026      overname uit:    Platt BS   Tables of representive values of foods commonly used in tropical countries. Special Report Series nr 302, 1975   MRC
+03.00028      overname uit:    Shall H ea   Nährungsmitteltabelle zur Aufstelling und Berechnung von Diätverordningen für Krankenhaus, Sanatorium und Praxis, 1968   Barth
+03.00029      overname uit:    Leung W   Food composition table for Latin America, 1961   Incap
+03.00030      overname uit:    Randoin L ea   Tables de composition des aliments, 1974   Lanore
+03.00032      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 15e druk, 1987   De Toorts
+03.00033      overname uit:    Composition of foods, Agriculture handbook nr. 8-9, 1982   Us Department of Agriculture
+03.00035      overname uit:    Holland B ea   Cereals and cereal products, 3th supplement to McCance and Widdowson's The composition of foods 4e druk, 1988   MAFF / RSC
+03.00036      overname uit:    Carbasius-Weber E ea   Informatorium voor voeding en diëtetiek, 1979   Stafleu/Samson
+03.00037      overname uit:    Bovens M ea   Inschatten, berekenen en evalueren van de nutriëntsamenstelling van circa 130 voedingsitems ten behoeve van het Search-project (rapnr V 84.320), 1984   TNO-Voeding
+03.00038      overname uit:    Livsmedelstabeller, 1987   Statens livsmedelsverk, Zweden
+03.00041      overname uit:    Composition of foods; breakfast cereals, Agricultural handbook nr. 8-8, 1982   Us Department of Agriculture
+03.00042      overname uit:    Composition of foods; sausages and luncheon meats, Agricultural handbook nr. 8-7, 1980   Us Department of Agriculture
+03.00043      overname uit:    Composition of foods; vegetables and vegetable products, Agricultural handbook nr. 8-11, 1984   Us Department of Agriculture
+03.00044      overname uit:    Runia S ea   Nutriëntsamenstelling van 78 extra voedingsitems (Rapportnr 528478004, deel 4), 1989   RIVM
+03.00045      overname uit:    Runia S ea   Aanvullingen en correcties op nutriëntwaarden (Rapportnr 528478003, deel 3), 1989   RIVM
+03.00046      overname uit:    Laack H van   Samenstelling van melk en zuivelprodukten in de serie: Melk in relatie tot gezondheid 1e druk, 1985   Nederlands Zuivelbureau
+03.00050      overname uit:    Koivistonen P   Mineral element composition of Finnish foods, 1980   Acta Agric Scandinavica
+03.00053      overname uit:    Meer MA van der   Inneming en biobeschikbaarheid van zink uit groenten en fruit en de zinkverliezen tijdens bereiding er verwerking (Rapport nr 2323), 1986   Sprenger Instituut
+03.00055      overname uit:    Renner E ea   Nährwerttabellen für Milch und Milchprodukte, 1994   M Drathen
+03.00056      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 20e druk, 1992   De Toorts
+03.00057      overname uit:    Holland B ea   Vegetables, herbs and spices, 5th supplement to McCance and Widdowson's The composition of foods 4e druk, 1991   MAFF / RSC
+03.00058      overname uit:    Holland B ea   Mccance and Widdowson's The composition of foods 5e druk, 1991   MAFF / RSC
+03.00059      overname uit:    Holland B ea   Milk products and eggs, 4th supplement to McCance and Widdowson's The composition of foods 4e druk, 1989   MAFF / RSC
+03.00060      overname uit:    Holland B ea   Fruit and nuts, 1st supplement to Mccance and Widdowson's The composition of foods 5e druk, 1992   MAFF / RSC
+03.00062      overname uit:    Holland B ea   Fish and fish products, 3th supplement to McCance and Widdowson's The composition of foods 5e druk, 1993   MAFF / RSC
+03.00063      overname uit:    Møller A   Levnedsmiddel tabeller 1989, Food Composition Tables 1989, nutrient composition of Danish foods, 1989   Storkøkkencntr Levnedsmid Styr
+03.00064      overname uit:    Møller A ea   Levnedsmiddeltabeller, Food Composition Tables -aminoacids, carbohydrates and fatty acids in Danish foods, 1991   Storkøkkencntr Levnedsmid Styr
+03.00065      overname uit:    Rastas M ea   Ruoka-aineiden ravintoainesisältö. Livsmedlens näringsinnehåll (Nutrient composition of foods), 1989   Kansaneläkelaitos, Finland
+03.00066      overname uit:    Kistemaker C ea   De inneming van vitamine E in relatie tot het gehalte aan mov in de voeding. Deel 2, Vit E gehalten voor een groot aantal produkten (V93.118), 1993   TNO-Voeding
+03.00068      overname uit:    Souci SW ea   Die Zusammensetzung der Lebensmittel 5e druk, 1994   Medpharm / CRC Press
+03.00069      overname uit:    Chan W ea   Miscellaneous foods, 4th supplement to McCance and Widdowson's The composition of foods, 1994   MAFF / RSC
+03.00070      overname uit:    Paul AA ea   Amino acids, fatty acids, 1st supplement to McCance and Widdowson's The composition of foods 4e druk, 1979   MAFF / RSC
+03.00071      overname uit:    Bergstein I ea   Vitamine D gehaltes 1988; gebaseerd op Vitamine D en de voeding van ouderen (Rapnr 87-S01, 1987) + herberekening (Westenbrink 1988) (intern rapport), 1988   TNO-Voeding
+03.00072      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 23e druk, 1995   De Toorts
+03.00074      overname uit:    Livsmedelstabeller, Energi och Näringsämnen, Fettsyratabell (Fatty acid table) 1e druk, 1986   Liber Tryck AB, Zweden
+03.00075      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 21e druk, 1993   De Toorts
+03.00076      overname uit:    Brants HAM ea   Schaduwtabel retinol en ß-caroteen (intern document), 1994   TNO-Voeding
+03.00077      overname uit:    Chan W ea   Meat, poultry and game, 5th supplement to McCance & Widdowson's The compsition of foods 5e druk, 1995   MAFF / RSC
+03.00078      overname uit:    Livsmedels tabell, energi och näringsämnen, 1993   Statens Livsmedelsverk, Zweden
+03.00079      overname uit:    Brants HAM   Schaduwtabel vitamine E ten behoeve van VCPII (intern document), 1994   TNO-Voeding
+03.00080      overname uit:    Møller A ea   Levnedsmiddeltabeller (The composition of foods) 4e druk, 1996   Levnedsmiddelstyrelsen, DK
+03.00087      overname uit:    Chan W ea   Meat products and dishes, 6th supplement to McCance and Widdowson's The composition of foods 5e druk, 1996   MAFF / RSC
+03.00089      overname uit:    Heijden L van der ea   Vitamine B12 waarden in voedingsmiddelen. Een inventarisering op basis van literatuur, 1997   LUW Humane Voeding en Epidem
+03.00090      overname uit:    Livsmedels tabell, energi och näringsämnen, 1996   Livsmedelsverket, Zweden
+03.00091      overname uit:    USDA nutrient database for standard reference, 11th release 11.1e druk, 1997   US Department of Agriculture
+03.00092      overname uit:    Olmedilla B ea   Quantitation of provitamin-A and nonprovitamin-A carotenoids in the fruits most commonly consumed in Spain, in: Food and cancer prevention, 1993   Waldron KW
+03.00093      overname uit:    Compendium dieetpreparaten en voedingsmiddelen 25e druk, 1997   De Toorts
+03.00094      overname uit:    USDA nutrient database for standard reference, 12th release 12e druk, 1998   US Department of Agriculture
+03.00095      overname uit:    USDA_NCC Carotenoid database for US foods, 1998   USDA / NCC
+03.00097      overname uit:    Konings EJM   Voedingsmiddelentabel Foliumzuur (1999) en Monsternameprotocol voor foliumzuuranalyse (1997), 1999   Inspectie W & V
+03.00101      overname uit:    Favier JC ea   Répertoire général des aliments, table de composition 2e druk, 1995   Ciqual-Regal
+03.00103      overname uit:    Simonetta S ea   Banca dati di composizione degli alimenti per studi epidemoilogici in Italia, 1998   Istituto Europeo di Oncologia
+03.00104      overname uit:    USDA nutrient database for standard reference, 13th release 13e druk, 1999   US Department of Agriculture
+03.00105      overname uit:    Stewart KK (ed)   The Chinese food composition tables, in; J Food Comp Analysis 3 (1990) 189-442, 1990   Academic Press
+03.00106      overname uit:    Compendium dieetproducten en voedingsmiddelen 28e druk, 2000   Bohn Stafleu Van Loghum
+03.00108      overname uit:    Fatty acids, 7th supplement to the McCance and Widdowson's The composition of foods 5e druk, 1998   MAFF / RSC
+03.00109      overname uit:    USDA nutrient database for standard reference, 14th release 14e druk, 2001   US Department of Agriculture
+03.00112      overname uit:    Brants HAM   Carotenoïden in zuivelproducten, afgeleide waarden en inschattingen (intern rapport), 2003   TNO-Voeding
+03.00114      overname uit:    McCance and Widdowson's The composition of foods 6e druk, 2002   Food Standards Agency
+03.00116      overname uit:    USDA nutrient database for standard reference, release 16-1, 2004   US Department of Agriculture
+03.00119      overname uit:    USDA nutrient database for standard reference, release 17, 2004   US Department of Agriculture
+03.00121      overname uit:    Danish Veterinary and Food Adm   Danish Food Composition Databank, versie 5.0; http://www.foodcomp.dk/v5/fcdb_default.asp, 2003   Danish Veterinary and Food Adm
+03.00122      overname uit:    Bureau Stichting NEVO   Wijzigingsvoorstellen voor tabel 2006 (intern document), 2005   TNO-Kwaliteit van Leven
+03.00123      overname uit:    USDA National Nutrient Database for Standard Reference, Release 18. Nutrient Data Laboratory Home Page, http://www.nal.usda.gov/fnic/foodcomp, 2005   US Department of Agriculture
+03.00124      overname uit:    Danish Food Composition Databank, versie 6.0; http://www.foodcomp.dk/v6/fcdb_default.asp, 2005   Danish Veterinary and Food Adm
+03.00125      overname uit:    Kaathoven N en Genuchten S van   Compendium dieetpreparaten en voedingsmiddelen 33e druk, 2006   Bohn Stafleu van Loghum
+03.00128      overname uit:    KTL   Fineli - Finnish Food Composition Database, versie 6.0; http://www.fineli.fi/index.php?lang=en, 2006   Nat Publ Health Inst, Finland
+03.00129      overname uit:    USDA National Nutrient Database for Standard Reference, Release 19. Nutrient Data Laboratory Home Page, http://www.nal.usda.gov/fnic/foodcomp/search, 2006   Us Department of Agriculture
+03.00130      overname uit:    Bundeslebensmittelschlussel (BLS); Duitse voedingsmiddelentabel, 2006   BfEL, Karlsruhe
+03.00131      overname uit:    Livsmedelsverket The National Food Administration's food database, version "04/02/2008", Zweedse voedingsmiddelentabel, 2008   The National Food Admin Zweden
+03.00136      overname uit:    USDA National Nutrient Database for Standard Reference, Release 21. Nutrient Data Laboratory Home Page, http://www.ars.usda.gov/fnic/foodcomp/search, 2008   US Department of Agriculture
+03.00137      overname uit:    Verkaik-Kloosterman J et al   Iodine intake in the Netherlands, current situation and scenarios of potential future intake, briefrapport 350090005/2008 (vertrouwelijk), 2008   RIVM
+03.00138      overname uit:    Danish Food Composition Databank, versie 7.0; http://www.foodcomp.dk/v7/fcdb_default.asp 7.0e druk, 2008   DTU, Denemarken
+03.00139      overname uit:    NEVO   Herziening productgroep Brood nav analyses door NBC/TNO (bron 1-2-320); achtergronddocumentatie (intern document), 2009   RIVM
+03.00140      overname uit:    McCance&Widdowson’s The Composition of Foods Integrated Dataset (CoF IDS), 6th edition, 2002; http:www.food.gov.uk/science/dietarysurveys/dietsurveys, 2002   Food Standards Agency, UK
+03.00141      overname uit:    USDA National Nutrient Database for Standard Reference, Release 22. Nutrient Data Laboratory Home Page, http://www.ars.usda.gov/ba/bhnrc/ndl , 2009   US Department of Agriculture
+03.00142      overname uit:    Danish Food Composition Databank, versie 7.01; http://www.foodcomp.dk/v7/fcdb_default.asp, 2009   DTU, Denemarken
+03.00143      overname uit:    NEVO   Recepten en gemiddelden tbv gedrukte tabel 2011 (intern document), 2010   RIVM
+03.00144      overname uit:    Table Ciqual 2008, French Food Composition Table, http://www.afssa.fr/TableCIQUAL/, 2008   AFSSA
+03.00145      overname uit:    Irish Food Composition Database; http://www.ucc.ie/en/ifcdb/, 2009   Univ College Cork, Ireland
+03.00146      overname uit:    Voorlichtingsbureau MVO   Samenstelling A-merken margarines, halvarines en bak- en braadvetten, 2009
+03.00147      overname uit:    Banca Dati di Composizione degli Alimenti per Studi Epidemiologici in Italia - BDA, http://www.ieo.it/bda2008, 2006   Istituto Europeo di Oncologia
+03.00148      overname uit:    Voedsel en Warenautoriteit   Monitoring van het gehalte aan keukenzout in diverse levensmiddelen, Factsheet Project ZD10 1614, 2010   nVWA
+03.00149      overname uit:    Berekening samenstelling bereid vers vlees obv Cooked Meat Calculator (intern document), 2011   RIVM
+03.00151      overname uit:    USDA National Nutrient Database for Standard Reference, Release 23. Nutrient Data Laboratory Home Page, http://www.ars.usda.gov/ba/bhnrc/ndl, 2010   US Department of Agriculture
+03.00153      overname uit:    The Norwegian FSA et al   The Norwegian Food Composition Table 2006. http://www.norwegianfoodcomp.no/, 2006
+03.00154      overname uit:    Schweizer Nahrwertdatenbank - online versie V 3.01, 2009
+03.00155      overname uit:    USDA National Nutrient Database for Standard Reference, Release 24. Nutrient Data Laboratory Home Page, http://www.ars.usda.gov/ba/bhnrc/ndl, 2011   US Department of Agriculture
+03.00156      overname uit:    Livsmedelsverket The Swedish National Food Administration's food database, version "26/01/2012", 2012   The National Food Admin Zweden
+03.00158      overname uit:    Table Ciqual 2012, French Food Composition Table, http://www.afssa.fr/TableCIQUAL/, 2012   Anses, France
+03.00161      overname uit:    USDA   USDA National Nutrient Database for Standard Reference, Release 25. Nutrient Data Laboratory website, http://www.ars.usda.gov/nutrientdata, 2013   US Department of Agriculture
+03.00165      overname uit:    MVO   MVO: Voedingswaarden van margarine, halvarine en bak- en braadproducten (oktober 2012), 2012
+03.00166      overname uit:    Fineli - Finnish Food Composition Database, versie 14.0; http://www.fineli.fi/index.php?lang=en, 2011   Nat Ins Health and Welfare
+03.00167      overname uit:    Herziening productgroep Brood nav analyses door NBC/NVWA (bij bron 1-9-346 en 1-36-347); achtergronddocumentatie (intern document RIVM), 2012
+03.00168      overname uit:    Inschatting vetzuurprofielen tbv NEVO 2013 (intern document), 2013
+03.00169      overname uit:    NFA report no 2 2010, "Fullkorn, bonor och agg-analys av naringsamnen' - Zweden, 2010
+03.00173      overname uit:    USDA   USDA National Nutrient Database for Standard Reference, Release 27. Nutrient Data Laboratory website, http://www.ars.usda.gov/nutrientdata, 2014   US Department of Agriculture
+03.00174      overname uit:    Finglas P et al   McCance and Widdowson’s The Composition of Foods IntegratedDataset 2015 7e druk, 2015   Public Health England
+03.00175      overname uit:    Update vitamine D in NEVO-2015 (intern document), 2015   RIVM
+03.00176      overname uit:    Ohrvik V, et al   Livsmedelsverket; Fish, shellfish and fish products - analysis of nutrients. The National Food Agency Report Series no 1/2012., 2012   National Food Agency Sweden
+03.00177      overname uit:    Livsmedelsverket The Swedish National Food Administration's food database, version 2015-03-04. http://www.livsmedelsverket.se/en/, 2015   The National Food Admin Sweden
+03.00178      overname uit:    Borch Myhr J, et al   Nutritional composition of selected wild and farmed raw fish, 2012   Univers. Oslo/Norwegian FSA/ea
+03.00180      overname uit:    NEVO team   Recepten en gemiddelden tbv NEVO-tabel 2016 (intern document), 2015   RIVM
+03.00181      overname uit:    Banca Dati di Composizione degli Alimenti per Studi Epidemiologici in Italia - BDA V1-2015, http://www.bda-ieo.it/wordpress/en/, 2015   ISPO
+03.00183      overname uit:    USDA   USDA National Nutrient Database for Standard Reference, Release 28. Nutrient Data Laboratory website, http://www.ars.usda.gov/nutrientdata, 2015   US Department of Agriculture
+03.00184      overname uit:    RIVM   Aanvullingen jodiumgehalte in melkproducten en kaas (intern document), 2016
+03.00185      overname uit:    FrieslandCampina   Berekening jodiumgehalte in kaas (intern document), 2016
+03.00187      overname uit:    Danish foodcomposition database. Fødevaredatabanken, version 2015. http://frida.fooddata.dk/, 2015   DTU Fødevareinstituttet
+03.00188      overname uit:    asbl NUBEL vzw   NUBEL Belgische Voedingsmiddelentabel. http://www.nubel.com/, 2009
+04.00001      overname van vergelijkbaar product: 1 Aardappelen, rauw
+04.00002      overname van vergelijkbaar product: 2 Aardappelen nieuwe, rauw
+04.00004      overname van vergelijkbaar product: 4 Pasta witte rauw
+04.00005      overname van vergelijkbaar product: 5 Rijst witte, rauw
+04.00007      overname van vergelijkbaar product: 7 Andijvie, rauw
+04.00008      overname van vergelijkbaar product: 8 Andijvie, gekookt
+04.00009      overname van vergelijkbaar product: 9 Asperge, rauw
+04.00010      overname van vergelijkbaar product: 10 Aubergine, rauw
+04.00012      overname van vergelijkbaar product: 12 Biet rode, rauw
+04.00014      overname van vergelijkbaar product: 14 Kool bloem-, rauw
+04.00016      overname van vergelijkbaar product: 16 Kool boeren-, gekookt
+04.00017      overname van vergelijkbaar product: 17 Cantharel, rauw
+04.00019      overname van vergelijkbaar product: 19 Champignon, rauw
+04.00020      overname van vergelijkbaar product: 20 Champignon, gekookt
+04.00021      overname van vergelijkbaar product: 21 Kool Chinese, rauw
+04.00025      overname van vergelijkbaar product: 25 Kool groene, gekookt
+04.00027      overname van vergelijkbaar product: 27 Komkommer, z schil rauw
+04.00029      overname van vergelijkbaar product: 29 Koolraap, gekookt
+04.00031      overname van vergelijkbaar product: 31 Paprika groene, rauw
+04.00033      overname van vergelijkbaar product: 33 Rozijnen, gedroogd
+04.00037      overname van vergelijkbaar product: 37 Prei, gekookt
+04.00038      overname van vergelijkbaar product: 38 Raapstelen, rauw
+04.00040      overname van vergelijkbaar product: 40 Rabarber, rauw
+04.00042      overname van vergelijkbaar product: 42 Kool rode, gekookt
+04.00043      overname van vergelijkbaar product: 43 Kool savooie-, rauw
+04.00044      overname van vergelijkbaar product: 44 Kool savooie-, gekookt
+04.00045      overname van vergelijkbaar product: 45 Schorseneren, rauw
+04.00046      overname van vergelijkbaar product: 46 Sla krop-, rauw
+04.00049      overname van vergelijkbaar product: 49 Bonen snij-, rauw
+04.00050      overname van vergelijkbaar product: 50 Bonen sperzie-, rauw
+04.00051      overname van vergelijkbaar product: 51 Spinazie, rauw
+04.00052      overname van vergelijkbaar product: 52 Spinazie, gekookt
+04.00054      overname van vergelijkbaar product: 54 Kool spits-, gekookt
+04.00055      overname van vergelijkbaar product: 55 Spruitjes, gekookt
+04.00057      overname van vergelijkbaar product: 57 Mais suiker-, gekookt
+04.00060      overname van vergelijkbaar product: 60 Tomaat gewoon, rauw
+04.00061      overname van vergelijkbaar product: 61 Tomaat gewoon, gekookt
+04.00062      overname van vergelijkbaar product: 62 Bonen tuin-, rauw
+04.00063      overname van vergelijkbaar product: 63 Ui, rauw
+04.00064      overname van vergelijkbaar product: 64 Ui, gekookt
+04.00067      overname van vergelijkbaar product: 67 Witlof, rauw
+04.00069      overname van vergelijkbaar product: 69 Kool witte, rauw
+04.00070      overname van vergelijkbaar product: 70 Kool witte, gekookt
+04.00071      overname van vergelijkbaar product: 71 Wortel, rauw gem
+04.00072      overname van vergelijkbaar product: 72 Wortel, gekookt gem
+04.00073      overname van vergelijkbaar product: 73 Kool zuur-, rauw
+04.00074      overname van vergelijkbaar product: 74 Kool zuur-, gekookt
+04.00078      overname van vergelijkbaar product: 78 Meel gries-
+04.00080      overname van vergelijkbaar product: 80 Bloem rijste-
+04.00083      overname van vergelijkbaar product: 83 Ei kippen-, rauw gem
+04.00084      overname van vergelijkbaar product: 84 Ei kippen-, gekookt gem
+04.00085      overname van vergelijkbaar product: 85 Eidooier kippen-, rauw
+04.00095      overname van vergelijkbaar product: 95 Paardenvlees, rauw
+04.00099      overname van vergelijkbaar product: 99 Schapenvlees >10 g vet rauw gem
+04.00107      overname van vergelijkbaar product: 107 Haas, rauw
+04.00108      overname van vergelijkbaar product: 108 Kip m vel, rauw
+04.00109      overname van vergelijkbaar product: 109 Konijn tam, rauw
+04.00110      overname van vergelijkbaar product: 110 Konijn wild, rauw
+04.00111      overname van vergelijkbaar product: 111 Mosselen, gekookt
+04.00112      overname van vergelijkbaar product: 112 Paling, rauw
+04.00113      overname van vergelijkbaar product: 113 Haring pan-, rauw
+04.00114      overname van vergelijkbaar product: 114 Vis mager 0-5 g vet gem, rauw
+04.00115      overname van vergelijkbaar product: 115 Vis matig vet >2-10 g vet gem, rauw
+04.00118      overname van vergelijkbaar product: 118 Erwten groene, gedroogd
+04.00119      overname van vergelijkbaar product: 119 Kapucijners, gedroogd
+04.00122      overname van vergelijkbaar product: 122 Chips gem
+04.00123      overname van vergelijkbaar product: 123 Frites, ongezouten bereid (NA)
+04.00124      overname van vergelijkbaar product: 124 Radijs, rauw
+04.00128      overname van vergelijkbaar product: 128 Peterselie, vers
+04.00130      overname van vergelijkbaar product: 130 Asperge, blik/glas
+04.00131      overname van vergelijkbaar product: 131 Augurk zuur
+04.00132      overname van vergelijkbaar product: 132 Augurk zoetzuur
+04.00133      overname van vergelijkbaar product: 133 Champignon, blik/glas
+04.00135      overname van vergelijkbaar product: 135 Doperwten zeer fijn/extra fijn, blik/glas
+04.00136      overname van vergelijkbaar product: 136 Doperwten m wortelen, blik/glas
+04.00138      overname van vergelijkbaar product: 138 Bonen snij-, blik/glas
+04.00144      overname van vergelijkbaar product: 144 Ui zilver- zoetzuur, glas
+04.00146      overname van vergelijkbaar product: 146 Spinazie, diepvries gekookt
+04.00147      overname van vergelijkbaar product: 147 Appel, z schil gem
+04.00150      overname van vergelijkbaar product: 150 Ananas
+04.00151      overname van vergelijkbaar product: 151 Banaan
+04.00152      overname van vergelijkbaar product: 152 Bessen blauwe
+04.00153      overname van vergelijkbaar product: 153 Bessen rode
+04.00155      overname van vergelijkbaar product: 155 Bessen bos-
+04.00158      overname van vergelijkbaar product: 158 Citroen
+04.00159      overname van vergelijkbaar product: 159 Cranberry
+04.00160      overname van vergelijkbaar product: 160 Druiven, m schil gem
+04.00161      overname van vergelijkbaar product: 161 Frambozen
+04.00163      overname van vergelijkbaar product: 163 Kersen
+04.00166      overname van vergelijkbaar product: 166 Meloen net-
+04.00168      overname van vergelijkbaar product: 168 Peer, z schil
+04.00169      overname van vergelijkbaar product: 169 Perzik, z schil
+04.00170      overname van vergelijkbaar product: 170 Pruimen, m schil
+04.00171      overname van vergelijkbaar product: 171 Sinaasappel
+04.00174      overname van vergelijkbaar product: 174 Aardbeien op siroop, blik/glas
+04.00177      overname van vergelijkbaar product: 177 Ananas op siroop, blik/glas
+04.00178      overname van vergelijkbaar product: 178 Appeltjes, gedroogd
+04.00182      overname van vergelijkbaar product: 182 Frambozen op siroop, blik/glas
+04.00183      overname van vergelijkbaar product: 183 Fruitcocktail op siroop, blik/glas
+04.00188      overname van vergelijkbaar product: 188 Peren op siroop, blik/glas
+04.00195      overname van vergelijkbaar product: 195 Babyvoeding fruit 8 mnd
+04.00196      overname van vergelijkbaar product: 196 Kapucijners, blik/glas
+04.00198      overname van vergelijkbaar product: 198 Noten amandelen z vliesje, ongezouten
+04.00199      overname van vergelijkbaar product: 199 Noten cashew-, ongezouten
+04.00202      overname van vergelijkbaar product: 202 Kokosnootvlees
+04.00204      overname van vergelijkbaar product: 204 Pinda's, ongezouten
+04.00208      overname van vergelijkbaar product: 208 Meel boekweite-
+04.00209      overname van vergelijkbaar product: 209 Ontbijtproduct Cornflakes, Kellogg's
+04.00210      overname van vergelijkbaar product: 210 Custardpoeder
+04.00212      overname van vergelijkbaar product: 212 Gort parel-, rauw
+04.00213      overname van vergelijkbaar product: 213 Mout haver-
+04.00214      overname van vergelijkbaar product: 214 Mais pof-, gedroogd
+04.00215      overname van vergelijkbaar product: 215 Maizena
+04.00216      overname van vergelijkbaar product: 216 Puddingpoeder
+04.00217      overname van vergelijkbaar product: 217 Bloem rogge-, 60% uitmaling
+04.00218      overname van vergelijkbaar product: 218 Meel rogge-
+04.00220      overname van vergelijkbaar product: 220 Bloem tarwe- patent
+04.00222      overname van vergelijkbaar product: 222 Meel volkoren tarwe-
+04.00225      overname van vergelijkbaar product: 225 Ontbijtproduct Brinta
+04.00227      overname van vergelijkbaar product: 227 Beschuit
+04.00228      overname van vergelijkbaar product: 228 Cracker cream-
+04.00229      overname van vergelijkbaar product: 229 Knackebrod gem
+04.00230      overname van vergelijkbaar product: 230 Broodje wit zacht
+04.00233      overname van vergelijkbaar product: 233 Brood krenten-
+04.00234      overname van vergelijkbaar product: 234 Voedingsbiscuit Liga Baby 6-12 mnd
+04.00236      overname van vergelijkbaar product: 236 Brood tarwe-
+04.00240      overname van vergelijkbaar product: 240 Koek ontbijt-
+04.00241      overname van vergelijkbaar product: 241 Brood wit- melk
+04.00242      overname van vergelijkbaar product: 242 Brood rogge- donker
+04.00244      overname van vergelijkbaar product: 244 Brood rozijnen-
+04.00246      overname van vergelijkbaar product: 246 Brood volkoren- gem v fijn en grof
+04.00248      overname van vergelijkbaar product: 248 Brood wit- water
+04.00252      overname van vergelijkbaar product: 252 Biscuit
+04.00253      overname van vergelijkbaar product: 253 Cake z roomboter
+04.00257      overname van vergelijkbaar product: 257 Koek gevulde, gem
+04.00258      overname van vergelijkbaar product: 258 Koekje gem
+04.00261      overname van vergelijkbaar product: 261 Speculaas, gem
+04.00262      overname van vergelijkbaar product: 262 Sprits
+04.00263      overname van vergelijkbaar product: 263 Biscuit tarwe-/volkoren-
+04.00264      overname van vergelijkbaar product: 264 Biscuit zoute
+04.00265      overname van vergelijkbaar product: 265 Bladerdeeg z roomboter, bereid
+04.00270      overname van vergelijkbaar product: 270 Melk rauwe
+04.00271      overname van vergelijkbaar product: 271 Melk koffie- mov verrijkt, Becel
+04.00272      overname van vergelijkbaar product: 272 Melk chocolade- volle
+04.00273      overname van vergelijkbaar product: 273 Melk chocolade- magere
+04.00274      overname van vergelijkbaar product: 274 Creamer koffie-
+04.00276      overname van vergelijkbaar product: 276 Vla chocolade- volle
+04.00278      overname van vergelijkbaar product: 278 Yoghurt volle
+04.00279      overname van vergelijkbaar product: 279 Melk volle
+04.00280      overname van vergelijkbaar product: 280 Melk koffie- volle
+04.00281      overname van vergelijkbaar product: 281 Melk volle gecondenseerd m suiker, blik
+04.00282      overname van vergelijkbaar product: 282 Vla vanille- volle
+04.00284      overname van vergelijkbaar product: 284 Yoghurt magere m vruchten
+04.00285      overname van vergelijkbaar product: 285 Melk koffie- halfvolle
+04.00286      overname van vergelijkbaar product: 286 Melk halfvolle
+04.00289      overname van vergelijkbaar product: 289 Melk karne-
+04.00292      overname van vergelijkbaar product: 292 Melk koffie- magere
+04.00293      overname van vergelijkbaar product: 293 Room koffie-
+04.00294      overname van vergelijkbaar product: 294 Melk magere
+04.00295      overname van vergelijkbaar product: 295 Melkpoeder magere
+04.00296      overname van vergelijkbaar product: 296 Melkpoeder volle
+04.00298      overname van vergelijkbaar product: 298 Pap rijste-
+04.00299      overname van vergelijkbaar product: 299 Room slag-, onbereid
+04.00301      overname van vergelijkbaar product: 301 Yoghurt magere
+04.00302      overname van vergelijkbaar product: 302 IJs consumptie-
+04.00303      overname van vergelijkbaar product: 303 IJs room/vanille-
+04.00305      overname van vergelijkbaar product: 305 Kwark magere
+04.00306      overname van vergelijkbaar product: 306 Kwark halfvolle
+04.00307      overname van vergelijkbaar product: 307 Kwark volle
+04.00308      overname van vergelijkbaar product: 308 Olie arachide-
+04.00309      overname van vergelijkbaar product: 309 Vet bak- en braad- 0-20 g linolzuur
+04.00310      overname van vergelijkbaar product: 310 Boter, ongezouten
+04.00313      overname van vergelijkbaar product: 313 Olie soja-
+04.00314      overname van vergelijkbaar product: 314 Vet varkens-, uitgesmolten
+04.00317      overname van vergelijkbaar product: 317 Olie zonnebloem-
+04.00320      overname van vergelijkbaar product: 320 Fazant, rauw
+04.00322      overname van vergelijkbaar product: 322 Frikandel, bereid m vloeibaar frituurvet
+04.00324      overname van vergelijkbaar product: 324 Worst rook-, gekookt gem
+04.00325      overname van vergelijkbaar product: 325 Margarine 0-20 g linolz 0-300 mg chol, pakje
+04.00326      overname van vergelijkbaar product: 326 Kroket, bereid m vloeibaar frituurvet
+04.00330      overname van vergelijkbaar product: 330 Kalkoen, rauw
+04.00333      overname van vergelijkbaar product: 333 Lever runder-, gekookt (vleeswaar)
+04.00335      overname van vergelijkbaar product: 335 Pastei lever-
+04.00336      overname van vergelijkbaar product: 336 Luncheon meat, blik
+04.00338      overname van vergelijkbaar product: 338 Pekelvlees
+04.00340      overname van vergelijkbaar product: 340 Runderrookvlees
+04.00343      overname van vergelijkbaar product: 343 Spek vers vet, rauw
+04.00347      overname van vergelijkbaar product: 347 Bokking, gerookt
+04.00348      overname van vergelijkbaar product: 348 Garnalen, Hollandse, gekookt
+04.00350      overname van vergelijkbaar product: 350 Haring gezouten
+04.00351      overname van vergelijkbaar product: 351 Krab in water, blik
+04.00353      overname van vergelijkbaar product: 353 Makreel, rauw
+04.00368      overname van vergelijkbaar product: 368 Bami goreng, blik
+04.00369      overname van vergelijkbaar product: 369 Loempia, bereid
+04.00371      overname van vergelijkbaar product: 371 Nasi goreng, blik/diepvries
+04.00373      overname van vergelijkbaar product: 373 Spaghetti m kaas en tomatensaus, blik
+04.00376      overname van vergelijkbaar product: 376 Stroop huishoud-
+04.00377      overname van vergelijkbaar product: 377 Suiker kristal-
+04.00381      overname van vergelijkbaar product: 381 Stroop suiker-
+04.00383      overname van vergelijkbaar product: 383 Sap appel-
+04.00388      overname van vergelijkbaar product: 388 Sap rode bessen-
+04.00390      overname van vergelijkbaar product: 390 Bier pils
+04.00395      overname van vergelijkbaar product: 395 Frisdrank m cafeine
+04.00400      overname van vergelijkbaar product: 400 Frisdrank z cafeine
+04.00401      overname van vergelijkbaar product: 401 Jenever jonge
+04.00402      overname van vergelijkbaar product: 402 Jenever oude
+04.00403      overname van vergelijkbaar product: 403 Likeur 15-25 vol% alc
+04.00407      overname van vergelijkbaar product: 407 Port
+04.00410      overname van vergelijkbaar product: 410 Sap sinaasappel-, gepasteuriseerd
+04.00411      overname van vergelijkbaar product: 411 Mineraalwater Spa
+04.00413      overname van vergelijkbaar product: 413 Sap tomaten-
+04.00417      overname van vergelijkbaar product: 417 Limonade vruchten-
+04.00422      overname van vergelijkbaar product: 422 Wijn rode
+04.00427      overname van vergelijkbaar product: 427 Stroop appel-
+04.00428      overname van vergelijkbaar product: 428 Saus barbecue-
+04.00429      overname van vergelijkbaar product: 429 Bouillonblokje
+04.00430      overname van vergelijkbaar product: 430 Cacaopoeder
+04.00431      overname van vergelijkbaar product: 431 Chocolade melk-
+04.00432      overname van vergelijkbaar product: 432 Chocolade puur
+04.00436      overname van vergelijkbaar product: 436 Pasta chocolade- hazelnoot
+04.00444      overname van vergelijkbaar product: 444 Pasta chocolade- puur
+04.00445      overname van vergelijkbaar product: 445 Jam
+04.00450      overname van vergelijkbaar product: 450 Zuurtjes
+04.00451      overname van vergelijkbaar product: 451 Mayonaise
+04.00453      overname van vergelijkbaar product: 453 Pepermunt
+04.00455      overname van vergelijkbaar product: 455 Pindakaas
+04.00458      overname van vergelijkbaar product: 458 Saus sla- 25% olie
+04.00462      overname van vergelijkbaar product: 462 Ketchup tomaten-
+04.00463      overname van vergelijkbaar product: 463 Siroop vruchtenlimonade-
+04.00465      overname van vergelijkbaar product: 465 Saus frites- 25% olie
+04.00466      overname van vergelijkbaar product: 466 Saus frites- 35% olie
+04.00470      overname van vergelijkbaar product: 470 Bami goreng z ei
+04.00471      overname van vergelijkbaar product: 471 Nasi goreng m ei
+04.00477      overname van vergelijkbaar product: 477 Vla vanille- magere
+04.00482      overname van vergelijkbaar product: 482 Spekkie
+04.00484      overname van vergelijkbaar product: 484 Jam halfzoet
+04.00487      overname van vergelijkbaar product: 487 Candybar Mars
+04.00497      overname van vergelijkbaar product: 497 Siroop Roosvicee Original
+04.00511      overname van vergelijkbaar product: 511 Kaas Edammer 40+
+04.00513      overname van vergelijkbaar product: 513 Kaas Goudse 48+, gem
+04.00514      overname van vergelijkbaar product: 514 Kaas 20+ Leidse/Friese nagel-
+04.00515      overname van vergelijkbaar product: 515 Kaas smeer- volvet 48+
+04.00516      overname van vergelijkbaar product: 516 Kaas smeer- 40+
+04.00517      overname van vergelijkbaar product: 517 Kaas smeer- 20+
+04.00520      overname van vergelijkbaar product: 520 Drop zoute
+04.00522      overname van vergelijkbaar product: 522 Drop zoete
+04.00530      overname van vergelijkbaar product: 530 Meel pannenkoek-
+04.00535      overname van vergelijkbaar product: 535 Cacaopoeder gezoet, Benco
+04.00553      overname van vergelijkbaar product: 553 Dressing, Becel Light
+04.00556      overname van vergelijkbaar product: 556 Kaas Camembert 45+
+04.00557      overname van vergelijkbaar product: 557 Selderij bleek-, rauw
+04.00558      overname van vergelijkbaar product: 558 Selderij knol-, rauw
+04.00559      overname van vergelijkbaar product: 559 Koolraap, rauw
+04.00560      overname van vergelijkbaar product: 560 Koolrabi, rauw
+04.00562      overname van vergelijkbaar product: 562 Prei, rauw
+04.00563      overname van vergelijkbaar product: 563 Snijbiet, rauw
+04.00565      overname van vergelijkbaar product: 565 Brood geroosterd toast
+04.00566      overname van vergelijkbaar product: 566 Worst knak-, blik/glas
+04.00567      overname van vergelijkbaar product: 567 Worst boterham-
+04.00568      overname van vergelijkbaar product: 568 Worst bloed-
+04.00575      overname van vergelijkbaar product: 575 Spread sandwich- naturel
+04.00590      overname van vergelijkbaar product: 590 Zemelen tarwe-
+04.00591      overname van vergelijkbaar product: 591 Ontbijtproduct All-Bran Plus, Kellogg's
+04.00593      overname van vergelijkbaar product: 593 Kaas Brie 50+
+04.00596      overname van vergelijkbaar product: 596 Knackebrod goudbruin
+04.00601      overname van vergelijkbaar product: 601 Olie olijf-
+04.00604      overname van vergelijkbaar product: 604 Makreel, gestoomd
+04.00606      overname van vergelijkbaar product: 606 Olie Becel
+04.00609      overname van vergelijkbaar product: 609 Nasibal/nasischijf, diepvries bereid
+04.00610      overname van vergelijkbaar product: 610 Bamibal, bereid
+04.00616      overname van vergelijkbaar product: 616 Saus sate- kant en klaar, bereid
+04.00618      overname van vergelijkbaar product: 618 Zoutje aardappel- Nibbits
+04.00619      overname van vergelijkbaar product: 619 Zoutje aardappel- Wokkels
+04.00621      overname van vergelijkbaar product: 621 Chocolade m pinda's M&M's
+04.00634      overname van vergelijkbaar product: 634 Koek kokos-
+04.00636      overname van vergelijkbaar product: 636 Koek muesli-
+04.00638      overname van vergelijkbaar product: 638 Worst cervelaat-
+04.00639      overname van vergelijkbaar product: 639 Spek ontbijt-
+04.00640      overname van vergelijkbaar product: 640 Worst lever-
+04.00641      overname van vergelijkbaar product: 641 Bacon
+04.00642      overname van vergelijkbaar product: 642 Pate room-
+04.00643      overname van vergelijkbaar product: 643 Casselerrib, gerookt/gekookt
+04.00645      overname van vergelijkbaar product: 645 Thee, bereid
+04.00646      overname van vergelijkbaar product: 646 Spaghetti Bolognaise, diepvries
+04.00647      overname van vergelijkbaar product: 647 Stamppot boerenkool m worst
+04.00654      overname van vergelijkbaar product: 654 Kaas huttenkase
+04.00655      overname van vergelijkbaar product: 655 Beschuit volkoren/meergranen
+04.00656      overname van vergelijkbaar product: 656 Muesli, z suiker
+04.00657      overname van vergelijkbaar product: 657 Yoghurtdrank
+04.00658      overname van vergelijkbaar product: 658 Rijst witte, gekookt
+04.00659      overname van vergelijkbaar product: 659 Pasta witte gem, gekookt
+04.00660      overname van vergelijkbaar product: 660 Bonen bruine, blik/glas
+04.00667      overname van vergelijkbaar product: 667 Cassave, rauw
+04.00668      overname van vergelijkbaar product: 668 Taro, rauw
+04.00669      overname van vergelijkbaar product: 669 Yam, rauw
+04.00670      overname van vergelijkbaar product: 670 Pomtajer, rauw
+04.00671      overname van vergelijkbaar product: 671 Bataat zoete, rauw
+04.00672      overname van vergelijkbaar product: 672 Agoemawiwiri, rauw
+04.00680      overname van vergelijkbaar product: 680 Okra, rauw
+04.00682      overname van vergelijkbaar product: 682 Pompoen, rauw
+04.00683      overname van vergelijkbaar product: 683 Sopropo, rauw
+04.00696      overname van vergelijkbaar product: 696 Meel mais-
+04.00712      overname van vergelijkbaar product: 712 Rijst zilvervlies-, rauw
+04.00713      overname van vergelijkbaar product: 713 Wafel stroop-, gem
+04.00715      overname van vergelijkbaar product: 715 Kaas room- 60+
+04.00717      overname van vergelijkbaar product: 717 Chocolade melk- m noten
+04.00724      overname van vergelijkbaar product: 724 Kaas Emmentaler
+04.00725      overname van vergelijkbaar product: 725 Kaas Cheddar
+04.00726      overname van vergelijkbaar product: 726 Kaas Bluefort
+04.00728      overname van vergelijkbaar product: 728 Kaas room- zachte, Boursin
+04.00736      overname van vergelijkbaar product: 736 Pudding vanille-
+04.00737      overname van vergelijkbaar product: 737 Aardappelpuree gem, instant bereid
+04.00752      overname van vergelijkbaar product: 752 Winegum/fruitgom
+04.00767      overname van vergelijkbaar product: 767 Mousse chocolade-
+04.00783      overname van vergelijkbaar product: 783 Worst paling-
+04.00784      overname van vergelijkbaar product: 784 Ham achter-
+04.00785      overname van vergelijkbaar product: 785 Ham schouder-
+04.00797      overname van vergelijkbaar product: 797 Soep op groentebasis, bereid, pakje
+04.00799      overname van vergelijkbaar product: 799 Soep op peulvruchtenbasis, bereid, pakje
+04.00800      overname van vergelijkbaar product: 800 Soep op groentebasis, bereid, blik/zak/pak
+04.00801      overname van vergelijkbaar product: 801 Soep op vleesbasis, bereid, blik/zak/pak
+04.00802      overname van vergelijkbaar product: 802 Soep op peulvruchtenbasis, bereid, blik/zak/pak
+04.00804      overname van vergelijkbaar product: 804 Kaas schapen-, vers
+04.00811      overname van vergelijkbaar product: 811 Pasta volkoren, rauw
+04.00812      overname van vergelijkbaar product: 812 Room zure
+04.00813      overname van vergelijkbaar product: 813 Schol, rauw
+04.00817      overname van vergelijkbaar product: 817 Schol, gebakken
+04.00818      overname van vergelijkbaar product: 818 Lekkerbekje gefrituurd
+04.00819      overname van vergelijkbaar product: 819 Kabeljauw, gekookt
+04.00820      overname van vergelijkbaar product: 820 Kabeljauw, rauw
+04.00822      overname van vergelijkbaar product: 822 Bokking bak-, bereid
+04.00824      overname van vergelijkbaar product: 824 Mosterd
+04.00826      overname van vergelijkbaar product: 826 Kaneel
+04.00832      overname van vergelijkbaar product: 832 Gemberwortel
+04.00837      overname van vergelijkbaar product: 837 Koek haver-
+04.00838      overname van vergelijkbaar product: 838 Sesamzaad
+04.00839      overname van vergelijkbaar product: 839 Bonen soja-, gedroogd
+04.00841      overname van vergelijkbaar product: 841 Zout met toegevoegd jodium
+04.00843      overname van vergelijkbaar product: 843 Broodje worsten-, diepvries bereid
+04.00845      overname van vergelijkbaar product: 845 Candybar Twix
+04.00849      overname van vergelijkbaar product: 849 Venkel, rauw
+04.00856      overname van vergelijkbaar product: 856 Rosti, onbereid
+04.00863      overname van vergelijkbaar product: 863 Yoghurt volle m vruchten
+04.00865      overname van vergelijkbaar product: 865 Sate kip- m saus, bereid
+04.00870      overname van vergelijkbaar product: 870 Drink soja- naturel
+04.00875      overname van vergelijkbaar product: 875 Appel, m schil gem
+04.00876      overname van vergelijkbaar product: 876 Pinda's, gezouten
+04.00877      overname van vergelijkbaar product: 877 Frites, gezouten bereid (NA)
+04.00878      overname van vergelijkbaar product: 878 Croissants uit blik, afgebakken
+04.00881      overname van vergelijkbaar product: 881 Kaas 48+ minder zout gem
+04.00884      overname van vergelijkbaar product: 884 Paprika rode, rauw
+04.00885      overname van vergelijkbaar product: 885 Paprika rode, gekookt
+04.00886      overname van vergelijkbaar product: 886 Frites oven-, bereid (NA)
+04.00887      overname van vergelijkbaar product: 887 Muesli, m suiker
+04.00893      overname van vergelijkbaar product: 893 Sate varkens- m saus, bereid
+04.00898      overname van vergelijkbaar product: 898 Pasteibakje m roomboter
+04.00899      overname van vergelijkbaar product: 899 Pasteibakje z roomboter
+04.00901      overname van vergelijkbaar product: 901 Broodje worsten-
+04.00915      overname van vergelijkbaar product: 915 Pudding chocolade- m roomsaus
+04.00917      overname van vergelijkbaar product: 917 Kwark vruchten- halfvolle
+04.00918      overname van vergelijkbaar product: 918 Schol, gekookt
+04.00921      overname van vergelijkbaar product: 921 Broccoli, rauw
+04.00922      overname van vergelijkbaar product: 922 Courgette, rauw
+04.00923      overname van vergelijkbaar product: 923 Sap peren-
+04.00928      overname van vergelijkbaar product: 928 Kaas 40+ Na-
+04.00944      overname van vergelijkbaar product: 944 Kroket, bereid in oven
+04.00950      overname van vergelijkbaar product: 950 Gist, vers
+04.00951      overname van vergelijkbaar product: 951 Bonen sperzie-, gekookt
+04.00952      overname van vergelijkbaar product: 952 Kool boeren-, diepvries gekookt
+04.00953      overname van vergelijkbaar product: 953 Doperwten, diepvries gekookt
+04.00954      overname van vergelijkbaar product: 954 Bonen sperzie-, diepvries gekookt
+04.00957      overname van vergelijkbaar product: 957 Asperge, gekookt
+04.00958      overname van vergelijkbaar product: 958 Biet rode, gekookt
+04.00959      overname van vergelijkbaar product: 959 Kool boeren-, rauw
+04.00960      overname van vergelijkbaar product: 960 Schorseneren, gekookt
+04.00961      overname van vergelijkbaar product: 961 Bonen snij-, gekookt
+04.00962      overname van vergelijkbaar product: 962 Bonen tuin-, gekookt
+04.00963      overname van vergelijkbaar product: 963 Doperwten, gekookt
+04.00964      overname van vergelijkbaar product: 964 Peultjes, gekookt
+04.00966      overname van vergelijkbaar product: 966 Courgette, gekookt
+04.00968      overname van vergelijkbaar product: 968 Bonen witte/bruine, gekookt
+04.00972      overname van vergelijkbaar product: 972 Erwten groene, gekookt
+04.00975      overname van vergelijkbaar product: 975 Knackebrod sesam
+04.00982      overname van vergelijkbaar product: 982 Aardappelen, z schil gekookt gem
+04.00994      overname van vergelijkbaar product: 994 Puddingpoeder chocolade, z suiker
+04.01016      overname van vergelijkbaar product: 1016 Cracker cream- Na-
+04.01020      overname van vergelijkbaar product: 1020 Meel bak- zelfrijzend
+04.01023      overname van vergelijkbaar product: 1023 Bloem rijste-, Bambix
+04.01025      overname van vergelijkbaar product: 1025 Gist, gedroogd
+04.01095      overname van vergelijkbaar product: 1095 Erwten kikker-, gekookt
+04.01096      overname van vergelijkbaar product: 1096 Zalm, gerookt
+04.01097      overname van vergelijkbaar product: 1097 Kaviaar
+04.01098      overname van vergelijkbaar product: 1098 Inktvis, rauw
+04.01103      overname van vergelijkbaar product: 1103 Kaas smeer- 30+
+04.01105      overname van vergelijkbaar product: 1105 Meloen water-
+04.01106      overname van vergelijkbaar product: 1106 Meloen suiker-
+04.01110      overname van vergelijkbaar product: 1110 Kaas Stilton
+04.01111      overname van vergelijkbaar product: 1111 Kaas Camembert 30+
+04.01117      overname van vergelijkbaar product: 1117 Puree aardbeien-, blik/glas
+04.01132      overname van vergelijkbaar product: 1132 Sap tomatengroenten-
+04.01136      overname van vergelijkbaar product: 1136 Andijvie, diepvries onbereid
+04.01144      overname van vergelijkbaar product: 1144 Groente soep-, diepvries onbereid
+04.01152      overname van vergelijkbaar product: 1152 Worst salami
+04.01153      overname van vergelijkbaar product: 1153 Augurk Na-
+04.01156      overname van vergelijkbaar product: 1156 Sap tomatengroenten- Na-
+04.01161      overname van vergelijkbaar product: 1161 Komkommerschijven zoetzuur, glas
+04.01162      overname van vergelijkbaar product: 1162 Worst gekookte
+04.01213      overname van vergelijkbaar product: 1213 Ketjap zout
+04.01215      overname van vergelijkbaar product: 1215 Ketjap zoet
+04.01232      overname van vergelijkbaar product: 1232 Sambal oelek
+04.01239      overname van vergelijkbaar product: 1239 Worst smeerlever-
+04.01242      overname van vergelijkbaar product: 1242 Vruchten op eigen sap, blik/glas
+04.01255      overname van vergelijkbaar product: 1255 Makreel in water, blik
+04.01260      overname van vergelijkbaar product: 1260 Mayonaiseproduct m yoghurt
+04.01280      overname van vergelijkbaar product: 1280 Babyvoeding fruit 4 mnd
+04.01294      overname van vergelijkbaar product: 1294 Weidrank Taksi m suiker
+04.01297      overname van vergelijkbaar product: 1297 Spek vers vet, bereid
+04.01302      overname van vergelijkbaar product: 1302 Kaas room- zachte, Paturain
+04.01305      overname van vergelijkbaar product: 1305 Kip z vel, rauw
+04.01310      overname van vergelijkbaar product: 1310 Scholfilet, gebakken/gestoofd
+04.01311      overname van vergelijkbaar product: 1311 Hagelslag chocolade- gem
+04.01312      overname van vergelijkbaar product: 1312 Cracottes naturel
+04.01315      overname van vergelijkbaar product: 1315 Kabeljauwfilet, gebakken/gestoofd
+04.01317      overname van vergelijkbaar product: 1317 Kip/bout z vel, gegrild
+04.01321      overname van vergelijkbaar product: 1321 Voedingsbiscuit Liga HaverKick
+04.01322      overname van vergelijkbaar product: 1322 Cracottes volkoren
+04.01326      overname van vergelijkbaar product: 1326 Gehakt hoh, rul gebakken
+04.01338      overname van vergelijkbaar product: 1338 Ontbijtprod Bambix Zonnige Ontbijtpap licht volk
+04.01351      overname van vergelijkbaar product: 1351 Bakmix bruin glutenvrij Glutafin
+04.01356      overname van vergelijkbaar product: 1356 Voedingsbiscuit Liga Evergreen ov smaken
+04.01367      overname van vergelijkbaar product: 1367 Worst droge sucuk, Turks
+04.01381      overname van vergelijkbaar product: 1381 Drink soja- Original, Alpro
+04.01389      overname van vergelijkbaar product: 1389 Drop gem
+04.01391      overname van vergelijkbaar product: 1391 Spek mager, bereid
+04.01392      overname van vergelijkbaar product: 1392 Kipfilet, bereid
+04.01393      overname van vergelijkbaar product: 1393 Ui, gebakken
+04.01395      overname van vergelijkbaar product: 1395 Brood rogge- gem
+04.01396      overname van vergelijkbaar product: 1396 Rabarbermoes bereid, m suiker
+04.01398      overname van vergelijkbaar product: 1398 Kool boeren-, glas
+04.01400      overname van vergelijkbaar product: 1400 Runderbiefstuk, rauw
+04.01402      overname van vergelijkbaar product: 1402 Runderentrecote, rauw
+04.01404      overname van vergelijkbaar product: 1404 Runderbaklappen, rauw
+04.01405      overname van vergelijkbaar product: 1405 Gehakt runder-, rauw
+04.01406      overname van vergelijkbaar product: 1406 Runderklapstuk, rauw
+04.01407      overname van vergelijkbaar product: 1407 Lever runder-, rauw
+04.01408      overname van vergelijkbaar product: 1408 Runderpoelet, rauw
+04.01409      overname van vergelijkbaar product: 1409 Runderrollade, rauw
+04.01410      overname van vergelijkbaar product: 1410 Runderrosbief, rauw
+04.01411      overname van vergelijkbaar product: 1411 Runderschenkel, rauw
+04.01412      overname van vergelijkbaar product: 1412 Runderriblappen, rauw
+04.01413      overname van vergelijkbaar product: 1413 Runder doorregen lappen, rauw
+04.01414      overname van vergelijkbaar product: 1414 Rundersukadelappen, rauw
+04.01415      overname van vergelijkbaar product: 1415 Rundertartaar, rauw
+04.01416      overname van vergelijkbaar product: 1416 Rundertong, rauw
+04.01418      overname van vergelijkbaar product: 1418 Varkensfiletlappen, rauw
+04.01419      overname van vergelijkbaar product: 1419 Varkensfricandeau, rauw
+04.01420      overname van vergelijkbaar product: 1420 Varkenshamlappen, rauw
+04.01421      overname van vergelijkbaar product: 1421 Gehakt varkens-, rauw
+04.01422      overname van vergelijkbaar product: 1422 Varkenshaas, rauw
+04.01424      overname van vergelijkbaar product: 1424 Varkenshaaskarbonade, rauw
+04.01425      overname van vergelijkbaar product: 1425 Varkensschouderkarbonade, rauw
+04.01426      overname van vergelijkbaar product: 1426 Lever varkens-, rauw
+04.01427      overname van vergelijkbaar product: 1427 Varkenskrabbetjes, rauw
+04.01430      overname van vergelijkbaar product: 1430 Varkensschouderlappen, rauw
+04.01432      overname van vergelijkbaar product: 1432 Speklap, rauw
+04.01434      overname van vergelijkbaar product: 1434 Gehakt hoh, rauw
+04.01436      overname van vergelijkbaar product: 1436 Kalfsentrecote, rauw
+04.01439      overname van vergelijkbaar product: 1439 Lever kalfs-, rauw
+04.01441      overname van vergelijkbaar product: 1441 Kalfstong, rauw
+04.01443      overname van vergelijkbaar product: 1443 Lamsbout, rauw
+04.01444      overname van vergelijkbaar product: 1444 Gehakt lams-/schapen-, rauw
+04.01445      overname van vergelijkbaar product: 1445 Lamskarbonade, rauw
+04.01447      overname van vergelijkbaar product: 1447 Lamsschouder, rauw
+04.01454      overname van vergelijkbaar product: 1454 Biet rode zoetzuur, glas
+04.01455      overname van vergelijkbaar product: 1455 Aardappelpureepoeder gem
+04.01456      overname van vergelijkbaar product: 1456 Frites voorgebakken, diepvries onbereid
+04.01463      overname van vergelijkbaar product: 1463 Vruchtendrank 2 of meer vruchten
+04.01464      overname van vergelijkbaar product: 1464 Melk chocolade- halfvolle
+04.01468      overname van vergelijkbaar product: 1468 Bier zwaar >7 vol% alcohol
+04.01481      overname van vergelijkbaar product: 1481 Wafel rijst- naturel met (zee)zout
+04.01487      overname van vergelijkbaar product: 1487 Kaas Brie 60+
+04.01491      overname van vergelijkbaar product: 1491 Lasagne m saus en vlees, koelverse maaltijd
+04.01500      overname van vergelijkbaar product: 1500 Kruidenmix blok
+04.01501      overname van vergelijkbaar product: 1501 Kruidenmix m groente, zakje
+04.01502      overname van vergelijkbaar product: 1502 Yoghurt halfvolle
+04.01503      overname van vergelijkbaar product: 1503 Room slank- 25% vet, onbereid
+04.01511      overname van vergelijkbaar product: 1511 Hamburger vegetarisch, onbereid
+04.01517      overname van vergelijkbaar product: 1517 Saus op basis pakje <3% vet, bereid
+04.01519      overname van vergelijkbaar product: 1519 Bier alcoholvrij <0,1 vol% alcohol
+04.01521      overname van vergelijkbaar product: 1521 Limonade vruchten- light
+04.01522      overname van vergelijkbaar product: 1522 Frisdrank light, z cafeine
+04.01528      overname van vergelijkbaar product: 1528 Bouillon van blokje, bereid
+04.01530      overname van vergelijkbaar product: 1530 Boterproduct halfvolle
+04.01536      overname van vergelijkbaar product: 1536 Runderbiefstuk, bereid
+04.01539      overname van vergelijkbaar product: 1539 Runderbaklappen, bereid
+04.01540      overname van vergelijkbaar product: 1540 Gehakt runder-, rul gebakken
+04.01542      overname van vergelijkbaar product: 1542 Lever runder-, bereid
+04.01543      overname van vergelijkbaar product: 1543 Runderpoelet, bereid
+04.01545      overname van vergelijkbaar product: 1545 Runderrosbief, bereid
+04.01546      overname van vergelijkbaar product: 1546 Runderschenkel, bereid
+04.01547      overname van vergelijkbaar product: 1547 Runderriblappen, bereid
+04.01549      overname van vergelijkbaar product: 1549 Rundersukadelappen, bereid
+04.01550      overname van vergelijkbaar product: 1550 Rundertartaar, bereid
+04.01551      overname van vergelijkbaar product: 1551 Varkensbraadworst, bereid
+04.01553      overname van vergelijkbaar product: 1553 Varkensfricandeau, bereid
+04.01554      overname van vergelijkbaar product: 1554 Varkenshamlappen, bereid
+04.01556      overname van vergelijkbaar product: 1556 Varkenshaas, bereid
+04.01558      overname van vergelijkbaar product: 1558 Varkenshaaskarbonade, bereid
+04.01559      overname van vergelijkbaar product: 1559 Varkensschouderkarbonade, bereid
+04.01560      overname van vergelijkbaar product: 1560 Lever varkens-, bereid
+04.01564      overname van vergelijkbaar product: 1564 Varkensschouderlappen, bereid
+04.01566      overname van vergelijkbaar product: 1566 Speklap z zwoerd, bereid
+04.01568      overname van vergelijkbaar product: 1568 Gehaktbal hoh, bereid
+04.01570      overname van vergelijkbaar product: 1570 Kalfsentrecote, bereid
+04.01573      overname van vergelijkbaar product: 1573 Lever kalfs-, bereid
+04.01575      overname van vergelijkbaar product: 1575 Lamsbout, bereid
+04.01576      overname van vergelijkbaar product: 1576 Gehakt lams-, bereid
+04.01577      overname van vergelijkbaar product: 1577 Lamskarbonade, bereid
+04.01584      overname van vergelijkbaar product: 1584 Inktvisringen, gefrituurd
+04.01587      overname van vergelijkbaar product: 1587 Zalm kweek-, rauw
+04.01589      overname van vergelijkbaar product: 1589 Tonijn in olie, blik
+04.01590      overname van vergelijkbaar product: 1590 Tonijn in water, blik
+04.01601      overname van vergelijkbaar product: 1601 Gehaktbal runder-, z ei bereid
+04.01602      overname van vergelijkbaar product: 1602 Drink soja- diverse smaken, Alpro
+04.01606      overname van vergelijkbaar product: 1606 Haring, gerookt
+04.01608      overname van vergelijkbaar product: 1608 Makreel, bereid in magnetron z toev
+04.01611      overname van vergelijkbaar product: 1611 Forel, bereid in magnetron z toev
+04.01613      overname van vergelijkbaar product: 1613 Kabeljauw, bereid in magnetron z toev
+04.01617      overname van vergelijkbaar product: 1617 Schol, bereid in magnetron z toev
+04.01619      overname van vergelijkbaar product: 1619 Tong, bereid in magnetron z toev
+04.01624      overname van vergelijkbaar product: 1624 Paling, bereid in magnetron z toev
+04.01629      overname van vergelijkbaar product: 1629 Kuit vis-, gekleurd, glas
+04.01632      overname van vergelijkbaar product: 1632 Inktvis pijl-, bereid in magnetron z toev
+04.01634      overname van vergelijkbaar product: 1634 Kipfilet, rauw
+04.01635      overname van vergelijkbaar product: 1635 Kip z vel, bereid
+04.01641      overname van vergelijkbaar product: 1641 Kiprollade, bereid
+04.01645      overname van vergelijkbaar product: 1645 Kipburger, gepaneerd bereid
+04.01647      overname van vergelijkbaar product: 1647 Varkensribkarbonade, bereid
+04.01650      overname van vergelijkbaar product: 1650 Kaas geiten- verse
+04.01651      overname van vergelijkbaar product: 1651 Stroop gerstemout-
+04.01655      overname van vergelijkbaar product: 1655 Diksap, geconcentreerd
+04.01656      overname van vergelijkbaar product: 1656 Sap wortel-
+04.01662      overname van vergelijkbaar product: 1662 Siroop vruchtenlimonade- citroen/sin, Spontin
+04.01669      overname van vergelijkbaar product: 1669 Varkensvlees >15 g vet, rauw gem
+04.01680      overname van vergelijkbaar product: 1680 Aardappelkroketten, diepvries bereid
+04.01699      overname van vergelijkbaar product: 1699 Koekje kaas-
+04.01720      overname van vergelijkbaar product: 1720 Vla volle overige smaken
+04.01723      overname van vergelijkbaar product: 1723 Kaas 20+
+04.01726      overname van vergelijkbaar product: 1726 Kaas 40+ Leidse/Friese nagel-
+04.01779      overname van vergelijkbaar product: 1779 Knackebrod volkoren
+04.01788      overname van vergelijkbaar product: 1788 Varkensribkarbonade, rauw
+04.01790      overname van vergelijkbaar product: 1790 Varkensschnitzel ongepaneerd, rauw
+04.01791      overname van vergelijkbaar product: 1791 Room spuitbus m suiker
+04.01809      overname van vergelijkbaar product: 1809 Kaas 45+
+04.01811      overname van vergelijkbaar product: 1811 Kousenband, gekookt
+04.01824      overname van vergelijkbaar product: 1824 Lasagne m saus en vlees, diepvriesmaaltijd
+04.01832      overname van vergelijkbaar product: 1832 Yoghurtdrank Vifit vruchten
+04.01837      overname van vergelijkbaar product: 1837 Nasi goreng koelverse maaltijd
+04.01848      overname van vergelijkbaar product: 1848 Margarine, pakje, Blue Band
+04.01867      overname van vergelijkbaar product: 1867 Vet frituur hard, pakje, Albert Heijn
+04.01870      overname van vergelijkbaar product: 1870 Vet frituur, vloeibaar, fles, Diamant
+04.01878      overname van vergelijkbaar product: 1878 Vruchtendrank Roosvicee Multivit
+04.01879      overname van vergelijkbaar product: 1879 Aroma strooi- Na-
+04.01885      overname van vergelijkbaar product: 1885 Water gem
+04.01892      overname van vergelijkbaar product: 1892 Paksoi, rauw
+04.01933      overname van vergelijkbaar product: 1933 Sap tomatengroenten-, Appelsientje Tomaat-Groente
+04.01937      overname van vergelijkbaar product: 1937 Chips tortilla naturel
+04.01953      overname van vergelijkbaar product: 1953 Plantaardige yoghurtvariatie m vruchten/vanille, Alpro
+04.01956      overname van vergelijkbaar product: 1956 Halvarineproduct Becel pro-activ
+04.01962      overname van vergelijkbaar product: 1962 Hagelslag chocolade- melk
+04.01963      overname van vergelijkbaar product: 1963 Hagelslag chocolade- puur
+04.01964      overname van vergelijkbaar product: 1964 Pasta chocolade- melk
+04.02004      overname van vergelijkbaar product: 2004 Ontbijtproduct All-Bran Fruit 'n Fibre, Kellogg's
+04.02031      overname van vergelijkbaar product: 2031 Quorn stukjes, onbereid
+04.02057      overname van vergelijkbaar product: 2057 Lamsvlees <10 g vet rauw gem
+04.02058      overname van vergelijkbaar product: 2058 Schapenvlees <10 g vet gem, rauw
+04.02059      overname van vergelijkbaar product: 2059 Halvarine 40% vet <17 g verz vetz gezouten
+04.02062      overname van vergelijkbaar product: 2062 Margarine 80% vet < 24 g verz vetz gezouten
+04.02066      overname van vergelijkbaar product: 2066 Bak- en braadvet vloeib 97% vet, <17g verz vetz
+04.02068      overname van vergelijkbaar product: 2068 Vet frituur- vloeibaar
+04.02072      overname van vergelijkbaar product: 2072 Margarineproduct 60% vet, <17 g verz vetz ongez
+04.02077      overname van vergelijkbaar product: 2077 Margarine vloeibaar 80% vet, <17 g verz vetz gezouten
+04.02081      overname van vergelijkbaar product: 2081 Ontbijtproduct Cornflakes
+04.02106      overname van vergelijkbaar product: 2106 Frites, bereid m hard vet
+04.02109      overname van vergelijkbaar product: 2109 Cassave, gekookt
+04.02112      overname van vergelijkbaar product: 2112 Bataat zoete, gekookt
+04.02134      overname van vergelijkbaar product: 2134 Limonade vruchten-, Dubbelfrisss
+04.02136      overname van vergelijkbaar product: 2136 Limonade vruchten-, Dubbelfrisss light
+04.02138      overname van vergelijkbaar product: 2138 Limonade vruchten-, Spa&Fruit koolzuurvrij
+04.02220      overname van vergelijkbaar product: 2220 Weidrank Taksi m suiker en zoetstof
+04.02227      overname van vergelijkbaar product: 2227 Biscuit fourre
+04.02229      overname van vergelijkbaar product: 2229 Cracker VitaLU
+04.02232      overname van vergelijkbaar product: 2232 Biscuit fruit-
+04.02254      overname van vergelijkbaar product: 2254 Yoghurtdrank m zoetstof
+04.02256      overname van vergelijkbaar product: 2256 Yoghurtdrank Yomild drink vruchten
+04.02257      overname van vergelijkbaar product: 2257 Drinkontbijt Goede Morgen original
+04.02262      overname van vergelijkbaar product: 2262 Plantaardige variatie op room, Alpro Cuisine
+04.02265      overname van vergelijkbaar product: 2265 Melkdrank Yakult light
+04.02266      overname van vergelijkbaar product: 2266 Chocolade witte
+04.02268      overname van vergelijkbaar product: 2268 Creme fraiche halfvol
+04.02277      overname van vergelijkbaar product: 2277 Brood Blue Band Goede Start Witbrood
+04.02278      overname van vergelijkbaar product: 2278 Yoghurt volle m granen/muesli Activia
+04.02282      overname van vergelijkbaar product: 2282 Valess schnitzel, onbereid
+04.02290      overname van vergelijkbaar product: 2290 Kokosmelk
+04.02293      overname van vergelijkbaar product: 2293 Tomaat in blik
+04.02296      overname van vergelijkbaar product: 2296 Koolvis (Atlantisch), rauw
+04.02297      overname van vergelijkbaar product: 2297 Tonijn, rauw
+04.02299      overname van vergelijkbaar product: 2299 Tilapia, rauw
+04.02300      overname van vergelijkbaar product: 2300 Worst rook- magere, gekookt
+04.02315      overname van vergelijkbaar product: 2315 Pomtajer, bereid z vet
+04.02339      overname van vergelijkbaar product: 2339 Vink runder-, rauw
+04.02353      overname van vergelijkbaar product: 2353 Brood muesli- obv meel/volkorenmeel
+04.02355      overname van vergelijkbaar product: 2355 Brood suiker- wit
+04.02366      overname van vergelijkbaar product: 2366 Muesli krokante naturel/m fruit
+04.02370      overname van vergelijkbaar product: 2370 Zoutje luchtig mais/tarwebasis
+04.02434      overname van vergelijkbaar product: 2434 Limonade vruchten-, Wicky
+04.02471      overname van vergelijkbaar product: 2471 Mayonaiseproduct ca 35% olie
+04.02518      overname van vergelijkbaar product: 2518 Kaas geiten- hard
+04.02524      overname van vergelijkbaar product: 2524 Peper Spaanse rauw
+04.02548      overname van vergelijkbaar product: 2548 Kroket diepvries, onbereid
+04.02549      overname van vergelijkbaar product: 2549 Loempia diepvries, onbereid
+04.02557      overname van vergelijkbaar product: 2557 Margarine 80% vet > 24 g verz vetz ongezouten
+04.02558      overname van vergelijkbaar product: 2558 Margarine vlb 80% vet< 17 g verz vetz ongezouten
+04.02635      overname van vergelijkbaar product: 2635 Vruchtendrank m zuivel, Wicky fruitzacht rood fruit
+04.02726      overname van vergelijkbaar product: 2726 Wortel bospeen, rauw
+04.02727      overname van vergelijkbaar product: 2727 Wortel bospeen, gekookt
+04.02737      overname van vergelijkbaar product: 2737 Ui sla-, rauw
+04.02739      overname van vergelijkbaar product: 2739 Komkommer, m schil rauw
+04.02744      overname van vergelijkbaar product: 2744 Aardappelen, Nicola, z schil gekookt
+04.02747      overname van vergelijkbaar product: 2747 Aardappelen, kruimig, z schil gekookt gem
+04.02748      overname van vergelijkbaar product: 2748 Peer, m schil
+04.02749      overname van vergelijkbaar product: 2749 Druiven, blauwe, m schil
+04.02751      overname van vergelijkbaar product: 2751 Appel, Elstar, m schil
+04.02752      overname van vergelijkbaar product: 2752 Appel, Elstar, z schil
+04.02753      overname van vergelijkbaar product: 2753 Appel, Jonagold, m schil
+04.02756      overname van vergelijkbaar product: 2756 Kaas Goudse 48+ jong
+04.02757      overname van vergelijkbaar product: 2757 Kaas Goudse 48+ jong belegen
+04.02758      overname van vergelijkbaar product: 2758 Kaas Goudse 48+ belegen
+04.02759      overname van vergelijkbaar product: 2759 Kaas Goudse 48+ oud
+04.02764      overname van vergelijkbaar product: 2764 Speculaas, z roomboter
+04.02766      overname van vergelijkbaar product: 2766 Worst rook- industrieel, gekookt
+04.02770      overname van vergelijkbaar product: 2770 Ei kippen-, scharrel, gekookt
+04.02771      overname van vergelijkbaar product: 2771 Ei kippen-, biologisch, rauw
+04.02779      overname van vergelijkbaar product: 2779 Pasta witte z ei, gekookt
+04.02783      overname van vergelijkbaar product: 2783 Brood meergranen- m div zaden obv bloem
+04.02784      overname van vergelijkbaar product: 2784 Brood meergranen- m div zaden obv meel
+04.02809      overname van vergelijkbaar product: 2809 Muesli vruchten-
+04.02811      overname van vergelijkbaar product: 2811 Brood volkoren- fijn
+04.02819      overname van vergelijkbaar product: 2819 Zout zonder toegevoegd jodium
+04.02889      overname van vergelijkbaar product: 2889 Kipnuggets, onbereid
+04.02903      overname van vergelijkbaar product: 2903 Vink runder- bereid
+04.02907      overname van vergelijkbaar product: 2907 Spek rook- mager bereid
+04.02914      overname van vergelijkbaar product: 2914 Kalfslappen mager bereid
+04.02923      overname van vergelijkbaar product: 2923 Chips naturel
+04.02924      overname van vergelijkbaar product: 2924 Chips paprika ea smaken
+04.02995      overname van vergelijkbaar product: 2995 Kaas smeer- 45+
+04.03023      overname van vergelijkbaar product: 3023 Kalfsvleesreepjes rauw
+04.03025      overname van vergelijkbaar product: 3025 Spek rook- mager rauw
+04.03026      overname van vergelijkbaar product: 3026 Speklap bereid
+04.03034      overname van vergelijkbaar product: 3034 Gehakt mager runder- rauw
+04.03045      overname van vergelijkbaar product: 3045 Kaas schapen-/geiten- Turkse 50+, blik
+04.03047      overname van vergelijkbaar product: 3047 Yoghurt Turkse 10% vet
+04.03081      overname van vergelijkbaar product: 3081 Bakmix wit glutenvrij Schar
+04.03086      overname van vergelijkbaar product: 3086 Paksoi, gekookt
+04.03127      overname van vergelijkbaar product: 3127 Pastinaak, rauw
+04.03134      overname van vergelijkbaar product: 3134 Sopropo, gekookt
+04.03153      overname van vergelijkbaar product: 3153 Quinoa, rauw
+04.03154      overname van vergelijkbaar product: 3154 Quinoa, gekookt
+04.03155      overname van vergelijkbaar product: 3155 Kaas 30+ jong
+04.03163      overname van vergelijkbaar product: 3163 Kaas 30+ jong belegen
+04.03164      overname van vergelijkbaar product: 3164 Kaas 30+ belegen
+04.03187      overname van vergelijkbaar product: 3187 Brood tarwe- bereid met broodmix
+04.03199      overname van vergelijkbaar product: 3199 Ansjovis, rauw
+04.03318      overname van vergelijkbaar product: 3318 Koolvis (Alaska), rauw
+04.03325      overname van vergelijkbaar product: 3325 Wafel rijst- naturel zonder zout
+04.03449      overname van vergelijkbaar product: 3449 Olie koolzaad-
+05.00001      logische redenering, bepaald als: Totaal eiwit = 0 --> pl en drl eiwit = 0
+05.00002      logische redenering, bepaald als: Totaal vet = 0 --> vetzuren zijn 0
+05.00003      logische redenering, bepaald als: Plantaardig product --> chol = 0
+05.00004      logische redenering, bepaald als: KH poly = KH totaal - KH MD
+05.00005      logische redenering, bepaald als: Geen polyolen toegevoegd
+05.00006      logische redenering, bepaald als: Plantaardig product --> eiwit tot. = eiwit pl.
+05.00007      logische redenering, bepaald als: Alcoholvrij product
+05.00008      logische redenering, bepaald als: Geen vleesbevattend product --> ijzer haem = 0
+05.00009      logische redenering, bepaald als: KH MD = KH totaal - KH poly
+05.00010      logische redenering, bepaald als: Water = 100 -eiw -vet -KH -vezel -alc- as- org zur
+05.00011      logische redenering, bepaald als: KH totaal = 0 --> KH MD = 0
+05.00012      logische redenering, bepaald als: Dierlijk product --> eiwit tot. = eiwit drl.
+05.00014      logische redenering, bepaald als: Heldere vloeistof --> vezel = 0
+05.00015      logische redenering, bepaald als: Dierlijk product --> vezel = 0
+05.00016      logische redenering, bepaald als: Pure melkproducten --> KH totaal = KH MD
+05.00017      logische redenering, bepaald als: Pure vlees of visprod. --> Vit C = 0 (muv lever)
+05.00018      logische redenering, bepaald als: Water = 100 - droge stof
+05.00019      logische redenering, bepaald als: Eovet = totv -vv -mov -transv
+05.00020      logische redenering, bepaald als: Haem-ijzer=0 --> totaal ijzer= non-haem-ijzer
+05.00021      logische redenering, bepaald als: Plantaardig produkt--> totaal ijzer = non haem
+05.00023      logische redenering, bepaald als: Mov = 0 --> linolzuur = 0
+05.00024      logische redenering, bepaald als: Plantaardig product --> Vit D = 0
+05.00027      logische redenering, bepaald als: Plantaardig product --> retinol=0
+05.00028      logische redenering, bepaald als: Product bevat geen polysacchariden
+05.00029      logische redenering, bepaald als: Dierlijk product --> eiwit pl. = 0
+05.00030      logische redenering, bepaald als: Plantaardig product --> eiwit drl. = 0
+05.00037      logische redenering, bepaald als: Movet = totv - eov - vv - transv
+05.00039      logische redenering, bepaald als: Water bevat geen vitaminen
+05.00040      logische redenering, bepaald als: KH tot. = 100 -eiwit -vet -water -vezel -alc. -as
+05.00041      logische redenering, bepaald als: Vvet = totv - mov - eov - transv
+05.00042      logische redenering, bepaald als: Eiwit pl. = eiwit tot. - eiwit drl.
+05.00043      logische redenering, bepaald als: Eiwit drl. = eiwit tot. - eiwit pl.
+05.00044      logische redenering, bepaald als: Non haemijzer = totaal ijzer - haemijzer
+05.00047      logische redenering, bepaald als: Ingrediënten v product bevatten dit nutriënt niet
+05.00048      logische redenering, bepaald als: Plantaardig product --> Vit B12 = 0
+05.00049      logische redenering, bepaald als: KH MD tot. = gluc+galact+fruct+lact+malt+sach
+05.00050      logische redenering, bepaald als: Droge stof = 100 - water
+05.00051      logische redenering, bepaald als: Transv = totv - vv - eov- mov
+05.00052      logische redenering, bepaald als: Totaal KH = KH poly + KH MD
+05.00053      logische redenering, bepaald als: Vet = 0 --> retinol = 0
+05.00054      logische redenering, bepaald als: n-6 = 0 --> linolzuur = 0
+05.00055      logische redenering, bepaald als: n-3 = 0 --> ALA / EPA / DHA = 0
+05.00056      logische redenering, bepaald als: n-3 = ala --> EPA / DHA = 0
+05.00057      logische redenering, bepaald als: Movz = n-6 --> n-3 = 0
+05.00058      logische redenering, bepaald als: Movz = 0 --> n-3 / n-6 = 0
+05.00064      logische redenering, bepaald als: Vlees --> bevat geen koolhydraten
+06.00005      berekening obv vergelijkbaar product: 5 Rijst witte, rauw
+06.00009      berekening obv vergelijkbaar product: 9 Asperge, rauw
+06.00010      berekening obv vergelijkbaar product: 10 Aubergine, rauw
+06.00017      berekening obv vergelijkbaar product: 17 Cantharel, rauw
+06.00021      berekening obv vergelijkbaar product: 21 Kool Chinese, rauw
+06.00027      berekening obv vergelijkbaar product: 27 Komkommer, z schil rauw
+06.00038      berekening obv vergelijkbaar product: 38 Raapstelen, rauw
+06.00040      berekening obv vergelijkbaar product: 40 Rabarber, rauw
+06.00046      berekening obv vergelijkbaar product: 46 Sla krop-, rauw
+06.00061      berekening obv vergelijkbaar product: 61 Tomaat gewoon, gekookt
+06.00062      berekening obv vergelijkbaar product: 62 Bonen tuin-, rauw
+06.00073      berekening obv vergelijkbaar product: 73 Kool zuur-, rauw
+06.00075      berekening obv vergelijkbaar product: 75 Groente soep-, rauw
+06.00085      berekening obv vergelijkbaar product: 85 Eidooier kippen-, rauw
+06.00086      berekening obv vergelijkbaar product: 86 Eidooier kippen-, gekookt
+06.00094      berekening obv vergelijkbaar product: 94 Nier, rauw
+06.00097      berekening obv vergelijkbaar product: 97 Rundvlees <5 g vet, rauw
+06.00114      berekening obv vergelijkbaar product: 114 Vis mager 0-5 g vet gem, rauw
+06.00121      berekening obv vergelijkbaar product: 121 Aardappelpuree, bereid m hv melk m marg
+06.00135      berekening obv vergelijkbaar product: 135 Doperwten zeer fijn/extra fijn, blik/glas
+06.00148      berekening obv vergelijkbaar product: 148 Aardbeien
+06.00152      berekening obv vergelijkbaar product: 152 Bessen blauwe
+06.00153      berekening obv vergelijkbaar product: 153 Bessen rode
+06.00154      berekening obv vergelijkbaar product: 154 Bessen zwarte
+06.00155      berekening obv vergelijkbaar product: 155 Bessen bos-
+06.00158      berekening obv vergelijkbaar product: 158 Citroen
+06.00161      berekening obv vergelijkbaar product: 161 Frambozen
+06.00163      berekening obv vergelijkbaar product: 163 Kersen
+06.00165      berekening obv vergelijkbaar product: 165 Mandarijn
+06.00168      berekening obv vergelijkbaar product: 168 Peer, z schil
+06.00169      berekening obv vergelijkbaar product: 169 Perzik, z schil
+06.00170      berekening obv vergelijkbaar product: 170 Pruimen, m schil
+06.00194      berekening obv vergelijkbaar product: 194 Vruchten op siroop gem, blik/glas
+06.00220      berekening obv vergelijkbaar product: 220 Bloem tarwe- patent
+06.00233      berekening obv vergelijkbaar product: 233 Brood krenten-
+06.00258      berekening obv vergelijkbaar product: 258 Koekje gem
+06.00270      berekening obv vergelijkbaar product: 270 Melk rauwe
+06.00271      berekening obv vergelijkbaar product: 271 Melk koffie- mov verrijkt, Becel
+06.00284      berekening obv vergelijkbaar product: 284 Yoghurt magere m vruchten
+06.00286      berekening obv vergelijkbaar product: 286 Melk halfvolle
+06.00310      berekening obv vergelijkbaar product: 310 Boter, ongezouten
+06.00321      berekening obv vergelijkbaar product: 321 Gehakt, blik
+06.00340      berekening obv vergelijkbaar product: 340 Runderrookvlees
+06.00348      berekening obv vergelijkbaar product: 348 Garnalen, Hollandse, gekookt
+06.00353      berekening obv vergelijkbaar product: 353 Makreel, rauw
+06.00355      berekening obv vergelijkbaar product: 355 Sardines in olie, blik
+06.00410      berekening obv vergelijkbaar product: 410 Sap sinaasappel-, gepasteuriseerd
+06.00445      berekening obv vergelijkbaar product: 445 Jam
+06.00458      berekening obv vergelijkbaar product: 458 Saus sla- 25% olie
+06.00465      berekening obv vergelijkbaar product: 465 Saus frites- 25% olie
+06.00471      berekening obv vergelijkbaar product: 471 Nasi goreng m ei
+06.00558      berekening obv vergelijkbaar product: 558 Selderij knol-, rauw
+06.00561      berekening obv vergelijkbaar product: 561 Postelein, rauw
+06.00567      berekening obv vergelijkbaar product: 567 Worst boterham-
+06.00752      berekening obv vergelijkbaar product: 752 Winegum/fruitgom
+06.00777      berekening obv vergelijkbaar product: 777 Varkensvlees 10-19 g vet, bereid (non-actief)
+06.00863      berekening obv vergelijkbaar product: 863 Yoghurt volle m vruchten
+06.00917      berekening obv vergelijkbaar product: 917 Kwark vruchten- halfvolle
+06.00965      berekening obv vergelijkbaar product: 965 Groente winter- gem, rauw
+06.01016      berekening obv vergelijkbaar product: 1016 Cracker cream- Na-
+06.01098      berekening obv vergelijkbaar product: 1098 Inktvis, rauw
+06.01306      berekening obv vergelijkbaar product: 1306 Kip soep- m vel, rauw
+06.01356      berekening obv vergelijkbaar product: 1356 Voedingsbiscuit Liga Evergreen ov smaken
+06.01405      berekening obv vergelijkbaar product: 1405 Gehakt runder-, rauw
+06.01410      berekening obv vergelijkbaar product: 1410 Runderrosbief, rauw
+06.01411      berekening obv vergelijkbaar product: 1411 Runderschenkel, rauw
+06.01419      berekening obv vergelijkbaar product: 1419 Varkensfricandeau, rauw
+06.01427      berekening obv vergelijkbaar product: 1427 Varkenskrabbetjes, rauw
+06.01430      berekening obv vergelijkbaar product: 1430 Varkensschouderlappen, rauw
+06.01432      berekening obv vergelijkbaar product: 1432 Speklap, rauw
+06.01434      berekening obv vergelijkbaar product: 1434 Gehakt hoh, rauw
+06.01437      berekening obv vergelijkbaar product: 1437 Vink kalfs-, rauw
+06.01438      berekening obv vergelijkbaar product: 1438 Kalfsfricandeau, rauw
+06.01440      berekening obv vergelijkbaar product: 1440 Kalfsschenkel, rauw
+06.01443      berekening obv vergelijkbaar product: 1443 Lamsbout, rauw
+06.01444      berekening obv vergelijkbaar product: 1444 Gehakt lams-/schapen-, rauw
+06.01445      berekening obv vergelijkbaar product: 1445 Lamskarbonade, rauw
+06.01446      berekening obv vergelijkbaar product: 1446 Lamszadel, rauw
+06.01447      berekening obv vergelijkbaar product: 1447 Lamsschouder, rauw
+06.01634      berekening obv vergelijkbaar product: 1634 Kipfilet, rauw
+06.01642      berekening obv vergelijkbaar product: 1642 Kiprollade, rauw
+06.02157      berekening obv vergelijkbaar product: 2157 Pasta volkoren, gekookt
+06.02299      berekening obv vergelijkbaar product: 2299 Tilapia, rauw
+06.02766      berekening obv vergelijkbaar product: 2766 Worst rook- industrieel, gekookt
+06.02779      berekening obv vergelijkbaar product: 2779 Pasta witte z ei, gekookt
+07.00001      fabrikant: NIZO
+07.00002      fabrikant: Normalisatieproject
+07.00003      fabrikant: Waterleidingbedr. Midden Ned.
+07.00004      fabrikant: Van der Bergh Nederland
+07.00005      fabrikant: Calvé, Van den Bergh Ned.
+07.00006      fabrikant: Nestlé Nederland
+07.00007      fabrikant: Nutricia Nederland
+07.00008      fabrikant: LU General Biscuits
+07.00009      fabrikant: Oosterhoutse Zoetwarenfabriek
+07.00011      fabrikant: Mars
+07.00013      fabrikant: Sara Lee/Douwe Egberts
+07.00014      fabrikant: Alfred Benzon
+07.00015      fabrikant: Heinz
+07.00017      fabrikant: Campina Melkunie
+07.00018      fabrikant: Iglo (was Iglo-Mora)
+07.00019      fabrikant: Friso Kindervoeding
+07.00020      fabrikant: RBF Leaf
+07.00021      fabrikant: Hoepman Suikerwerkfabriek
+07.00022      fabrikant: Kon. De Ruijter (Roosvicee,KC)
+07.00023      fabrikant: Koopmans Consumentenprod
+07.00024      fabrikant: United Biscuits
+07.00025      fabrikant: Campina Institute
+07.00026      fabrikant: Hak bv
+07.00027      fabrikant: Friesland Foods (Riedel+Fr Vl)
+07.00028      fabrikant: Honig Merkartikelen
+07.00029      fabrikant: Lima
+07.00030      fabrikant: Danone Nederland
+07.00031      fabrikant: Unilever Benelux
+07.00033      fabrikant: Kellogg's Nederland
+07.00034      fabrikant: Koninklijke Peijnenburg
+07.00035      fabrikant: Tendem
+07.00037      fabrikant: Abbott Nutrition
+07.00039      fabrikant: Friesland Coberco Dairy Foods
+07.00041      fabrikant: Conimex Best Foods
+07.00046      fabrikant: Zonnatura / Boas
+07.00047      fabrikant: Kok - Ede
+07.00048      fabrikant: Sleegers Vleeswaren
+07.00049      fabrikant: Winters
+07.00051      fabrikant: Campbell's
+07.00052      fabrikant: Koeleman Conserven
+07.00053      fabrikant: Boas
+07.00055      fabrikant: Soubry
+07.00056      fabrikant: Novartis Consumer Health
+07.00057      fabrikant: Gist-Brocades
+07.00058      fabrikant: Pietercil_Barends
+07.00059      fabrikant: Sonnema
+07.00061      fabrikant: Chaudfontaine Nederland
+07.00063      fabrikant: Kernpharm
+07.00066      fabrikant: VNR Reformproducten
+07.00067      fabrikant: Bolletje
+07.00071      fabrikant: Dr Oetker Nederland
+07.00072      fabrikant: Hero Nederland BV
+07.00074      fabrikant: Rademaker
+07.00076      fabrikant: Tarvo Meelfabriek
+07.00084      fabrikant: Doesburgse mosterdfabriek
+07.00105      fabrikant: Menken Polderland
+07.00107      fabrikant: Alpro Soja Nederland
+07.00109      fabrikant: Westland Kaas Groep
+07.00111      fabrikant: Kühne Nederland
+07.00113      fabrikant: Frank Li
+07.00114      fabrikant: Chambourcy
+07.00115      fabrikant: Aviko
+07.00116      fabrikant: Albert Heijn
+07.00117      fabrikant: Johma Nederland
+07.00121      fabrikant: Reforma Veenendaal
+07.00122      fabrikant: Remia
+07.00126      fabrikant: Nutricia/Lyemf
+07.00127      fabrikant: Menken van Grieken
+07.00128      fabrikant: Kon. Eru kaasfabriek
+07.00129      fabrikant: Kon. Kaasfabriek Eijssen
+07.00130      fabrikant: Baars kaas
+07.00131      fabrikant: Boerink Melkblok
+07.00132      fabrikant: Stegeman
+07.00134      fabrikant: Bakker Lekkerkerk
+07.00135      fabrikant: Zwanenberg food group
+07.00136      fabrikant: Mead Johnson
+07.00138      fabrikant: Aldi
+07.00140      fabrikant: Mona
+07.00141      fabrikant: Yakult Netherlands
+07.00142      fabrikant: Leaf Holland
+07.00145      fabrikant: Kon. De Ruijter (choc.prod.)
+07.00146      fabrikant: Tivall Nederland
+07.00148      fabrikant: Fresenius Kabi
+07.00150      fabrikant: United Soft Drinks
+07.00152      fabrikant: Marlow Foods (Quorn)
+07.00154      fabrikant: Van der Meulen Meesterbakkers
+07.00155      fabrikant: CIV Superunie
+07.00156      fabrikant: Laurus Nederland
+07.00157      fabrikant: Natudis
+07.00159      fabrikant: Nutrition&Santé
+07.00160      fabrikant: Sorgente
+07.00161      fabrikant: De Burg
+07.00162      fabrikant: Smiths Food Group
+07.00164      fabrikant: Ad van Geloven (incl Mora)
+07.00168      fabrikant: Kruidvat
+07.00169      fabrikant: Schuitema
+07.00171      fabrikant: PepsiCo
+07.00174      fabrikant: Lidl Nederland
+07.00175      fabrikant: Bickery Food Group
+07.00177      fabrikant: Aldi
+07.00179      fabrikant: Refresco Holding
+07.00180      fabrikant: Vrumona
+07.00181      fabrikant: Storck
+07.00182      fabrikant: Lotus Bakeries
+07.00186      fabrikant: BeDo Imex
+07.00190      fabrikant: Enkco Foodgroup
+07.00192      fabrikant: Hollandia Matzes
+07.00193      fabrikant: Barilla Netherlands
+07.00196      fabrikant: Haribo Nederland
+07.00197      fabrikant: Surango
+07.00199      fabrikant: Red Bull Nederland
+07.00203      fabrikant: Coca-Cola Nederland
+07.00209      fabrikant: Pombar
+07.00215      fabrikant: Elite Salades & Snacks
+07.00220      fabrikant: Kraft Foods
+07.00222      fabrikant: Merk bekend,fabrikant onbekend
+07.00223      fabrikant: Wander
+07.00225      fabrikant: Suiker Unie
+07.00226      fabrikant: Smilde Bakery
+07.00230      fabrikant: Van der Breggen
+07.00231      fabrikant: Baileys
+07.00233      fabrikant: Arla Foods
+07.00234      fabrikant: Lutece
+07.00235      fabrikant: Brinkers Food
+07.00236      fabrikant: Peeters Producten
+07.00237      fabrikant: Ouwehand Visverwerking
+07.00239      fabrikant: Keesmakers
+07.00240      fabrikant: FrieslandCampina
+07.00241      fabrikant: Bel Nederland
+07.00242      fabrikant: Fanofinefood
+07.00244      fabrikant: Grunschnabel Ice Laboratories
+07.00245      fabrikant: Zeelandia
+07.00246      fabrikant: Donkers chocolade&suikerwerken
+07.00250      fabrikant: Dr. Schär
+07.00251      fabrikant: Lufo Int Trading
+07.00252      fabrikant: Slippens, vleeswaren
+07.00254      fabrikant: Luiten, vleeswaren
+07.00256      fabrikant: Bonduelle Benelux
+07.00258      fabrikant: Tranova
+07.00261      fabrikant: Heineken Nederland Supply
+07.00264      fabrikant: Bakkerij 't Stoepje
+07.00272      fabrikant: Jumbo supermarkten
+07.00273      fabrikant: Geska Glarius
+07.00275      fabrikant: Provamel comm VA
+07.00276      fabrikant: Ocean Spray
+07.00281      fabrikant: Aviateur Banketbakkerijen
+07.00282      fabrikant: Frumarco Frutesse
+07.00284      fabrikant: Henri van de Bilt
+07.00285      fabrikant: Nestlé Health Science
+07.00286      fabrikant: HJ Heinz
+07.00287      fabrikant: Geurts conservenfabriek
+07.00288      fabrikant: FrieslandCampina Cheese
+07.00289      fabrikant: John West
+07.00294      fabrikant: Patisserie Unique
+07.00295      fabrikant: Gb Plange
+07.00299      fabrikant: Grolsche Bierbrouwerij BV
+07.00302      fabrikant: Sligro Food Group Nederland
+07.00310      fabrikant: Mondelez Nederland B.V.
+07.00315      fabrikant: Smilde Foods BV
+07.00316      fabrikant: Vandemoortele
+07.00319      fabrikant: Tartex
+08.00000      receptuurberekening, voor meer informatie zie achtergrondinformatie op website
+09.00000      inschatting deskundigen
+12.00101      berekend als: (gewogen) gemiddelde van meerdere analyses
+12.00102      berekend als: (gewogen) gemiddelde van meerdere artikelen
+12.00103      berekend als: (gewogen) gemiddelde van meerdere gegevens uit voedingsmiddelentabellen/boeken
+12.00107      berekend als: (gewogen) gemiddelde van meerdere fabrikantgegevens
+12.00117      berekend als: (gewogen) gemiddelde van (meerdere) analyses en fabrikantgegevens
+12.00301      berekend als: mediaan van meerdere analyses
+12.00307      berekend als: mediaan van meerdere fabrikantgegevens
+12.00317      berekend als: mediaan van meerdere (meerdere) analyses en fabrikantgegevens
+13.00000      berekend obv andere voedingsstoffen, voor meer informatie zie achtergrondinformatie op website
